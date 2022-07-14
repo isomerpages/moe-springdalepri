@@ -17,3 +17,9 @@ third_nav_title: Our Family
 |**P1 Alertness**|**Mdm Sandy Chiok** <br>[chiok_xue_ting@moe.edu.sg](mailto:chiok_xue_ting@moe.edu.sg)<br>**Mrs Susan Teo**  <br> [lim_ah_gek@moe.edu.sg](mailto:lim_ah_gek@moe.edu.sg)
 |**P1 Enthusiasm**|**Mdm Norrasyidah** <br>[norrasyidah_mohamed_yusof@moe.edu.sg](mailto:norrasyidah_mohamed_yusof@moe.edu.sg)<br>**Ms Hsu Chen**  <br>[hsu_chen@moe.edu.sg](hsu_chen@moe.edu.sg)
 |**P1 Loyalty**|**Mrs Erika Khoo** <br>[yap_shi_mei_erika@moe.edu.sg](mailto:yap_shi_mei_erika@moe.edu.sg)<br>**Miss Chen Shihui**<br>[chen_shihui@moe.edu.sg](mailto:chen_shihui@moe.edu.sg)
+
+**Primary 1 Teachers**
+
+| Class| Form Teacher | 
+| -------- | -------- | 
+|**P2 Sincerity**|**Ms Uma Maheswari**<br>[uma_maheswari_velusamy@moe.edu.sg](mailto:uma_maheswari_velusamy@moe.edu.sg)<br>**Mdm Serene Tiang** <br>[tiang_tsuiling_serene@moe.edu.sg](mailto:tiang_tsuiling_serene@moe.edu.sg)
