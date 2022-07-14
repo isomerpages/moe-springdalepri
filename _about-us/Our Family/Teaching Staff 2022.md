@@ -42,3 +42,4 @@ third_nav_title: Our Family
 |**P3 Resourcefulness**|**Ms Sunita**  <br>[sunita_mohandas@moe.edu.sg](mailto:sunita_mohandas@moe.edu.sg)<br>**Ms Thong Wei Wei**  <br>[thong_wei_wei@moe.edu.sg](mailto:thong_wei_wei@moe.edu.sg)
 |**P3 Initiative**|**Mdm Teng Yan Ling**<br>[teng_yan_ling@moe.edu.sg](mailto:teng_yan_ling@moe.edu.sg)  <br>**Ms Angelina Huang**  <br>[angelina_huang@moe.edu.sg](mailto:angelina_huang@moe.edu.sg)
 |**P3 Generosity**|**Mr Sean Teng**     <br>[teng_ta_shen_sean@moe.edu.sg](mailto:teng_ta_shen_sean@moe.edu.sg)<br>**Ms Luk Kar Wing Carina**  <br>[luk_Kar_wing_carina@moe.edu.sg](mailto:luk_Kar_wing_carina@moe.edu.sg)
+|**P3 Discernment**|**Mrs Song Wei Ni**  <br>[chong_wei_ni@moe.edu.sg](mailto:chong_wei_ni@moe.edu.sg)<br>**Mr Sufian**  <br>[muhammad_sufian_kamalzaman@moe.edu.sg](mailto:muhammad_sufian_kamalzaman@moe.edu.sg)
