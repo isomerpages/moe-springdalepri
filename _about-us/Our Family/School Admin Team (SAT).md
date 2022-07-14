@@ -23,3 +23,20 @@ third_nav_title: Our Family
 |**Mdm Lin Zelan**|Operations Support Officer
 |**Mdm Chen Xiaolan**|Operations Support Officer @ MK
 |**Mdm Tan Ai Wah**|Operations Support Officer @ MK
+
+**Support Staff**
+
+
+
+| Name| Position |
+| -------- | -------- | 
+|**Mr Muhammad Azim Bin Mohd Razib**|Desktop Engineer
+|**Mr Ang Eng Keong**|Desktop Engineer
+|**Ms Goh Chloe**|Librarian
+
+The school is also supported by the following contract staff and vendors:
+
+*   Security Officers
+*   Canteen Stalls Operators
+*   Contract Cleaners
+*   Bookshop Vendor
