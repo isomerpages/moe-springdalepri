@@ -18,7 +18,7 @@ third_nav_title: Our Family
 |**P1 Enthusiasm**|**Mdm Norrasyidah** <br>[norrasyidah_mohamed_yusof@moe.edu.sg](mailto:norrasyidah_mohamed_yusof@moe.edu.sg)<br>**Ms Hsu Chen**  <br>[hsu_chen@moe.edu.sg](hsu_chen@moe.edu.sg)
 |**P1 Loyalty**|**Mrs Erika Khoo** <br>[yap_shi_mei_erika@moe.edu.sg](mailto:yap_shi_mei_erika@moe.edu.sg)<br>**Miss Chen Shihui**<br>[chen_shihui@moe.edu.sg](mailto:chen_shihui@moe.edu.sg)
 
-**Primary 1 Teachers**
+**Primary 2 Teachers**
 
 | Class| Form Teacher | 
 | -------- | -------- | 
