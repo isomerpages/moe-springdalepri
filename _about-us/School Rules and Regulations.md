@@ -40,3 +40,9 @@ Design - White with mandarin collar and sleeve
 PE Shorts:  
 Material - 100% Polyester Micro Fibre Peach Skin with cotton underpants;  
 Design - Navy Blue Colour with school name embroidery
+
+**Attire for Boy**
+
+| School Attire |  PE Attire | 
+| -------- | -------- |
+|-   White collared shirt with checkered trim<br>-   Checkered school bermudas<br>-   Name tag above school badge<br>-  White shoes & socks<br>-  Socks must be visible (No ankle socks are allowed.)
