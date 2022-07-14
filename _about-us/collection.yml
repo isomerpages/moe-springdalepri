@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Family/School Management Committee.md
       - Our Family/Teaching Staff 2022.md
       - Our Family/School Admin Team (SAT).md
       - Our Family/.keep
