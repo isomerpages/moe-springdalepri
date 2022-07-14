@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Facilities/.keep
       - Our Family/School Advisory Committee 2021 to 2023.md
       - Our Family/School Management Committee.md
       - Our Family/Teaching Staff 2022.md
