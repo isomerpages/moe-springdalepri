@@ -73,3 +73,4 @@ third_nav_title: Our Family
 | -------- | -------- | 
 |**P6 Sincerity**|**Mdm Chew Hwee Shan**  <br>[chew_hwee_shan@moe.edu.sg](mailto:chew_hwee_shan@moe.edu.sg)<br>**Ms Ong Si Han**  <br>[ong_si_han@moe.edu.sg](mailto:ong_si_han@moe.edu.sg)
 |**P6 Patience**|**Ms Jennifer Tang**<br>[tang_kuan_eng_jennifer@moe.edu.sg](mailto:tang_kuan_eng_jennifer@moe.edu.sg)<br>**Mr Saravanan**  <br>[saravanan_vaithilingam@moe.edu.sg](mailto:saravanan_vaithilingam@moe.edu.sg)
+|**P6 Resourcefulness**|**Mr Zulkarnain** <br>[zulkarnain_junaidi@moe.edu.sg](mailto:zulkarnain_junaidi@moe.edu.sg)<br>**Ms Sharon Han**   <br>[han_huiping@moe.edu.sg](mailto:han_huiping@moe.edu.sg)<br>**Mdm Abidah**<br>[abidah_bibi_marikar@moe.edu.sg](mailto:abidah_bibi_marikar@moe.edu.sg)
