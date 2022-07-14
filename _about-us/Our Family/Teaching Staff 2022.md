@@ -107,3 +107,22 @@ third_nav_title: Our Family
 |**Mdm Kalathevi**|Tamil Language|[kalathevi_kalaimeikam@moe.edu.sg](mailto:kalathevi_kalaimeikam@moe.edu.sg)
 |**Mdm Yogeetha**|Tamil Language| [yogeetha_ramerchandra@moe.edu.sg](mailto:yogeetha_ramerchandra@moe.edu.sg)
 |**Ms Uma Maheswari**| Tamil Language|[uma_maheswari_velusamy@moe.edu.sg](mailto:uma_maheswari_velusamy@moe.edu.sg)
+
+**PE, Art & Music Teachers**
+
+|Name of Teachers | Subject | Email Address
+| -------- | -------- | -------- | 
+|**Mr Randall Lim**|PE|[lim_kern_wei_randall@moe.edu.sg](mailto:lim_kern_wei_randall@moe.edu.sg)
+|**Mr Hasnan**|PE|[hasnan_b_ahmad@moe.edu.sg](mailto:hasnan_b_ahmad@moe.edu.sg)
+|**Mr Justin Huan**|PE|[huan_kirk_liang_justin@moe.edu.sg](mailto:huan_kirk_liang_justin@moe.edu.sg)
+|**Ms Daphne Tang**|PE|[tang_daphne@moe.edu.sg](mailto:tang_daphne@moe.edu.sg)
+|**Mrs Eileen Poh**|PE|[chua_li_eng_eileen@moe.edu.sg](mailto:chua_li_eng_eileen@moe.edu.sg)
+|**Ms Kang Zhang Mei**|PE|[kang\_zhang\_mei@moe.edu.sg](mailto:wee_chiu_mei@moe.edu.sg)
+|**Mr Leonard Toh**|PE|[toh\_jia\_bin\_leonard@moe.edu.sg](mailto:toh_jia_bin_leonard@moe.edu.sg)
+|**Mr Muhammad Fadly**|PE|[muhammad_fadly_wahab@moe.edu.sg](mailto:muhammad_fadly_wahab@moe.edu.sg)
+|**Mrs Susan Teo**|Art|[lim_ah_gek@moe.edu.sg](mailto:lim_ah_gek@moe.edu.sg)
+|**Mdm Phyllis Lum**|Art|[lum_foong_chun@moe.edu.sg](mailto:lum_foong_chun@moe.edu.sg)
+|**Miss Noor Ezaida Binte Abdul Rahman**|Art|[noor_ezaida_abdul_rahman@moe.edu.sg](mailto:noor_ezaida_abdul_rahman@moe.edu.sg)
+|**Mrs Ho-Tan Gek Hiang**|Music|[tan_gek_hiang@moe.edu.sg](mailto:tan_gek_hiang@moe.edu.sg)
+|**Mr Goh Kah How**|Music|[goh_kah_how@moe.edu.sg](mailto:goh_kah_how@moe.edu.sg)
+|**Ms Sharon Han**|Art|[han_huiping@moe.edu.sg](mailto:han_huiping@moe.edu.sg)
