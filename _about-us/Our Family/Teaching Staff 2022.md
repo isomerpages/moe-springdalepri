@@ -60,4 +60,5 @@ third_nav_title: Our Family
 
 | Class| Form Teacher | 
 | -------- | -------- | 
-|
+|**P5 Sincerity**|**Mr Taib** <br>[mohamad_taib_majid@moe.edu.sg](mailto:mohamad_taib_majid@moe.edu.sg)<br>**Mrs Chan Cheng Guan**   <br>[chan_cheng_guan@moe.edu.sg](mailto:chan_cheng_guan@moe.edu.sg)
+|**P5 Patience**|**Mr Anwarul**     <br>[anwarul_fadhli_mohd_ismail@moe.edu.sg](mailto:anwarul_fadhli_mohd_ismail@moe.edu.sg)
