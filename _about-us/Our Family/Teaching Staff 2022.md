@@ -15,4 +15,5 @@ third_nav_title: Our Family
 |**P1 Generosity**|**Mdm Nadziah Sudin**    <br>[nadziah_sudin@moe.edu.sg](mailto:nadziah_sudin@moe.edu.sg)<br>**Mrs Eileen Poh**   <br>[chua_li_eng_eileen@moe.edu.sg](mailto:chua_li_eng_eileen@moe.edu.sg)
 |**P1 Discernment**|**Mrs Jane Ong**<br>[wu_mei_chan_jane@moe.edu.sg](mailto:wu_mei_chan_jane@moe.edu.sg)<br>**Ms Nurul Hidana** <br>[nurul_hidana_ahmad@moe.edu.sg](mailto:nurul_hidana_ahmad@moe.edu.sg)
 |**P1 Alertness**|**Mdm Sandy Chiok** <br>[chiok_xue_ting@moe.edu.sg](mailto:chiok_xue_ting@moe.edu.sg)<br>**Mrs Susan Teo**  <br> [lim_ah_gek@moe.edu.sg](mailto:lim_ah_gek@moe.edu.sg)
-|**P1 Enthusiasm**|**Mdm Norrasyidah** <br>[norrasyidah_mohamed_yusof@moe.edu.sg](mailto:norrasyidah_mohamed_yusof@moe.edu.sg)
+|**P1 Enthusiasm**|**Mdm Norrasyidah** <br>[norrasyidah_mohamed_yusof@moe.edu.sg](mailto:norrasyidah_mohamed_yusof@moe.edu.sg)<br>**Ms Hsu Chen**  <br>[hsu_chen@moe.edu.sg](hsu_chen@moe.edu.sg)
+|**P1 Loyalty**|**Mrs Erika Khoo** <br>[yap_shi_mei_erika@moe.edu.sg](mailto:yap_shi_mei_erika@moe.edu.sg)<br>**Miss Chen Shihui**<br>[chen_shihui@moe.edu.sg](mailto:chen_shihui@moe.edu.sg)
