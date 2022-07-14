@@ -52,3 +52,12 @@ third_nav_title: Our Family
 |**P4 Patience**|**Mrs Chris Yeo** <br>[tan_kah_khee@moe.edu.sg](mailto:tan_kah_khee@moe.edu.sg)<br>**Mdm Amanda Tan**  <br>[tan_ying_ying_amanda@moe.edu.sg](mailto:tan_ying_ying_amanda@moe.edu.sg)
 |**P4 Resourcefulness**|**Ms Audrey Phang**  <br>[phang_sok_kian_audrey@moe.edu.sg](mailto:phang_sok_kian_audrey@moe.edu.sg)<br>**Mr Hasnan**  <br>[hasnan_b_ahmad@moe.edu.sg](mailto:hasnan_b_ahmad@moe.edu.sg)
 |**P4 Initiative**|**Mr Leonard Toh**  <br>[toh_jia_bin_leonard@moe.edu.sg](mailto:toh_jia_bin_leonard@moe.edu.sg)<br>**Mdm Fazlinda Binte Junid**  <br>[fazlinda_junid@moe.edu.sg](mailto:fazlinda_junid@moe.edu.sg)
+|**P4 Generosity**|**Mrs Pearly Lim**  <br>[lee_peiyi_pearly@moe.edu.sg](mailto:lee_peiyi_pearly@moe.edu.sg)<br>**Ms Wu Jing**  <br>[wu_jing_a@moe.edu.sg](mailto:wu_jing_a@moe.edu.sg)
+|**P4 Discernment**|**Ms Tan Yee Hui**<br>[tan_yee_hui@moe.edu.sg](mailto:tan_yee_hui@moe.edu.sg)<br>**Mdm Yogeetha**   <br>[yogeetha_ramerchandra@moe.edu.sg](mailto:yogeetha_ramerchandra@moe.edu.sg)
+|**P4 Alertness**|**Mr Peh Sheng Kang**    <br>[peh_sheng_kang@moe.edu.sg](mailto:peh_sheng_kang@moe.edu.sg)<br>**Mr Randall Lim**  <br>[lim_kern_wei_randall@moe.edu.sg](mailto:lim_kern_wei_randall@moe.edu.sg)
+
+**Primary 5 Teachers**
+
+| Class| Form Teacher | 
+| -------- | -------- | 
+|
