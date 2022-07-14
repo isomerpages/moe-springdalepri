@@ -74,4 +74,22 @@ third_nav_title: Our Family
 |**P6 Sincerity**|**Mdm Chew Hwee Shan**  <br>[chew_hwee_shan@moe.edu.sg](mailto:chew_hwee_shan@moe.edu.sg)<br>**Ms Ong Si Han**  <br>[ong_si_han@moe.edu.sg](mailto:ong_si_han@moe.edu.sg)
 |**P6 Patience**|**Ms Jennifer Tang**<br>[tang_kuan_eng_jennifer@moe.edu.sg](mailto:tang_kuan_eng_jennifer@moe.edu.sg)<br>**Mr Saravanan**  <br>[saravanan_vaithilingam@moe.edu.sg](mailto:saravanan_vaithilingam@moe.edu.sg)
 |**P6 Resourcefulness**|**Mr Zulkarnain** <br>[zulkarnain_junaidi@moe.edu.sg](mailto:zulkarnain_junaidi@moe.edu.sg)<br>**Ms Sharon Han**   <br>[han_huiping@moe.edu.sg](mailto:han_huiping@moe.edu.sg)<br>**Mdm Abidah**<br>[abidah_bibi_marikar@moe.edu.sg](mailto:abidah_bibi_marikar@moe.edu.sg)
-|**P6 Initiative**|
+|**P6 Initiative**|**Mdm Rohana**   <br>[rohana_md_nor@moe.edu.sg](mailto:rohana_md_nor@moe.edu.sg)<br>**Mr Justin Huan**  <br>[huan_kirk_liang_justin@moe.edu.sg](mailto:huan_kirk_liang_justin@moe.edu.sg)
+|**P6 Generosity**|**Mdm Nor Azila**    <br>[nor_azila_noor@moe.edu.sg](mailto:nor_azila_noor@moe.edu.sg)<br>**Mdm Ellen Chung**    <br>[chung_mui_ling_ellen@moe.edu.sg](mailto:chung_mui_ling_ellen@moe.edu.sg)
+|**P6 Discernment**|**Mdm Belinda Tan Sia Phing** <br>[tan_sia_phing@moe.edu.sg](mailto:tan_sia_phing@moe.edu.sg)<br>**Mdm Lee Shirui**  [lee_shirui@moe.edu.sg](mailto:lee_shirui@moe.edu.sg)
+
+**MT Teachers**
+
+| Name of Teachers | Language | Email Address
+| -------- | -------- | -------- | 
+|**Ms Ong Bee Hua**|Chinese Language|[ong_bee_hua@moe.edu.sg](mailto:ong_bee_hua@moe.edu.sg)
+|**Mrs Chan Cheng Guan**| Chinese Language|[chan_cheng_guan@moe.edu.sg](mailto:chan_cheng_guan@moe.edu.sg)
+|**Mdm Ellen Chung**|Chinese Language| [chung_mui_ling_ellen@moe.edu.sg](mailto:chung_mui_ling_ellen@moe.edu.sg)
+|**Ms Hsu Chen**|Chinese Language|[hsu_chen@moe.edu.sg](mailto:hsu_chen@moe.edu.sg)
+|**Ms Ong Si Han**|Chinese Language|[ong_si_han@moe.edu.sg](mailto:ong_si_han@moe.edu.sg)
+|**Mr Alan Xu**|Chinese Language|[xu_yongchuan_alan@moe.edu.sg](mailto:xu_yongchuan_alan@moe.edu.sg)
+|**Ms Liu Yisi**|Chinese Language|[liu_yisi@moe.edu.sg](mailto:liu_yisi@moe.edu.sg)
+|**Ms Ho Suk San**|Chinese Language|[ho_suk_san@moe.edu.sg](mailto:ho_suk_san@moe.edu.sg)
+|**Miss Ng Chi Cheng**|Chinese Language|[ng_chi_cheng@moe.edu.sg](mailto:ng_chi_cheng@moe.edu.sg)
+|**Ms Wu Jing**|Chinese Language|[wu_jing_a@moe.edu.sg](mailto:wu_jing_a@moe.edu.sg)
+|**Mdm Tan Joo Yan**|Chinese Language|[tan_joo_yan@moe.edu.sg](mailto:tan_joo_yan@moe.edu.sg)
