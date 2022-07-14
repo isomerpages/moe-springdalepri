@@ -25,3 +25,4 @@ third_nav_title: Our Family
 |**P2 Sincerity**|**Ms Uma Maheswari**<br>[uma_maheswari_velusamy@moe.edu.sg](mailto:uma_maheswari_velusamy@moe.edu.sg)<br>**Mdm Serene Tiang** <br>[tiang_tsuiling_serene@moe.edu.sg](mailto:tiang_tsuiling_serene@moe.edu.sg)
 |**P2 Patience**|**Mrs Michelle Hu**  <br>[lim_mee_yun_michelle@moe.edu.sg](mailto:lim_mee_yun_michelle@moe.edu.sg)<br>**Ms Tang Daphne** <br>[tang_daphne@moe.edu.sg](mailto:tang_daphne@moe.edu.sg)
 |**P2 Resourcefulness**|**Mr Goh Kah How** <br>[goh_kah_how@moe.edu.sg](mailto:goh_kah_how@moe.edu.sg)<br>**Miss Noor Ezaida Binte Abdul Rahman**<br>[noor_ezaida_abdul_rahman@moe.edu.sg](mailto:noor_ezaida_abdul_rahman@moe.edu.sg)
+|**P2 Initiative**|**Mdm Noreen Ali**    <br>[noreen_ali@moe.edu.sg](mailto:noreen_ali@moe.edu.sg)<br>**Mdm Phyllis Lum** <br>[lum_foong_chun@moe.edu.sg](mailto:lum_foong_chun@moe.edu.sg)
