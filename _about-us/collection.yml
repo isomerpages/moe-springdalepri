@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - Our Family/School Admin Team (SAT).md
       - Our Family/.keep
