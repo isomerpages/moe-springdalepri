@@ -1,0 +1,4 @@
+collections:
+  parents-infoweb:
+    output: true
+    order: []
