@@ -19,10 +19,8 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Springdale Parent Volunteer Club
+      subtitle: Latest Happening
+      button: Click here to find out more!
+      url: /Springdale-Parent-Volunteer-Club
 ---
-
