@@ -4,7 +4,7 @@ permalink: /about-us/Our-Family/School-Management-Committee
 description: ""
 third_nav_title: Our Family
 ---
-
+**School Management Committee**
 
 |Name | Position |
 | -------- | -------- |
@@ -34,3 +34,11 @@ third_nav_title: Our Family
 |**Mr Muhammad Ali Haikal**|Level Head (English)
 |**Mrs Song Wei Ni**|Level Head (Mathematics)
 |**Mdm Teng Yan Ling**|Level Head (Science)
+
+**Senior Teachers**
+
+|Name | Position |
+| -------- | -------- |
+|**Mrs Chan Cheng Guang**|Senior Teacher (Chinese)
+|**Mrs Susan Teo**|Senior Teacher (Art)
+|**Mdm Aw Mui Na Emily**|Senior Teacher (Educational Support)
