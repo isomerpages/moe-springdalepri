@@ -65,3 +65,4 @@ third_nav_title: Our Family
 |**P5 Resourcefulness**|**Mr Charles Ye** <br>[ye_jinkun_charles@moe.edu.sg](mailto:ye_jinkun_charles@moe.edu.sg)<br>**Mdm Shanom Farsa**   <br>[shanom_farsa_sarry@moe.edu.sg](mailto:shanom_farsa_sarry@moe.edu.sg)
 |**P5 Initiative**|**Mr Muhammad Ali Haikal**   <br>[muhammad_ali_haikal_khalid@moe.edu.sg](mailto:muhammad_ali_haikal_khalid@moe.edu.sg)<br>**Mr Tham Otto** <br>[tham_otto@moe.edu.sg](mailto:tham_otto@moe.edu.sg)
 |**P5 Generosity**|**Mrs Ong Shi Hui**<br>[ong_shi_hui_a@moe.edu.sg](mailto:ong_shi_hui_a@moe.edu.sg)<br>**Ms Aishah Nasyeera**  <br>[aishah_nasyeera_rizdwan@moe.edu.sg](mailto:aishah_nasyeera_rizdwan@moe.edu.sg)
+|**P5 Discernment**|**Mr Lyndon Long**<br>[long_tianjun_lyndon@moe.edu.sg](mailto:long_tianjun_lyndon@moe.edu.sg)<br>**Ms Liu Yisi**  <br>[liu_yisi@moe.edu.sg](mailto:liu_yisi@moe.edu.sg)
