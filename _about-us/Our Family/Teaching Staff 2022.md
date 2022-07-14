@@ -66,3 +66,10 @@ third_nav_title: Our Family
 |**P5 Initiative**|**Mr Muhammad Ali Haikal**   <br>[muhammad_ali_haikal_khalid@moe.edu.sg](mailto:muhammad_ali_haikal_khalid@moe.edu.sg)<br>**Mr Tham Otto** <br>[tham_otto@moe.edu.sg](mailto:tham_otto@moe.edu.sg)
 |**P5 Generosity**|**Mrs Ong Shi Hui**<br>[ong_shi_hui_a@moe.edu.sg](mailto:ong_shi_hui_a@moe.edu.sg)<br>**Ms Aishah Nasyeera**  <br>[aishah_nasyeera_rizdwan@moe.edu.sg](mailto:aishah_nasyeera_rizdwan@moe.edu.sg)
 |**P5 Discernment**|**Mr Lyndon Long**<br>[long_tianjun_lyndon@moe.edu.sg](mailto:long_tianjun_lyndon@moe.edu.sg)<br>**Ms Liu Yisi**  <br>[liu_yisi@moe.edu.sg](mailto:liu_yisi@moe.edu.sg)
+
+**Primary 6 Teachers**
+
+| Class| Form Teacher | 
+| -------- | -------- | 
+|**P6 Sincerity**|**Mdm Chew Hwee Shan**  <br>[chew_hwee_shan@moe.edu.sg](mailto:chew_hwee_shan@moe.edu.sg)<br>**Ms Ong Si Han**  <br>[ong_si_han@moe.edu.sg](mailto:ong_si_han@moe.edu.sg)
+|**P6 Patience**|**Ms Jennifer Tang**<br>[tang_kuan_eng_jennifer@moe.edu.sg](mailto:tang_kuan_eng_jennifer@moe.edu.sg)<br>**Mr Saravanan**  <br>[saravanan_vaithilingam@moe.edu.sg](mailto:saravanan_vaithilingam@moe.edu.sg)
