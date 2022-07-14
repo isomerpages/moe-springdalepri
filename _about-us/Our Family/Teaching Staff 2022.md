@@ -37,4 +37,8 @@ third_nav_title: Our Family
 
 | Class| Form Teacher | 
 | -------- | -------- | 
-|
+|**P3 Sincerity**|**Mdm Kang Zhang Mei**     <br>[kang_zhang_mei@moe.edu.sg](mailto:kang_zhang_mei@moe.edu.sg)<br>**Mr Tan Jian Liang**  <br>[tan_jian_liang@moe.edu.sg](mailto:tan_jian_liang@moe.edu.sg)
+|**P3 Patience**|**Mdm Norsham**   <br>[norsham_mohammed_noh@moe.edu.sg](mailto:norsham_mohammed_noh@moe.edu.sg)<br>**Mdm Au Su Yee**  <br>[au_su_yee@moe.edu.sg](mailto:au_su_yee@moe.edu.sg)
+|**P3 Resourcefulness**|**Ms Sunita**  <br>[sunita_mohandas@moe.edu.sg](mailto:sunita_mohandas@moe.edu.sg)<br>**Ms Thong Wei Wei**  <br>[thong_wei_wei@moe.edu.sg](mailto:thong_wei_wei@moe.edu.sg)
+|**P3 Initiative**|**Mdm Teng Yan Ling**<br>[teng_yan_ling@moe.edu.sg](mailto:teng_yan_ling@moe.edu.sg)  <br>**Ms Angelina Huang**  <br>[angelina_huang@moe.edu.sg](mailto:angelina_huang@moe.edu.sg)
+|**P3 Generosity**|**Mr Sean Teng**     <br>[teng_ta_shen_sean@moe.edu.sg](mailto:teng_ta_shen_sean@moe.edu.sg)<br>**Ms Luk Kar Wing Carina**  <br>[luk_Kar_wing_carina@moe.edu.sg](mailto:luk_Kar_wing_carina@moe.edu.sg)
