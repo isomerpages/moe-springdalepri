@@ -27,3 +27,4 @@ third_nav_title: Our Family
 |**P2 Resourcefulness**|**Mr Goh Kah How** <br>[goh_kah_how@moe.edu.sg](mailto:goh_kah_how@moe.edu.sg)<br>**Miss Noor Ezaida Binte Abdul Rahman**<br>[noor_ezaida_abdul_rahman@moe.edu.sg](mailto:noor_ezaida_abdul_rahman@moe.edu.sg)
 |**P2 Initiative**|**Mdm Noreen Ali**    <br>[noreen_ali@moe.edu.sg](mailto:noreen_ali@moe.edu.sg)<br>**Mdm Phyllis Lum** <br>[lum_foong_chun@moe.edu.sg](mailto:lum_foong_chun@moe.edu.sg)
 |**P2 Generosity**|**Mdm Aw Mui Nai Emily**  <br>[aw_mui_nai_emily@moe.edu.sg](mailto:aw_mui_nai_emily@moe.edu.sg)<br>**Mdm Dewi Bte Mohamed** <br>[dewi_mohamed@moe.edu.sg](mailto:dewi_mohamed@moe.edu.sg)
+|**P2 Discernment**|**Mdm Siti Norlizah**   <br>[siti_norlizah_ibrahim@moe.edu.sg](mailto:siti_norlizah_ibrahim@moe.edu.sg)<br>**Mrs Jaslyn Lim**  <br>[cai_yuyu@moe.edu.sg](mailto:cai_yuyu@moe.edu.sg)
