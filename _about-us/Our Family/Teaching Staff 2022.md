@@ -126,3 +126,13 @@ third_nav_title: Our Family
 |**Mrs Ho-Tan Gek Hiang**|Music|[tan_gek_hiang@moe.edu.sg](mailto:tan_gek_hiang@moe.edu.sg)
 |**Mr Goh Kah How**|Music|[goh_kah_how@moe.edu.sg](mailto:goh_kah_how@moe.edu.sg)
 |**Ms Sharon Han**|Art|[han_huiping@moe.edu.sg](mailto:han_huiping@moe.edu.sg)
+
+**Allied Educators**
+
+|Staff | Designation | Email Address
+| -------- | -------- | -------- | 
+|**Miss Hngoi Zi Xin**|School Counsellor|[hngoi_zi_xin@moe.edu.sg](mailto:hngoi_zi_xin@moe.edu.sg)
+|**Mdm Stephanie Subashni Sam**|Student Welfare Officer|[stephanie_subashni_sam@moe.edu.sg](mailto:stephanie_subashni_sam@moe.edu.sg)
+|**Ms Chen Xiu Wen**|AED (LBS)|[chen_xiuwen@moe.edu.sg](mailto:chen_xiuwen@moe.edu.sg)
+|**Mdm Vethavalli Ramalingam**|AED (LBS)|[vethavalli_ramalingam@moe.edu.sg](mailto:vethavalli_ramalingam@moe.edu.sg)
+|**Mdm T N Fathima Nasrin**|AED (LBS)|[T_N_Fathima_Nasrin@moe.edu.sg](mailto:T_N_Fathima_Nasrin@moe.edu.sg)
