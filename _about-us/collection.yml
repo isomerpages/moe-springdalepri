@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Hours & Recess/.keep
       - School Song.md
       - School Rules and Regulations.md
       - Homework Policy.md
