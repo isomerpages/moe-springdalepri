@@ -2,4 +2,5 @@ collections:
   parents-infoweb:
     output: true
     order:
+      - Cyber Wellness Resources.md
       - MOE Sexuality Education.md
