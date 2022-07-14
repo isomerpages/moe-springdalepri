@@ -23,3 +23,4 @@ third_nav_title: Our Family
 | Class| Form Teacher | 
 | -------- | -------- | 
 |**P2 Sincerity**|**Ms Uma Maheswari**<br>[uma_maheswari_velusamy@moe.edu.sg](mailto:uma_maheswari_velusamy@moe.edu.sg)<br>**Mdm Serene Tiang** <br>[tiang_tsuiling_serene@moe.edu.sg](mailto:tiang_tsuiling_serene@moe.edu.sg)
+|**P2 Patience**|**Mrs Michelle Hu**  <br>[lim_mee_yun_michelle@moe.edu.sg](mailto:lim_mee_yun_michelle@moe.edu.sg)
