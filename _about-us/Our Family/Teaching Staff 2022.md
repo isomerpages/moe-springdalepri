@@ -50,3 +50,4 @@ third_nav_title: Our Family
 | -------- | -------- | 
 |**P4 Sincerity**|**Mdm Veronica Nah**    <br>[nah_siew_hong_veronica@moe.edu.sg](mailto:nah_siew_hong_veronica@moe.edu.sg)<br>**Mr Sean Lim Tong Lee**  <br>[lim_tong_lee@moe.edu.sg](mailto:lim_tong_lee@moe.edu.sg)
 |**P4 Patience**|**Mrs Chris Yeo** <br>[tan_kah_khee@moe.edu.sg](mailto:tan_kah_khee@moe.edu.sg)<br>**Mdm Amanda Tan**  <br>[tan_ying_ying_amanda@moe.edu.sg](mailto:tan_ying_ying_amanda@moe.edu.sg)
+|**P4 Resourcefulness**|**Ms Audrey Phang**  <br>[phang_sok_kian_audrey@moe.edu.sg](mailto:phang_sok_kian_audrey@moe.edu.sg)
