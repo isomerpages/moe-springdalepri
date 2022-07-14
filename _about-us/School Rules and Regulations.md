@@ -45,4 +45,4 @@ Design - Navy Blue Colour with school name embroidery
 
 | School Attire |  PE Attire | 
 | -------- | -------- |
-|-   White collared shirt with checkered trim<br>-   Checkered school bermudas<br>-   Name tag above school badge<br>-  White shoes & socks<br>-  Socks must be visible (No ankle socks are allowed.)
+|-   White collared shirt with checkered trim<br>-   Checkered school bermudas<br>-   Name tag above school badge<br>-  White shoes & socks<br>-  Socks must be visible (No ankle socks are allowed.)|-   PE T-shirt<br>- Dark blue shorts with school’s name<br>-  Name tag above school badge<br>- White shoes & socks<br>- Socks must be visible (No ankle socks are allowed.)
