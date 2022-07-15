@@ -57,3 +57,22 @@ third_nav_title: Parents Info & Resources
 |**Time**|Various Timings
 |**Venue**|Various libraries across Singapore
 |**Event Description**| Join our storytellers as they bring you into a world of fascinating stories, songs and rhymes. A journey full of fun and excitement await you and your family! Check out the schedules of the storytelling sessions [here](https://www.familiesforlife.sg/unite-at-an-event/Documents/NLB_Storytelling_MFW2017.pdf).  <br><br>Find out more at [www.nlb.gov.sg/golibrary2](http://www.nlb.gov.sg/golibrary2).
+
+##### **陪你看报纸 \[Free Admission\]**
+
+| | | 
+| -------- | -------- |
+| **Partner**     | National Library Board  | 
+|**Time**|3pm – 4pm
+|**Venue**|Toa Payoh Public Library
+|**Event Description**| 由《联合早报》和《联合晚报》组成的义工团队将为您讲解过去一周的社会焦点、 时事动态、娱乐与生活情报等各项新闻, 让您轻松了解天下事！ 入场免费，欢迎大家踊跃出席。适合50岁及以上人士参与。
+
+
+##### **Jiggle, Read and Rhyme \[Free Admission\]**
+
+| | | 
+| -------- | -------- |
+| **Partner**     | National Library Board  | 
+|**Time**|7.30pm – 8pm
+|**Venue**|Queenstown Public Library
+|**Event Description**|Give your child’s early development a boost on My Family Weekend with Jiggle, Read and Rhyme! Indulge your child’s senses with songs, rhymes and stories that come alive in this enjoyable session specially catered to toddlers aged 1-3.  <br><br>Register now for an enriching time with your child and other parents via [www.nlb.gov.sg/golibrary](http://www.nlb.gov.sg/golibrary).
