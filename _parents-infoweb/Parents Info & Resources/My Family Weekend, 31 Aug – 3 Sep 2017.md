@@ -48,3 +48,12 @@ third_nav_title: Parents Info & Resources
 |**Time**|11am – 6pm<br>Closed for cleaning: 2pm – 3pm
 |**Venue**|Esplanade Mall, Level 4
 |**Event Description**|PIP’s PLAYbox is a dedicated arts space that includes a cosy loft, a roomy arts and craft area, a reading corner filled with books by Singapore writers and illustrators, as well as an outdoor play area. In conjunction with Esplanade’s festivals and series, PIP’s PLAYbox will be hosting a range of activities from storytelling sessions to self-guided craft activities this My Family Weekend. Don’t forget to keep a lookout for the wall mural created by artist and author Lee Kow Fong too!  <br><br>Find out more at [www.esplanade.com/pips-club/pips-playbox](http://www.esplanade.com/pips-club/pips-playbox).
+
+##### **English Storytelling**
+
+| | | 
+| -------- | -------- |
+| **Partner**     | National Library Board   | 
+|**Time**|Various Timings
+|**Venue**|Various libraries across Singapore
+|**Event Description**| Join our storytellers as they bring you into a world of fascinating stories, songs and rhymes. A journey full of fun and excitement await you and your family! Check out the schedules of the storytelling sessions [here](https://www.familiesforlife.sg/unite-at-an-event/Documents/NLB_Storytelling_MFW2017.pdf).  <br><br>Find out more at [www.nlb.gov.sg/golibrary2](http://www.nlb.gov.sg/golibrary2).
