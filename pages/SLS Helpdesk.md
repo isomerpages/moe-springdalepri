@@ -32,3 +32,5 @@ Alternatively, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com
 If you have any difficulty accessing SLS, you may also visit the **SLS Login Troubleshooting page** for responses to common issues:  
 
 [https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html#](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html#)
+
+![](/images/SLS%20self%20help%20tip.png)
