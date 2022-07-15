@@ -287,3 +287,15 @@ third_nav_title: Parents Info & Resources
 |**Time**|11am – 12pm
 |**Venue**|	Tampines Regional Library
 |**Event Description**|Research has shown that habits such as food preferences are formed by the age of 5. These habits formed in childhood are more likely to follow your child into adulthood and can impact health and quality of life. This My Family Weekend, find out what you can do to give your child a healthier start in life!  <br>The Healthier Child, Brighter Future workshop will cover topics such as healthier eating, how to increase daily physical activity and ways to encourage a fussy eater to eat fruits and vegetables. Both you and your child will also get to make one easy-to-make recipe and sample the healthy food!  <br><br>Find out more at [www.nlb.gov.sg/golibrary2](http://www.nlb.gov.sg/golibrary2).
+
+##### **Parent & Child Reading Workshop by Odyssey the Global Preschool (conducted in Mandarin) [Free admission, registration required]**
+
+<img src="/images/image23.jpeg" 
+     style="width:50%">
+
+| | | 
+| -------- | -------- |
+| **Partner**     | National Library Board | 
+|**Time**|11.30am – 12.30pm
+|**Venue**|	Pasir Ris Public Library
+|**Event Description**|Join the teachers from Odyssey the Global Preschool as they share tips on reading and getting your young child to love reading too. The teachers will also be conducting a special storytelling activity for your children in this session. Bring your child down for a taste of how fun learning and reading can really be!  <br><br>Find out more at [www.nlb.gov.sg/golibrary2](http://www.nlb.gov.sg/golibrary2).
