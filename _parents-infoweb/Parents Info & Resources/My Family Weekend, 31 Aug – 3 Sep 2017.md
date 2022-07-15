@@ -212,3 +212,15 @@ third_nav_title: Parents Info & Resources
 |**Time**|9am – 1pm
 |**Venue**|	Venue 1: 4 Lorong Low Koon, Singapore 536450<BR>Venue 2: Blk 261B Sengkang Eastway, #01-400, Singapore 542261<BR>Venue 3: Blk 95 Bedok North Ave 4, #01-1415, Singapore 460095<BR>Venue 4: Blk 508 Bedok North Ave 3, #01-369, Singapore 460508<BR>Venue 5: Agape Village, 7A Lor 8 Toa Payoh, #04-01, Singapore 319264
 |**Event Description**|		Sign up for this parent and child workshop to encourage positive values and virtues in children at Morning Star on Sat, 2 Sep. This interactive workshop is specially designed for parents with children between 5 to 12 years old and uses creative ways relatable to the child’s everyday life to impart values.  <br>Contact Ms Jess Leong at 6285 1377 or training@morningstar.org.sg to sign up. Registration closes on Sat, 5 Aug 2017.
+
+##### **Footwork: Twinkle Toes**
+
+<img src="/images/image014.jpeg" 
+     style="width:50%">
+
+| | | 
+| -------- | -------- |
+| **Partner**     | Esplanade - Theatres on the Bay | 
+|**Time**|9am – 10am: Ballet Baby<br>10.30am – 11.30am: Tap Baby
+|**Venue**|	Esplanade Rehearsal Studio
+|**Event Description**|	Discover the joy of movement and fall in love with dance by trying it yourself at da:ns festival’s Footwork workshops! Footwork gives you the opportunity to learn popular dances from the experts and pick up some moves in the months leading up to the da:ns festival, held from 20th – 29th October.  <br>Footwork: Twinkle Toes is specially designed for little ones aged 3–6 years old, and their mummies or daddies. In these dance-play workshops, little tots and their parents can have fun together as they whirl and twirl!  <br>$24 for 1 adult and 1 child; $36 for 1 adult and 2 children or 2 adults and 1 child. Price is per session. Children must be accompanied by an adult 16 years old and above.  <br><br>Get your tickets at [www.esplanade.com/festivals-and-series/dans-festival/2017/footwork-twinkle-toes](http://www.esplanade.com/festivals-and-series/dans-festival/2017/footwork-twinkle-toes).
