@@ -14,7 +14,8 @@ third_nav_title: Parents Info & Resources
 
 ##### **Gallery Children’s Biennale: Dreams and Stories**
 
-
+<img src="/images/image002.jpeg" 
+     style="width:50%">
 
 | | | 
 | -------- | -------- |
