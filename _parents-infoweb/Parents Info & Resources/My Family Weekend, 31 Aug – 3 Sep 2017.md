@@ -225,3 +225,14 @@ third_nav_title: Parents Info & Resources
 |**Venue**|	Esplanade Rehearsal Studio
 |**Event Description**|	Discover the joy of movement and fall in love with dance by trying it yourself at da:ns festival’s Footwork workshops! Footwork gives you the opportunity to learn popular dances from the experts and pick up some moves in the months leading up to the da:ns festival, held from 20th – 29th October.  <br>Footwork: Twinkle Toes is specially designed for little ones aged 3–6 years old, and their mummies or daddies. In these dance-play workshops, little tots and their parents can have fun together as they whirl and twirl!  <br>$24 for 1 adult and 1 child; $36 for 1 adult and 2 children or 2 adults and 1 child. Price is per session. Children must be accompanied by an adult 16 years old and above.  <br><br>Get your tickets at [www.esplanade.com/festivals-and-series/dans-festival/2017/footwork-twinkle-toes](http://www.esplanade.com/festivals-and-series/dans-festival/2017/footwork-twinkle-toes).
 
+##### **Footwork: Happy Feet**
+
+<img src="/images/image017.jpeg" 
+     style="width:50%">
+
+| | | 
+| -------- | -------- |
+| **Partner**     | Esplanade - Theatres on the Bay | 
+|**Time**|12pm – 1pm: Ballet
+|**Venue**|	Esplanade Rehearsal Studio
+|**Event Description**|	Discover the joy of movement and fall in love with dance by trying it yourself at da:ns festival’s Footwork workshops! Footwork gives you the opportunity to learn popular dances from the experts and pick up some moves in the months leading up to the da:ns festival, held from 20th – 29th October. <br>Conducted by professional instructors, Footwork: Happy Feet workshops are perfect for adults aged 55 years old and above with little or no experience in dance who are interested in picking up the basics! <br>$14 per session, per pax. Esplanade&nsbp;Me and JOYears specials available.<br>Give your grandparents or elderly relatives a chance to move their happy feet at [www.esplanade.com/festivals-and-series/dans-festival/2017/footwork-happy-feet](http://www.esplanade.com/festivals-and-series/dans-festival/2017/footwork-happy-feet).
