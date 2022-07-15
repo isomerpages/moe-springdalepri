@@ -56,3 +56,57 @@ To strengthen the bonds between parent volunteers (PVs), a bowling outing to Saf
 As part of Hari Raya Celebration, PVs got to know more about the Malay culture through the making of the ribbon ketupat and playing of some traditional games. They also got to taste the yummy cookies that were specially prepared by our Malay PV. &nbsp;A great way to celebrate Hari Raya with our Malay friend.
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRaojqb-2dXkw_ixVr3R51U2hBwnPRINBkB6KDvw_guWPUVckR1uQbbgjH0Kwm_uqtxQK3GmwhL6kbj/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+**Teachers’ Day Performance**  
+
+**5 Sept 2019**
+
+Teachers are the light guiding the students in a world of possibilities. This year, PVs, together with some of the P6 students, put up a song item using glow sticks. Although the hall was dark, it did not deter the rest of the students from joining in the singing. PVs ended the performance by thanking the teachers in 4 languages (Malay, Tamil, Chinese and English).
+
+![](/images/teachers%20day.jpeg)
+
+##### Activities in Term 1 (2019)
+
+**Chinese New Year Bonding- HUAT!**
+
+**31 Jan 2019**
+
+During this CNY bonding session, parent volunteers had a great time bonding through craft-making and games. They learnt how to make lanterns using red packets (hong bao) and pig decorations. It was an enriching session for all, having learnt the significance of and gained the appreciation of Chinese New Year traditions. HUAT!
+
+![](/images/PV%20CNY.jpeg)
+
+**Move! Healthy SPVC- Fun with Badminton**
+
+**18 Feb 2019**
+
+Parent volunteers had a fun time during the healthy workout at the Indoor Sports Hall. Everyone enjoyed themselves regardless of whether they are experts or novices. The game spirit was high throughout and it seemed that everyone has innate talent for badminton!
+
+![](/images/fitness.jpeg)
+
+**Move! Healthy SPVC- SCA-MAZING Walk & Picnic @ Botanic Garden**
+
+**18 March 2019**
+
+After a term of duties, our parent volunteers and their children had a great bonding time at the Botanic Garden. Mothers & children were grouped into teams and had a fun time finding stops and murals using clues, and completing challenges. The scorching sun did not dampen their spirits at all.
+
+![](/images/picnic.jpeg)
+
+![](/images/picnic%202.png)
+
+**Parent Workshop & Parent-Child Bonding Activity** 
+
+SPVC first Parent Workshop & Parent-Child Bonding Activity was held on Fri, 27 Apr 18. Parents and their children had a great time bonding through making art piece from recycled materials together.
+
+![](/images/Parent%201.png)
+
+**Move! Healthy SPVC- A Walk in the Park!**
+
+SPVC soft launch of interest group ‘Move! Healthy SPVC’ first event ‘A walk in the park!’ on Wed, 19 Sep 18. The main objective of this interest group is to promote healthy living through physical activity among the Parent Volunteers. The PV had a great walk on that day!
+
+![](/images/Parent%203.png)
+
+**Teachers’ Day Celebration 2018** 
+
+SPVC put up a STOMP performance using daily items such as rubbish bins and chopsticks for the Teachers’ Day performance on Thu, 30 Aug 18.
+
+![](/images/Parent%202.png)
