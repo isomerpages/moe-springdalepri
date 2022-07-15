@@ -215,7 +215,7 @@ third_nav_title: Parents Info & Resources
 
 ##### **Footwork: Twinkle Toes**
 
-<img src="/images/image014.jpeg" 
+<img src="/images/image016.jpeg" 
      style="width:50%">
 
 | | | 
@@ -224,3 +224,4 @@ third_nav_title: Parents Info & Resources
 |**Time**|9am – 10am: Ballet Baby<br>10.30am – 11.30am: Tap Baby
 |**Venue**|	Esplanade Rehearsal Studio
 |**Event Description**|	Discover the joy of movement and fall in love with dance by trying it yourself at da:ns festival’s Footwork workshops! Footwork gives you the opportunity to learn popular dances from the experts and pick up some moves in the months leading up to the da:ns festival, held from 20th – 29th October.  <br>Footwork: Twinkle Toes is specially designed for little ones aged 3–6 years old, and their mummies or daddies. In these dance-play workshops, little tots and their parents can have fun together as they whirl and twirl!  <br>$24 for 1 adult and 1 child; $36 for 1 adult and 2 children or 2 adults and 1 child. Price is per session. Children must be accompanied by an adult 16 years old and above.  <br><br>Get your tickets at [www.esplanade.com/festivals-and-series/dans-festival/2017/footwork-twinkle-toes](http://www.esplanade.com/festivals-and-series/dans-festival/2017/footwork-twinkle-toes).
+
