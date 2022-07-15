@@ -23,3 +23,8 @@ This is the first year that SPVC organised a carnival for students during Childr
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRl140G6N6jJc4Ua6-Sprco6E_dI6j9ac3nVsrrqYERFNIP_oeFFiaqMJYLjnsmplhuj0EoD5FtNbfJ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
+**P6 Post PSLE activity- I CAN!**  
+
+**8 - 10 and 18 Oct 2019**
+
+The time for parent volunteers to be “teachers” is back again!  This is the second year that the P6 students were taught with some basic life skills. Through the enrichment programme organised by our parent volunteers, the kids learnt some tips on sewing, ironing, washing and folding of their own clothes in their daily life.
