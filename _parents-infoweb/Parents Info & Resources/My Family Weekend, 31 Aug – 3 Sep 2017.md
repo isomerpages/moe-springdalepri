@@ -317,3 +317,12 @@ third_nav_title: Parents Info & Resources
 |**Time**|2pm – 3.30pm
 |**Venue**|	Tampines Regional Library
 |**Event Description**|	Join in this highly useful general awareness talk by the Irlen Dyslexia Clinic on Visual Processing Disorder (Irlen Syndrome). The talk will cover topics such as background knowledge of Dyslexia and Irlen Syndrome, the symptoms and the nature of the disturbances, early intervention, and treatment options.  <br>Take the chance this My Family Weekend to equip yourself to be a better caregiver, or simply join us to learn more!  <br><br>Find out more at [www.nlb.gov.sg/golibrary2](http://www.nlb.gov.sg/golibrary2).
+
+##### **Yidu Reading Club (Conducted in Mandarin) [Free admission]**
+
+| | | 
+| -------- | -------- |
+| **Partner**     | National Library Board | 
+|**Time**|2pm – 4pm
+|**Venue**|	Serangoon Public Library
+|**Event Description**|	壹度书会是由爱好读书的年轻人所组成。通过阅读、讨论和分享,实现思维的碰撞和情感共振的交流平台<br><br>For more details, please refer to the Facebook page at www.facebook.com/yidushuhui.
