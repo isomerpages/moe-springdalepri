@@ -102,7 +102,8 @@ third_nav_title: Parents Info & Resources
 
 ##### **Diaper Dash**
 
-
+<img src="/images/image021.jpeg" 
+     style="width:50%">
 
 | | | 
 | -------- | -------- |
