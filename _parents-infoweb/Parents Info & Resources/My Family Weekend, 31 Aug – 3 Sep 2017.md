@@ -248,3 +248,15 @@ third_nav_title: Parents Info & Resources
 |**Time**|2pm – 3pm: Broadway Jazz
 |**Venue**|	Esplanade Rehearsal Studio
 |**Event Description**|	Discover the joy of movement and fall in love with dance by trying it yourself at da:ns festival’s Footwork workshops! Footwork gives you the opportunity to learn popular dances from the experts and pick up some moves in the months leading up to the da:ns festival, held from 20th – 29th October. <br>Footwork: Parents & Kids is a great way for parents and kids aged 7–10 years old to bond through dancing. Lots of fun and laughter is guaranteed! <br>$24 for 1 adult and 1 child; $36 for 1 adult and 2 children or 2 adults and 1 child. Price is per session. <br>Get your tickets at [www.esplanade.com/festivals-and-series/dans-festival/2017/footwork-parents-and-kids](http://www.esplanade.com/festivals-and-series/dans-festival/2017/footwork-parents-and-kids).
+
+##### **Footwork: Adults & Youth**
+
+<img src="/images/image019.jpeg" 
+     style="width:50%">
+
+| | | 
+| -------- | -------- |
+| **Partner**     | Esplanade - Theatres on the Bay | 
+|**Time**|4pm – 5.30pm :Street Dance<br>6pm – 7.30pm: Paso Doble (Ballroom)<br>8pm – 9.30pm: Rumba (Date Night)
+|**Venue**|	Esplanade Rehearsal Studio
+|**Event Description**|Discover the joy of movement and fall in love with dance by trying it yourself at da:ns festival’s Footwork workshops! Footwork gives you the opportunity to learn popular dances from the experts and pick up some moves in the months leading up to the da:ns festival, held from 20th – 29th October. Conducted by professional instructors, the Footwork: Adults & Youth workshops cover the basics for adults and youths with little or no experience in dance. <br>$14 per session, per pax. Esplanade&Me and JOYears specials available. <br>Get your tickets at [www.esplanade.com/festivals-and-series/dans-festival/2017/footwork-adults-and-youth](http://www.esplanade.com/festivals-and-series/dans-festival/2017/footwork-adults-and-youth).
