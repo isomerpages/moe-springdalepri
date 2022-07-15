@@ -2,6 +2,7 @@ collections:
   parents-infoweb:
     output: true
     order:
+      - Springdale Parent Volunteer Club.md
       - Travel Declaration.md
       - Student Learning Space (SLS).md
       - Cyber Wellness Resources.md
