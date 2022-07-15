@@ -278,3 +278,12 @@ third_nav_title: Parents Info & Resources
 |**Time**|11am – 11.45am
 |**Venue**|	Jurong Regional Library
 |**Event Description**|Independent Stage, the senior division of the Anglo Chinese School (Independent) drama club, presents the Shakespearean classic Macbeth like you have never seen it – in modern English and from the perspective of the historical pagan princess who became the infamous Lady Macbeth. Come down and have a taste of this darkly wacky 20 minute mashup, put together for Shakespeare buffs and novices alike.  <br>‘Lady Macbeth’ is followed by a contrasting original piece, ‘the High Life’, which presents an offbeat take on rehabilitation with a wholesome anti-addiction message. Brought to life, this theatrical piece is great for all youths and adults.  <br><br>Find out more at [www.nlb.gov.sg/golibrary2](http://www.nlb.gov.sg/golibrary2).
+
+##### **Healthier Child, Brighter Future [Free admission, registration required]**
+
+| | | 
+| -------- | -------- |
+| **Partner**     | National Library Board | 
+|**Time**|11am – 12pm
+|**Venue**|	Tampines Regional Library
+|**Event Description**|Research has shown that habits such as food preferences are formed by the age of 5. These habits formed in childhood are more likely to follow your child into adulthood and can impact health and quality of life. This My Family Weekend, find out what you can do to give your child a healthier start in life!  <br>The Healthier Child, Brighter Future workshop will cover topics such as healthier eating, how to increase daily physical activity and ways to encourage a fussy eater to eat fruits and vegetables. Both you and your child will also get to make one easy-to-make recipe and sample the healthy food!  <br><br>Find out more at [www.nlb.gov.sg/golibrary2](http://www.nlb.gov.sg/golibrary2).
