@@ -111,3 +111,36 @@ third_nav_title: Parents Info & Resources
 |**Time**|11am – 5.30pm
 |**Venue**|SAFRA Punggol
 |**Event Description**|In conjunction with NS50, SAFRA Punggol’s Diaper Dash returns this year featuring our baby participants in camo-designed event tees and diapers! Have fun while cheering on your little ones as they crawl and toddle down the 3-metre racetrack. Remember to invite your relatives to come along and gear up with keys, whistles, toys or anything that will get your baby to cross the finishing line first!  Babies can compete in the following categories. Leopard Crawlers (6 – 9 months), Leopard Crawlers (10 – 12 months)<br><br>Receive an exclusive race pack when you register at [www.safra.sg/diaperdash](http://www.safra.sg/diaperdash) .   <br>Registration Fee: $20 (SAFRA Member); $25 (Guest).  <br>For enquiries, please contact Tiffany at asmtiffany@safra.sg or Jim at gjim@safra.sg.
+
+##### **PIP’s PLAYbox [Free Admission]**
+
+<img src="/images/image004.jpeg" 
+     style="width:50%">
+
+| | | 
+| -------- | -------- |
+| **Partner**     | Esplanade - Theatres on the Bay    | 
+|**Time**|11am – 6pm<br>Closed for cleaning: 2pm – 3pm
+|**Venue**|Esplanade Mall, Level 4
+|**Event Description**|PIP’s PLAYbox is a dedicated arts space that includes a cosy loft, a roomy arts and craft area, a reading corner filled with books by Singapore writers and illustrators, as well as an outdoor play area. In conjunction with Esplanade’s festivals and series, PIP’s PLAYbox will be hosting a range of activities from storytelling sessions to self-guided craft activities this My Family Weekend. Don’t forget to keep a lookout for the wall mural created by artist and author Lee Kow Fong too!  <br><br>Find out more at [www.esplanade.com/pips-club/pips-playbox](http://www.esplanade.com/pips-club/pips-playbox).
+
+##### **English Storytelling**
+
+| | | 
+| -------- | -------- |
+| **Partner**     | National Library Board   | 
+|**Time**|Various Timings
+|**Venue**|Various libraries across Singapore
+|**Event Description**| Join our storytellers as they bring you into a world of fascinating stories, songs and rhymes. A journey full of fun and excitement await you and your family! Check out the schedules of the storytelling sessions [here](https://www.familiesforlife.sg/unite-at-an-event/Documents/NLB_Storytelling_MFW2017.pdf).  <br><br>Find out more at [www.nlb.gov.sg/golibrary2](http://www.nlb.gov.sg/golibrary2).
+
+##### **Prego Pasta Cooking Class**
+
+<img src="/images/image022.jpeg" 
+     style="width:50%">
+
+| | | 
+| -------- | -------- |
+| **Partner**     | eXplorerkid   | 
+|**Time**|1pm – 2pm
+|**Venue**|eXplorerkid, AMK Hub
+|**Event Description**| Create happiness in a dish with your child this My Family Weekend! Take your kids along for the Prego Pasta Cooking Class and learn recipes that are easy but so delicious. You’ll never run out of ideas for family meals anymore!  <br>Registration fee from $25 onwards; comes with free unlimited playtime at eXplorerkid! (worth $30)  <br>Register your family now at [www.explorerkid.com](http://www.explorerkid.com/) .
