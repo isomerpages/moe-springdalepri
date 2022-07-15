@@ -153,3 +153,11 @@ third_nav_title: Parents Info & Resources
 |**Time**|7.30pm – 8pm
 |**Venue**|Central Public Library
 |**Event Description**|Give your child’s early development a boost on My Family Weekend with Jiggle, Read and Rhyme! Indulge your child’s senses with songs, rhymes and stories that come alive in this enjoyable session specially catered to toddlers aged 1-3.  <br><br>Register now for an enriching time with your child and other parents via [www.nlb.gov.sg/golibrary](http://www.nlb.gov.sg/golibrary).
+
+##### **Families for Life “My Family Weekend” Picnic**
+
+| | | 
+| -------- | -------- |
+|**Time**|To be confirmed
+|**Venue**|Bishan-Ang Mo Kio Park
+|**Event Description**|While you are busy enjoying the different activities going on around the country, Families for Life (FFL) has something planned for your entire family at Bishan-Ang Mo Kio Park on 2 Sep 2017.  <br>Stay tuned for more updates on the Families for Life Picnic at the FFL Facebook [(https://www.facebook.com/familiesforlife.sg)](https://www.facebook.com/familiesforlife.sg) or join the FFL mailing list [(https://www.familiesforlife.sg/apppages/mailinglist/subscribe.aspx)](https://www.familiesforlife.sg/apppages/mailinglist/subscribe.aspx)  to receive the latest updates on My Family Weekend.
