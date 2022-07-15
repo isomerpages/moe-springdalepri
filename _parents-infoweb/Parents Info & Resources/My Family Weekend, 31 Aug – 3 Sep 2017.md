@@ -156,8 +156,20 @@ third_nav_title: Parents Info & Resources
 
 ##### **Families for Life “My Family Weekend” Picnic**
 
+<img src="/images/image009.jpeg" 
+     style="width:50%">
+
 | | | 
 | -------- | -------- |
 |**Time**|To be confirmed
 |**Venue**|Bishan-Ang Mo Kio Park
 |**Event Description**|While you are busy enjoying the different activities going on around the country, Families for Life (FFL) has something planned for your entire family at Bishan-Ang Mo Kio Park on 2 Sep 2017.  <br>Stay tuned for more updates on the Families for Life Picnic at the FFL Facebook [(https://www.facebook.com/familiesforlife.sg)](https://www.facebook.com/familiesforlife.sg) or join the FFL mailing list [(https://www.familiesforlife.sg/apppages/mailinglist/subscribe.aspx)](https://www.familiesforlife.sg/apppages/mailinglist/subscribe.aspx)  to receive the latest updates on My Family Weekend.
+
+##### **Healing Garden Tour [Free admission, registration required]**
+
+| | | 
+| -------- | -------- |
+| **Partner**     | NParks  | 
+|**Time**|9am – 10.30am (English)<br>10am – 11.30am (English &nsbp; Mandarin)
+|**Venue**|Singapore Botanic Gardens<br>Visitor Centre (Nassim Gate)
+|**Event Description**|Go on a tour of the Healing Garden, which showcases over 400 varieties of plants used medicinally. Laid out thematically based on medicinal properties for the different parts of the body such as the head, respiratory and reproductive systems, there is much to be learnt for everyone in the family! Admission is free. Register at the Singapore Botanic Gardens Visitor Centre (Nassim Gate).  <br><br>For groups larger than 20, please register at least 14 days in advance to nparks\_sbg\_visitor\_services@nparks.gov.sg.
