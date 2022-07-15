@@ -44,7 +44,7 @@ third_nav_title: Parents Info & Resources
 
 | | | 
 | -------- | -------- |
-| **Partner**     | Fei Yue Community Services    | 
-|**Time**|10am – 12pm
-|**Venue**|491B River Valley Road<br>Valley Point Shopping Centre #04-04A<br>Singapore 248373
-|**Event Description**|
+| **Partner**     | Esplanade - Theatres on the Bay    | 
+|**Time**|11am – 6pm<br>Closed for cleaning: 2pm – 3pm
+|**Venue**|Esplanade Mall, Level 4
+|**Event Description**|PIP’s PLAYbox is a dedicated arts space that includes a cosy loft, a roomy arts and craft area, a reading corner filled with books by Singapore writers and illustrators, as well as an outdoor play area. In conjunction with Esplanade’s festivals and series, PIP’s PLAYbox will be hosting a range of activities from storytelling sessions to self-guided craft activities this My Family Weekend. Don’t forget to keep a lookout for the wall mural created by artist and author Lee Kow Fong too!  <br><br>Find out more at [www.esplanade.com/pips-club/pips-playbox](http://www.esplanade.com/pips-club/pips-playbox).
