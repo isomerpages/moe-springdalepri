@@ -144,3 +144,12 @@ third_nav_title: Parents Info & Resources
 |**Time**|1pm – 2pm
 |**Venue**|eXplorerkid, AMK Hub
 |**Event Description**| Create happiness in a dish with your child this My Family Weekend! Take your kids along for the Prego Pasta Cooking Class and learn recipes that are easy but so delicious. You’ll never run out of ideas for family meals anymore!  <br>Registration fee from $25 onwards; comes with free unlimited playtime at eXplorerkid! (worth $30)  <br>Register your family now at [www.explorerkid.com](http://www.explorerkid.com/) .
+
+##### **Jiggle, Read and Rhyme \[Free Admission\]**
+
+| | | 
+| -------- | -------- |
+| **Partner**     | National Library Board  | 
+|**Time**|7.30pm – 8pm
+|**Venue**|Central Public Library
+|**Event Description**|Give your child’s early development a boost on My Family Weekend with Jiggle, Read and Rhyme! Indulge your child’s senses with songs, rhymes and stories that come alive in this enjoyable session specially catered to toddlers aged 1-3.  <br><br>Register now for an enriching time with your child and other parents via [www.nlb.gov.sg/golibrary](http://www.nlb.gov.sg/golibrary).
