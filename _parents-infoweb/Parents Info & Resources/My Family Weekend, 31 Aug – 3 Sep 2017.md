@@ -344,3 +344,21 @@ third_nav_title: Parents Info & Resources
 |**Time**|4pm – 6pm
 |**Venue**|	Queenstown Public Library
 |**Event Description**|Chipmunk singing sensations Alvin, Simon and Theodore are back for an encore in this hilarious 'squeakquel' packed with more music, more action, and more nutty fun for the whole family! When a concert mishap lands Dave in the hospital, the Chipmunks take a break from superstardom and enroll in school to fit in with kids their age. But, they soon face some stiff competition when they meet the Chipettes -- a beautiful, talented trio of chipmunks discovered by Ian, the boy's evil ex-manager!  <br>Come down with you family for this fun movie screening and find out what happens in the end!  <br><br>Find out more at [www.nlb.gov.sg/golibrary2](http://www.nlb.gov.sg/golibrary2).
+
+##### **PA Nee Soon East CC East Coast Park Beach Walk &nsbp; Chinatown Shopping Tour**
+
+| | | 
+| -------- | -------- |
+| **Partner**     | People's Association | 
+|**Time**|7.30am – 12pm
+|**Venue**|		East Coast Park and Chinatown
+|**Event Description**|Start the day out with your family bright and early! Take a walk along East Coast Beach, where both kids and elderly family members can enjoy the morning sun and cool sea breeze. Then explore Chinatown together for a mix of old and new stores and cafes!  <br>Sign up at Nee Soon East CC or call 62570446 for more information.
+
+##### **PA Zhenghua Senja Square RC Movie Under the Stars**
+
+| | | 
+| -------- | -------- |
+| **Partner**     | People's Association | 
+|**Time**|7pm – 10pm
+|**Venue**|	7 Senja Link<br>Singapore 677641
+|**Event Description**|Have a fun night out and gather the family for a movie under the stars! Share both laughter and tears as you watch Storks, a heartwarming but hilarious animated movie, that is ideal for all family members. Don’t miss out on the chance to stargaze at the same time!  <br>For more information, please contact Zhenghua CC at 63106702.
