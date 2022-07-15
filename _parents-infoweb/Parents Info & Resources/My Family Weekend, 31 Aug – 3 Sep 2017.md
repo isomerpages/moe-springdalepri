@@ -200,3 +200,15 @@ third_nav_title: Parents Info & Resources
 |**Time**|9am – 12pm
 |**Venue**|	SCC (Admiralty): Blk 719 Woodlands Ave 6, #01-628, Singapore 730719<br>SCC (Toa Payoh): Blk 159 Lor 1 Toa Payoh, #01-1530, Singapore 310159<br>SCC (Woodlands): Blk 321 Woodlands Street 32, #01-227, Singapore 730321
 |**Event Description**|		Come down for a fun and educational time at the Care Corner SCC Open House during My Family Weekend. Pick up tips to strengthen your family ties at the Family Life Talk and have fun with the young and old in the family at the Kid’s Fun stations where there are activities such as craft and painting and do-it-yourself family treats such as the Ice Kachang and many more.<br>You can also take a tour of the different centres and enjoy a registration fee waiver when you register your child for our SCC in 2018. Be sure to grab a goodie bag for your child while you’re there too! Check out the list of activities here.
+
+##### **Values for Life: Your Future is in Your Hands [Free admission, registration required]**
+
+<img src="/images/image014.jpeg" 
+     style="width:50%">
+
+| | | 
+| -------- | -------- |
+| **Partner**     | Morning Star Community Services  | 
+|**Time**|9am – 1pm
+|**Venue**|	Venue 1: 4 Lorong Low Koon, Singapore 536450<BR>Venue 2: Blk 261B Sengkang Eastway, #01-400, Singapore 542261<BR>Venue 3: Blk 95 Bedok North Ave 4, #01-1415, Singapore 460095<BR>Venue 4: Blk 508 Bedok North Ave 3, #01-369, Singapore 460508<BR>Venue 5: Agape Village, 7A Lor 8 Toa Payoh, #04-01, Singapore 319264
+|**Event Description**|		Sign up for this parent and child workshop to encourage positive values and virtues in children at Morning Star on Sat, 2 Sep. This interactive workshop is specially designed for parents with children between 5 to 12 years old and uses creative ways relatable to the child’s everyday life to impart values.  <br>Contact Ms Jess Leong at 6285 1377 or training@morningstar.org.sg to sign up. Registration closes on Sat, 5 Aug 2017.
