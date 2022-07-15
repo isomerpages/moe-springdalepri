@@ -188,3 +188,15 @@ third_nav_title: Parents Info & Resources
 |**Time**|9am - 10pm
 |**Venue**|Singapore Botanic Gardens<br>Learning Forest
 |**Event Description**|	Take the Learning Forest Tour this My Family Weekend and learn about freshwater forest wetland ecosystems at the Keppel Discovery Wetlands and walk amongst some of the tallest tree species in Southeast Asia at the SPH Walk of Giants. With a large network of boardwalks, visitors can explore habitats ranging from a freshwater forest wetland to a lowland rainforest. <br><br>Contact 6471 7361 or visit www.sbg.org.sg for updates. Registration can be done 15 mins before the tour commences at the Visitor Services Counter. Please note that no pets are allowed as the route requires access to elevated boardwalks.
+
+##### **Care Corner Student Care Centre (SCC) Open House 2017 [Free Admission]**
+
+<img src="/images/image013.jpeg" 
+     style="width:50%">
+
+| | | 
+| -------- | -------- |
+| **Partner**     | Care Corner Student Care Centre  | 
+|**Time**|9am – 12pm
+|**Venue**|	SCC (Admiralty): Blk 719 Woodlands Ave 6, #01-628, Singapore 730719<br>SCC (Toa Payoh): Blk 159 Lor 1 Toa Payoh, #01-1530, Singapore 310159<br>SCC (Woodlands): Blk 321 Woodlands Street 32, #01-227, Singapore 730321
+|**Event Description**|		Come down for a fun and educational time at the Care Corner SCC Open House during My Family Weekend. Pick up tips to strengthen your family ties at the Family Life Talk and have fun with the young and old in the family at the Kid’s Fun stations where there are activities such as craft and painting and do-it-yourself family treats such as the Ice Kachang and many more.<br>You can also take a tour of the different centres and enjoy a registration fee waiver when you register your child for our SCC in 2018. Be sure to grab a goodie bag for your child while you’re there too! Check out the list of activities here.
