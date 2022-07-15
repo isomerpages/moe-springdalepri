@@ -335,3 +335,12 @@ third_nav_title: Parents Info & Resources
 |**Time**|3.30pm – 4pm
 |**Venue**|	Jurong West Public Library
 |**Event Description**|Captain Drug Buster is on a hunt for a dangerous man who disguises himself as the “Candy Man” and gives out irresistible treats to children, which turn out to be drugs that make the children obey him as part of his big evil plan to take over the world. Will Captain Drug Buster be able to recruit everybody’s help to capture the “Candy Man” in time? Or will the children become part of his evil plan?  <br>Bring your child (4-6 years old) down to join Captain Drug Buster on this exciting mission!  <br>The Captain Drug Buster Show is brought to you by the Central Narcotics Bureau.  <BR><BR>Find out more at [www.nlb.gov.sg/golibrary2](http://www.nlb.gov.sg/golibrary2).
+
+##### **Movie screening: Alvin and the Chipmunks 2 [Free admission]**
+
+| | | 
+| -------- | -------- |
+| **Partner**     | National Library Board | 
+|**Time**|4pm – 6pm
+|**Venue**|	Queenstown Public Library
+|**Event Description**|Chipmunk singing sensations Alvin, Simon and Theodore are back for an encore in this hilarious 'squeakquel' packed with more music, more action, and more nutty fun for the whole family! When a concert mishap lands Dave in the hospital, the Chipmunks take a break from superstardom and enroll in school to fit in with kids their age. But, they soon face some stiff competition when they meet the Chipettes -- a beautiful, talented trio of chipmunks discovered by Ian, the boy's evil ex-manager!  <br>Come down with you family for this fun movie screening and find out what happens in the end!  <br><br>Find out more at [www.nlb.gov.sg/golibrary2](http://www.nlb.gov.sg/golibrary2).
