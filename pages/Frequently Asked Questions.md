@@ -9,7 +9,7 @@ description: ""
 
 2\. In the event that you are unable to contact the teacher, click on 'Forget Password' and answer the security questions that follows. (Refer to the SLS slips that had been issued to your child at the beginning of the year.)
 
-3\. For SLS Support click [here](/SLS-support).
+3\. For SLS Support click [here](/SLS-Helpdesk).
 
 **Q2 : I have forgotten my username. What should I do?**  
 
