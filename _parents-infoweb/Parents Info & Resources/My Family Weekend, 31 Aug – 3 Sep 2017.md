@@ -167,6 +167,9 @@ third_nav_title: Parents Info & Resources
 
 ##### **Healing Garden Tour [Free admission, registration required]**
 
+<img src="/images/image012.jpeg" 
+     style="width:50%">
+
 | | | 
 | -------- | -------- |
 | **Partner**     | NParks  | 
