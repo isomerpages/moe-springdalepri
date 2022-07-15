@@ -269,3 +269,12 @@ third_nav_title: Parents Info & Resources
 |**Time**|10am – 6pm
 |**Venue**|	Jurong Regional Library
 |**Event Description**|Come down and be intrigued by the uniqueness of the native wildlife of our very own rainforests! Featuring many animal specimens from the Lee Kong Chian Natural History Museum, the NUS Toddycats conservation booth is a perfect spot to bring your family for a time of fun learning. Don’t miss this chance to explore the wild in a different way! <br><br>Find out more at [www.nlb.gov.sg/golibrary2](http://www.nlb.gov.sg/golibrary2).
+
+##### **Lady Macbeth & the High Life [Free admission]**
+
+| | | 
+| -------- | -------- |
+| **Partner**     | National Library Board | 
+|**Time**|11am – 11.45am
+|**Venue**|	Jurong Regional Library
+|**Event Description**|Independent Stage, the senior division of the Anglo Chinese School (Independent) drama club, presents the Shakespearean classic Macbeth like you have never seen it – in modern English and from the perspective of the historical pagan princess who became the infamous Lady Macbeth. Come down and have a taste of this darkly wacky 20 minute mashup, put together for Shakespeare buffs and novices alike.  <br>‘Lady Macbeth’ is followed by a contrasting original piece, ‘the High Life’, which presents an offbeat take on rehabilitation with a wholesome anti-addiction message. Brought to life, this theatrical piece is great for all youths and adults.  <br><br>Find out more at [www.nlb.gov.sg/golibrary2](http://www.nlb.gov.sg/golibrary2).
