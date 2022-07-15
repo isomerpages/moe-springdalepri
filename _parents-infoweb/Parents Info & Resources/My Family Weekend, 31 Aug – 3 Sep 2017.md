@@ -362,3 +362,73 @@ third_nav_title: Parents Info & Resources
 |**Time**|7pm – 10pm
 |**Venue**|	7 Senja Link<br>Singapore 677641
 |**Event Description**|Have a fun night out and gather the family for a movie under the stars! Share both laughter and tears as you watch Storks, a heartwarming but hilarious animated movie, that is ideal for all family members. Don’t miss out on the chance to stargaze at the same time!  <br>For more information, please contact Zhenghua CC at 63106702.
+
+**Sun, 3 Sep 17**
+
+##### **Gallery Children’s Biennale: Dreams and Stories**
+
+<img src="/images/image002.jpeg" 
+     style="width:50%">
+
+| | | 
+| -------- | -------- |
+| **Partner**     | National Gallery Singapore     | 
+|**Time**|Sun - Thu & Public Holidays: 10am - 7pm<br>Fri - Sat & Eve of Public Holidays: 10am - 10pm
+|**Venue**|National Gallery Singapore<br>1 St Andrews Road<br>Singapore 178957
+|**Event Description**|Calling the young and young at heart! The inaugural Gallery Children’s Biennale invites you to discover art in a whole new way. Explore dreams and stories through ten interactive art showcases as well as a suite of programmes and activities specially curated for young visitors and parents to embark on a creative journey of discovery together. The artworks are located at various public spaces within the Gallery across both the City Hall and Former Supreme Court buildings. Gallery Children’s Biennale takes place from now till 8 Oct 2017.  <br><br>For more details, visit [www.childrensbiennale.com](http://www.childrensbiennale.com/).
+
+##### **PIP’s PLAYbox [Free Admission]**
+
+<img src="/images/image004.jpeg" 
+     style="width:50%">
+
+| | | 
+| -------- | -------- |
+| **Partner**     | Esplanade - Theatres on the Bay    | 
+|**Time**|11am – 6pm<br>Closed for cleaning: 2pm – 3pm
+|**Venue**|Esplanade Mall, Level 4
+|**Event Description**|PIP’s PLAYbox is a dedicated arts space that includes a cosy loft, a roomy arts and craft area, a reading corner filled with books by Singapore writers and illustrators, as well as an outdoor play area. In conjunction with Esplanade’s festivals and series, PIP’s PLAYbox will be hosting a range of activities from storytelling sessions to self-guided craft activities this My Family Weekend. Don’t forget to keep a lookout for the wall mural created by artist and author Lee Kow Fong too!  <br><br>Find out more at [www.esplanade.com/pips-club/pips-playbox](http://www.esplanade.com/pips-club/pips-playbox).
+
+##### **Diaper Dash**
+
+<img src="/images/image021.jpeg" 
+     style="width:50%">
+
+| | | 
+| -------- | -------- |
+| **Partner**     |  	SAFRA     | 
+|**Time**|11am – 5.30pm
+|**Venue**|SAFRA Punggol
+|**Event Description**|In conjunction with NS50, SAFRA Punggol’s Diaper Dash returns this year featuring our baby participants in camo-designed event tees and diapers! Have fun while cheering on your little ones as they crawl and toddle down the 3-metre racetrack. Remember to invite your relatives to come along and gear up with keys, whistles, toys or anything that will get your baby to cross the finishing line first!  Babies can compete in the following categories. Leopard Crawlers (6 – 9 months), Leopard Crawlers (10 – 12 months)<br><br>Receive an exclusive race pack when you register at [www.safra.sg/diaperdash](http://www.safra.sg/diaperdash) .   <br>Registration Fee: $20 (SAFRA Member); $25 (Guest).  <br>For enquiries, please contact Tiffany at asmtiffany@safra.sg or Jim at gjim@safra.sg.
+
+##### **English Storytelling**
+
+| | | 
+| -------- | -------- |
+| **Partner**     | National Library Board   | 
+|**Time**|Various Timings
+|**Venue**|Various libraries across Singapore
+|**Event Description**| Join our storytellers as they bring you into a world of fascinating stories, songs and rhymes. A journey full of fun and excitement await you and your family! Check out the schedules of the storytelling sessions [here](https://www.familiesforlife.sg/unite-at-an-event/Documents/NLB_Storytelling_MFW2017.pdf).  <br><br>Find out more at [www.nlb.gov.sg/golibrary2](http://www.nlb.gov.sg/golibrary2).
+
+##### **Learning Forest Tour [Free admission, registration required]**
+
+<img src="/images/image011.jpeg" 
+     style="width:50%">
+
+| | | 
+| -------- | -------- |
+| **Partner**     | NParks  | 
+|**Time**|9am - 10pm
+|**Venue**|Singapore Botanic Gardens<br>Learning Forest
+|**Event Description**|	Take the Learning Forest Tour this My Family Weekend and learn about freshwater forest wetland ecosystems at the Keppel Discovery Wetlands and walk amongst some of the tallest tree species in Southeast Asia at the SPH Walk of Giants. With a large network of boardwalks, visitors can explore habitats ranging from a freshwater forest wetland to a lowland rainforest. <br><br>Contact 6471 7361 or visit www.sbg.org.sg for updates. Registration can be done 15 mins before the tour commences at the Visitor Services Counter. Please note that no pets are allowed as the route requires access to elevated boardwalks.
+
+##### **My Family Fiesta – Making Singapore a Great Place for Families**
+
+<img src="/images/image025.jpeg" 
+     style="width:50%">
+
+| | | 
+| -------- | -------- |
+|**Time**|10am – 6pm
+|**Venue**|Punggol SAFRA
+|**Event Description**|	Looking for something fun to do with your family over the long weekend in September? My Family Fiesta will feature an exciting line-up of activities for the young and young-at-heart – with activities ranging from the SAFRA Punggol Diaper Dash 2017 to a heart-pumping Zumba session!  <br>There will also be bouncy castles and painting activities to keep your kids entertained. Families can try their hand at bowling or belt your hearts out during a karaoke session.  <br><br>For more details, please visit: [http://heybaby.sg/familyfiesta](http://heybaby.sg/familyfiesta).
