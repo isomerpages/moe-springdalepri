@@ -260,3 +260,12 @@ third_nav_title: Parents Info & Resources
 |**Time**|4pm – 5.30pm :Street Dance<br>6pm – 7.30pm: Paso Doble (Ballroom)<br>8pm – 9.30pm: Rumba (Date Night)
 |**Venue**|	Esplanade Rehearsal Studio
 |**Event Description**|Discover the joy of movement and fall in love with dance by trying it yourself at da:ns festival’s Footwork workshops! Footwork gives you the opportunity to learn popular dances from the experts and pick up some moves in the months leading up to the da:ns festival, held from 20th – 29th October. Conducted by professional instructors, the Footwork: Adults & Youth workshops cover the basics for adults and youths with little or no experience in dance. <br>$14 per session, per pax. Esplanade&Me and JOYears specials available. <br>Get your tickets at [www.esplanade.com/festivals-and-series/dans-festival/2017/footwork-adults-and-youth](http://www.esplanade.com/festivals-and-series/dans-festival/2017/footwork-adults-and-youth).
+
+##### **Conservation booth by NUS Toddycats [Free admission]**
+
+| | | 
+| -------- | -------- |
+| **Partner**     | National Library Board | 
+|**Time**|10am – 6pm
+|**Venue**|	Jurong Regional Library
+|**Event Description**|Come down and be intrigued by the uniqueness of the native wildlife of our very own rainforests! Featuring many animal specimens from the Lee Kong Chian Natural History Museum, the NUS Toddycats conservation booth is a perfect spot to bring your family for a time of fun learning. Don’t miss this chance to explore the wild in a different way! <br><br>Find out more at [www.nlb.gov.sg/golibrary2](http://www.nlb.gov.sg/golibrary2).
