@@ -176,3 +176,16 @@ third_nav_title: Parents Info & Resources
 |**Time**|9am – 10.30am (English)<br>10am – 11.30am (English &nsbp; Mandarin)
 |**Venue**|Singapore Botanic Gardens<br>Visitor Centre (Nassim Gate)
 |**Event Description**|Go on a tour of the Healing Garden, which showcases over 400 varieties of plants used medicinally. Laid out thematically based on medicinal properties for the different parts of the body such as the head, respiratory and reproductive systems, there is much to be learnt for everyone in the family! Admission is free. Register at the Singapore Botanic Gardens Visitor Centre (Nassim Gate).  <br><br>For groups larger than 20, please register at least 14 days in advance to nparks\_sbg\_visitor\_services@nparks.gov.sg.
+
+##### **Learning Forest Tour [Free admission, registration required]**
+
+<img src="/images/image011.jpeg" 
+     style="width:50%">
+
+| | | 
+| -------- | -------- |
+| **Partner**     | NParks  | 
+|**Time**|9am - 10pm
+|**Venue**|Singapore Botanic Gardens<br>Learning Forest
+|**Event Description**|	
+Take the Learning Forest Tour this My Family Weekend and learn about freshwater forest wetland ecosystems at the Keppel Discovery Wetlands and walk amongst some of the tallest tree species in Southeast Asia at the SPH Walk of Giants. With a large network of boardwalks, visitors can explore habitats ranging from a freshwater forest wetland to a lowland rainforest. <br><br>Contact 6471 7361 or visit www.sbg.org.sg for updates. Registration can be done 15 mins before the tour commences at the Visitor Services Counter. Please note that no pets are allowed as the route requires access to elevated boardwalks. 
