@@ -3,6 +3,9 @@ title: SLS Password Reset
 permalink: /SLS-Password-Reset
 description: ""
 ---
+#### SLS Password Reset Email Address Verification
+
+
 To ensure that all students are able to access Singapore Student Learning Space (SLS) for home-based learning, the school encourages parents to:
 
  ·         **key in an email address** for future password reset, and
