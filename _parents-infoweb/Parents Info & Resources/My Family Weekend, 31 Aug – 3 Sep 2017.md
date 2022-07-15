@@ -299,3 +299,12 @@ third_nav_title: Parents Info & Resources
 |**Time**|11.30am – 12.30pm
 |**Venue**|	Pasir Ris Public Library
 |**Event Description**|Join the teachers from Odyssey the Global Preschool as they share tips on reading and getting your young child to love reading too. The teachers will also be conducting a special storytelling activity for your children in this session. Bring your child down for a taste of how fun learning and reading can really be!  <br><br>Find out more at [www.nlb.gov.sg/golibrary2](http://www.nlb.gov.sg/golibrary2).
+
+##### **让故事活起来! Stories Coming Alive @ NLB. [Free admission]**
+
+| | | 
+| -------- | -------- |
+| **Partner**     | National Library Board | 
+|**Time**|12pm – 12.30pm
+|**Venue**|	Toa Payoh Public Library
+|**Event Description**|	让孩童通过生动的讲故事节目，享受学华语的乐趣、激发想象力、培养良好价值，度过一个充实的周末！趣味故事，精彩童年，这是该欢笑，该想象的年龄。节目欢迎家长陪同。<br>Join storytellers from the Chou Sing Chu Foundation in a series of fun-filled, interactive Chinese storytelling sessions. Journey through a variety of stories while participating in the many fun and interactive activities planned for each session! Parents and children of all ages are welcomed to join in.<br><br>Find out more at www.nlb.gov.sg/golibrary2.
