@@ -76,3 +76,37 @@ third_nav_title: Parents Info & Resources
 |**Time**|7.30pm – 8pm
 |**Venue**|Queenstown Public Library
 |**Event Description**|Give your child’s early development a boost on My Family Weekend with Jiggle, Read and Rhyme! Indulge your child’s senses with songs, rhymes and stories that come alive in this enjoyable session specially catered to toddlers aged 1-3.  <br><br>Register now for an enriching time with your child and other parents via [www.nlb.gov.sg/golibrary](http://www.nlb.gov.sg/golibrary).
+
+##### **PA Yio Chu Kang Gardens NC Movie Screeening**
+
+| | | 
+| -------- | -------- |
+| **Partner**     | People's Association  | 
+|**Time**|7pm – 10pm
+|**Venue**|Road side in front of Yio Chu Kang Gardens Playground<br>Singapore 568071
+|**Event Description**|Take your entire family for relaxing night out and enjoy a movie outdoors! Pack some snacks, put on some comfy clothes and wind down together. It’s a great time for the whole family, young or old to enjoy a movie together in a different setting! For more information, please contact Yio Chu Kang CC at 64570414.
+
+**Sat, 2 Sep 17**
+
+##### **Gallery Children’s Biennale: Dreams and Stories**
+
+<img src="/images/image002.jpeg" 
+     style="width:50%">
+
+| | | 
+| -------- | -------- |
+| **Partner**     | National Gallery Singapore     | 
+|**Time**|Sun - Thu & Public Holidays: 10am - 7pm<br>Fri - Sat & Eve of Public Holidays: 10am - 10pm
+|**Venue**|National Gallery Singapore<br>1 St Andrews Road<br>Singapore 178957
+|**Event Description**|Calling the young and young at heart! The inaugural Gallery Children’s Biennale invites you to discover art in a whole new way. Explore dreams and stories through ten interactive art showcases as well as a suite of programmes and activities specially curated for young visitors and parents to embark on a creative journey of discovery together. The artworks are located at various public spaces within the Gallery across both the City Hall and Former Supreme Court buildings. Gallery Children’s Biennale takes place from now till 8 Oct 2017.   <br><br>For more details, visit [www.childrensbiennale.com](http://www.childrensbiennale.com/) .
+
+##### **Diaper Dash**
+
+
+
+| | | 
+| -------- | -------- |
+| **Partner**     |  	SAFRA     | 
+|**Time**|11am – 5.30pm
+|**Venue**|SAFRA Punggol
+|**Event Description**|In conjunction with NS50, SAFRA Punggol’s Diaper Dash returns this year featuring our baby participants in camo-designed event tees and diapers! Have fun while cheering on your little ones as they crawl and toddle down the 3-metre racetrack. Remember to invite your relatives to come along and gear up with keys, whistles, toys or anything that will get your baby to cross the finishing line first!  Babies can compete in the following categories. Leopard Crawlers (6 – 9 months), Leopard Crawlers (10 – 12 months)<br><br>Receive an exclusive race pack when you register at [www.safra.sg/diaperdash](http://www.safra.sg/diaperdash) .   <br>Registration Fee: $20 (SAFRA Member); $25 (Guest).  <br>For enquiries, please contact Tiffany at asmtiffany@safra.sg or Jim at gjim@safra.sg.
