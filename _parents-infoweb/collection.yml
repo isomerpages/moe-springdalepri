@@ -2,6 +2,7 @@ collections:
   parents-infoweb:
     output: true
     order:
+      - Parents Info & Resources/Parenting Related Articles.md
       - Parents Info & Resources/.keep
       - Springdale Parent Volunteer Club.md
       - Travel Declaration.md
