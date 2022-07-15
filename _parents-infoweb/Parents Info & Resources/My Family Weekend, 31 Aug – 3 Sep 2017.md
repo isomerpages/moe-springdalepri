@@ -236,3 +236,15 @@ third_nav_title: Parents Info & Resources
 |**Time**|12pm – 1pm: Ballet
 |**Venue**|	Esplanade Rehearsal Studio
 |**Event Description**|	Discover the joy of movement and fall in love with dance by trying it yourself at da:ns festival’s Footwork workshops! Footwork gives you the opportunity to learn popular dances from the experts and pick up some moves in the months leading up to the da:ns festival, held from 20th – 29th October. <br>Conducted by professional instructors, Footwork: Happy Feet workshops are perfect for adults aged 55 years old and above with little or no experience in dance who are interested in picking up the basics! <br>$14 per session, per pax. Esplanade&nsbp;Me and JOYears specials available.<br>Give your grandparents or elderly relatives a chance to move their happy feet at [www.esplanade.com/festivals-and-series/dans-festival/2017/footwork-happy-feet](http://www.esplanade.com/festivals-and-series/dans-festival/2017/footwork-happy-feet).
+
+##### **Footwork: Parents & Kids**
+
+<img src="/images/image018.jpeg" 
+     style="width:50%">
+
+| | | 
+| -------- | -------- |
+| **Partner**     | Esplanade - Theatres on the Bay | 
+|**Time**|2pm – 3pm: Broadway Jazz
+|**Venue**|	Esplanade Rehearsal Studio
+|**Event Description**|	Discover the joy of movement and fall in love with dance by trying it yourself at da:ns festival’s Footwork workshops! Footwork gives you the opportunity to learn popular dances from the experts and pick up some moves in the months leading up to the da:ns festival, held from 20th – 29th October. <br>Footwork: Parents & Kids is a great way for parents and kids aged 7–10 years old to bond through dancing. Lots of fun and laughter is guaranteed! <br>$24 for 1 adult and 1 child; $36 for 1 adult and 2 children or 2 adults and 1 child. Price is per session. <br>Get your tickets at [www.esplanade.com/festivals-and-series/dans-festival/2017/footwork-parents-and-kids](http://www.esplanade.com/festivals-and-series/dans-festival/2017/footwork-parents-and-kids).
