@@ -479,3 +479,13 @@ third_nav_title: Parents Info & Resources
 |**Time**|4pm – 5.30pm :Street Dance<br>6pm – 7.30pm: Paso Doble (Ballroom)<br>8pm – 9.30pm: Rumba (Date Night)
 |**Venue**|	Esplanade Rehearsal Studio
 |**Event Description**|Discover the joy of movement and fall in love with dance by trying it yourself at da:ns festival’s Footwork workshops! Footwork gives you the opportunity to learn popular dances from the experts and pick up some moves in the months leading up to the da:ns festival, held from 20th – 29th October. Conducted by professional instructors, the Footwork: Adults & Youth workshops cover the basics for adults and youths with little or no experience in dance. <br>$14 per session, per pax. Esplanade&Me and JOYears specials available. <br>Get your tickets at [www.esplanade.com/festivals-and-series/dans-festival/2017/footwork-adults-and-youth](http://www.esplanade.com/festivals-and-series/dans-festival/2017/footwork-adults-and-youth).
+
+##### **Playtime@Library! [Free admission]**
+
+
+| | | 
+| -------- | -------- |
+|**Partner**|National Library Board
+|**Time**|2pm – 5pm
+|**Venue**|Bukit Panjang Public Library - Stories Come Alive Room, BPPL’s Children Section
+|**Event Description**|		Playtime@Library! is a fun, unstructured play programme catered for children and parents to learn, socialize and make new friends. With many interesting books and a wide variety of educational aids, it is the perfect time to have fun and bond as a family. Please note that this is a self-guided programme where you decide how you want to learn!<br>This programme is open to children aged 6 years and below. Children must be accompanied by a parent or caregiver.<br><br>Find out more at www.nlb.gov.sg/golibrary2.
