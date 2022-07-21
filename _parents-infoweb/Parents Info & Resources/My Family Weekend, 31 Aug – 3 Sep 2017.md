@@ -432,3 +432,50 @@ third_nav_title: Parents Info & Resources
 |**Time**|10am – 6pm
 |**Venue**|Punggol SAFRA
 |**Event Description**|	Looking for something fun to do with your family over the long weekend in September? My Family Fiesta will feature an exciting line-up of activities for the young and young-at-heart – with activities ranging from the SAFRA Punggol Diaper Dash 2017 to a heart-pumping Zumba session!  <br>There will also be bouncy castles and painting activities to keep your kids entertained. Families can try their hand at bowling or belt your hearts out during a karaoke session.  <br><br>For more details, please visit: [http://heybaby.sg/familyfiesta](http://heybaby.sg/familyfiesta).
+
+##### **PA Bukit Panjang CC Monthly Family Brisk Walk**
+
+
+| | | 
+| -------- | -------- |
+|**Partner**|People's Association
+|**Time**|7.30am – 8.30am
+|**Venue**|Bukit Panjang CC<br>8 Pending Road<br>Singapore 678295
+|**Event Description**|	family brisk walk and bond with your loved ones through a fun and healthy activity enjoyed by all family members.  <br><br>For more information, please contact Bukit Panjang CC at 6506091
+
+##### **Footwork: Twinkle Toes**
+
+<img src="/images/image016.jpeg" 
+     style="width:50%">
+
+| | | 
+| -------- | -------- |
+| **Partner**     | Esplanade - Theatres on the Bay | 
+|**Time**|9am – 10am: Ballet Baby<br>10.30am – 11.30am: Tap Baby
+|**Venue**|	Esplanade Rehearsal Studio
+|**Event Description**|	Discover the joy of movement and fall in love with dance by trying it yourself at da:ns festival’s Footwork workshops! Footwork gives you the opportunity to learn popular dances from the experts and pick up some moves in the months leading up to the da:ns festival, held from 20th – 29th October.  <br>Footwork: Twinkle Toes is specially designed for little ones aged 3–6 years old, and their mummies or daddies. In these dance-play workshops, little tots and their parents can have fun together as they whirl and twirl!  <br>$24 for 1 adult and 1 child; $36 for 1 adult and 2 children or 2 adults and 1 child. Price is per session. Children must be accompanied by an adult 16 years old and above.  <br><br>Get your tickets at [www.esplanade.com/festivals-and-series/dans-festival/2017/footwork-twinkle-toes](http://www.esplanade.com/festivals-and-series/dans-festival/2017/footwork-twinkle-toes).
+
+
+##### **Footwork: Parents & Kids**
+
+<img src="/images/image018.jpeg" 
+     style="width:50%">
+
+| | | 
+| -------- | -------- |
+| **Partner**     | Esplanade - Theatres on the Bay | 
+|**Time**|2pm – 3pm: Broadway Jazz
+|**Venue**|	Esplanade Rehearsal Studio
+|**Event Description**|	Discover the joy of movement and fall in love with dance by trying it yourself at da:ns festival’s Footwork workshops! Footwork gives you the opportunity to learn popular dances from the experts and pick up some moves in the months leading up to the da:ns festival, held from 20th – 29th October. <br>Footwork: Parents & Kids is a great way for parents and kids aged 7–10 years old to bond through dancing. Lots of fun and laughter is guaranteed! <br>$24 for 1 adult and 1 child; $36 for 1 adult and 2 children or 2 adults and 1 child. Price is per session. <br>Get your tickets at [www.esplanade.com/festivals-and-series/dans-festival/2017/footwork-parents-and-kids](http://www.esplanade.com/festivals-and-series/dans-festival/2017/footwork-parents-and-kids).
+
+##### **Footwork: Adults & Youth**
+
+<img src="/images/image019.jpeg" 
+     style="width:50%">
+
+| | | 
+| -------- | -------- |
+| **Partner**     | Esplanade - Theatres on the Bay | 
+|**Time**|4pm – 5.30pm :Street Dance<br>6pm – 7.30pm: Paso Doble (Ballroom)<br>8pm – 9.30pm: Rumba (Date Night)
+|**Venue**|	Esplanade Rehearsal Studio
+|**Event Description**|Discover the joy of movement and fall in love with dance by trying it yourself at da:ns festival’s Footwork workshops! Footwork gives you the opportunity to learn popular dances from the experts and pick up some moves in the months leading up to the da:ns festival, held from 20th – 29th October. Conducted by professional instructors, the Footwork: Adults & Youth workshops cover the basics for adults and youths with little or no experience in dance. <br>$14 per session, per pax. Esplanade&Me and JOYears specials available. <br>Get your tickets at [www.esplanade.com/festivals-and-series/dans-festival/2017/footwork-adults-and-youth](http://www.esplanade.com/festivals-and-series/dans-festival/2017/footwork-adults-and-youth).
