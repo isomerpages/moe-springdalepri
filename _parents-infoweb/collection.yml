@@ -2,10 +2,10 @@ collections:
   parents-infoweb:
     output: true
     order:
-      - Parents Info & Resources/My Family Weekend, 31 Aug – 3 Sep 2017.md
-      - Parents Info & Resources/Activities For Families.md
-      - Parents Info & Resources/Parenting Related Articles.md
       - Parents Info & Resources/.keep
+      - Parents Info & Resources/Activities For Families.md
+      - Parents Info & Resources/My Family Weekend, 31 Aug – 3 Sep 2017.md
+      - Parents Info & Resources/Parenting Related Articles.md
       - Springdale Parent Volunteer Club.md
       - Travel Declaration.md
       - Student Learning Space (SLS).md
