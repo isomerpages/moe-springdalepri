@@ -489,3 +489,13 @@ third_nav_title: Parents Info & Resources
 |**Time**|2pm – 5pm
 |**Venue**|Bukit Panjang Public Library - Stories Come Alive Room, BPPL’s Children Section
 |**Event Description**|		Playtime@Library! is a fun, unstructured play programme catered for children and parents to learn, socialize and make new friends. With many interesting books and a wide variety of educational aids, it is the perfect time to have fun and bond as a family. Please note that this is a self-guided programme where you decide how you want to learn!<br>This programme is open to children aged 6 years and below. Children must be accompanied by a parent or caregiver.<br><br>Find out more at www.nlb.gov.sg/golibrary2.
+
+##### **NAC-ExxonMobil Concert in the Park [Free admission]**
+
+
+| | | 
+| -------- | -------- |
+|**Partner**|National Arts Council
+|**Time**|4.30pm – 6.30pm
+|**Venue**|Singapore Botanic Gardens<br>Shaw Foundation Symphony Stage
+|**Event Description**|		Head down with your friends and family for an afternoon of fun at the Singapore Botanic Gardens! Enjoy a free concert in the park featuring our home-grown talents and participate in exciting fringe activities!  <br>The NAC-ExxonMobil Concert in the Park series is organised by National Arts Council, sponsored by ExxonMobil and supported by National Parks Board.  <br>Admission is free. In case of inclement weather, please check NAC’s [Facebook page](https://www.facebook.com/artsforall.sg) or [website](http://www.nac.gov.sg/) for more details. Concert-goers are advised to use public transport.
