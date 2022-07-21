@@ -14,5 +14,14 @@ Click on the link to download the required booklet.
 
 |  | | 
 | -------- | -------- | 
-| [Information Booklet for Parents Primary 1](/files/2019%20P1%20Parents%20Info%20Booklet.pdf)    | [Information Booklet for Parents Primary 2](/files/2019%20P2%20Parents%20Info%20Booklet.pdf)    |
+| [Information Booklet for Parents Primary 1](/files/2019%20P1%20Parents%20Info%20Booklet.pdf)    | [Information Booklet for Parents Primary 2](/files/2019%20P2%20Parents%20Info%20Booklet.pdf)  |
 
+<img src="/images/P3.png" 
+     style="width:50%;float:left">
+		 <img src="/images/P4.png" 
+     style="width:50%">
+
+
+|  | | 
+| -------- | -------- | 
+| [Information Booklet for Parents Primary 3](/files/2019%20P3%20Parents%20Info%20Booklet.pdf)  |   [Information Booklet for Parents Primary 4](/files/2019%20P4%20Parents%20Info%20Booklet.pdf)  |
