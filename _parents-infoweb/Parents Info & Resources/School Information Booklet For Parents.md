@@ -35,3 +35,13 @@ Click on the link to download the required booklet.
 |  | | 
 | -------- | -------- | 
 | [Information Booklet for Parents Primary 5F](/files/2019%20P5%20Fdn%20Parents%20Info%20Booklet.pdf)  |   [Information Booklet for Parents Primary 5S](/files/2019%20P5%20Std%20Parents%20Info%20Booklet.pdf)  |
+
+<img src="/images/P6F.png" 
+     style="width:50%;float:left">
+		 <img src="/images/P6S.png" 
+     style="width:50%">
+
+
+|  | | 
+| -------- | -------- | 
+| [Information Booklet for Parents Primary 6F](/files/2019%20P6%20Fdn%20Parents%20Info%20Booklet.pdf) |  [Information Booklet for Parents Primary 6S](/files/2019%20P6%20Std%20Parents%20Info%20Booklet.pdf) |
