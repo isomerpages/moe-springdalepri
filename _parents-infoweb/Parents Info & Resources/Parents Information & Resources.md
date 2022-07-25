@@ -6,6 +6,6 @@ third_nav_title: Parents Info & Resources
 ---
 *   [Articles related to parenting]()  
     
-*   [Slides for Sharing & Seminars in Springdale Primary School](https://springdalepri.moe.edu.sg/parents-infoweb/parents-information-n-resources/sharing-slides-for-seminars-n-sharing-in-springdale-pri-sch)  
+*   [Slides for Sharing & Seminars in Springdale Primary School](/parents-infoweb/Parents-Info-and-Resources/Sharing-Slides-For-Seminars-and-Sharing)  
     
 *   [Family activities ideas](/parents-infoweb/Parents-Info-and-Resources/Activities-For-Families)
