@@ -2,6 +2,7 @@ collections:
   parents-infoweb:
     output: true
     order:
+      - Parents Info & Resources/Parents Information & Resources.md
       - Parents Info & Resources/Sharing Slides For Seminars & Sharing In
         Springdale Pri Sch.md
       - Parents Info & Resources/School Information Booklet For Parents.md
