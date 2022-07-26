@@ -40,3 +40,37 @@ The FTGP is conducted by both Form and Co-Form Teachers with MOE resources to eq
     
 *   **Programme for Active Learning (PAL)**<br>
 		Social-emotional skills taught during Form Teacher Guidance Period (FTGP) are reinforced and demonstrated in the weekly PAL lessons for the Primary 1 and 2 students. These lessons are conducted by both Form and Co-Form Teachers. The PAL programme consists of various modules, namely I Can Module, Visual Arts, Performing Arts, Outdoors Education and Sports & Games.
+		
+![](/images/cce.png) 
+[1]This may be replaced by PAL Drama for P1 in 2015.  
+      
+   **Teacher-Student Chit-Chat sessions**<br>
+		The school believes that good Teacher-Student Relationship is important in cultivating good learning habits & nurturing students to maximise their potential. Knowing students beyond the classroom context is important as it gives teachers a more holistic understanding of how he/she is at home, his/her interaction with others & his/her learning habits. Beyond academic development, the school hopes having chit-chat session will also be an opportunity for teachers to build positive bond with the students to influence an all-round development of the child.  
+      
+   **Character & Citizenship Education (CCE) Lessons**<br>
+		CCE lessons are conducted every week by Mother Tongue Teachers. Through the CCE lessons, students learn about the values of Respect, Responsibility, Resilience, Integrity, Care & Harmony (R 3 ICH) and social-emotional competencies and skills related to citizenship competencies. Parental involvement is encouraged through parents’ participation in the Family Time Activities that are part of the syllabus.  
+      
+   **Pre-Assembly & Assembly Talks on School Values**<br>
+		Every term, the department conducts Assembly Talks on the values of the term so as to help students develop a deeper understanding of the school values and how they can apply them in daily life:  
+      
+    
+*   Term 1: Respect & Responsibility
+*   Term 2: Care & Harmony
+*   Term 3: Integrity
+*   Term 4: Resilience
+
+**Values-In-Action (VIA) Programme**
+
+As part of the school’s VIA programme, class duties are carried out on a daily basis to develop in students a sense of responsibility. Besides daily class duties, the school provides once-a-term protected time during CCE lesson for CCE teachers to carry out VIA activities. Every term’s VIA activities allows students to apply the values they have learnt throughout the term. After each VIA activity, students reflect on the values they have put into practise, as well as how they can continue to apply the values in their daily lives. Students are also encouraged to practise at home what they have learnt in school. The school seeks parents’ involvement and support in this area to ensure application of learning both in school and at home.  
+  
+**Commemorative Event**
+Citizenship or national education is an important aspect of holistic education. Through it, we hope to cultivate in students a sense of belonging, commitment & rootedness to Singapore. This is done through the 4 commemorative events:  
+  
+
+1.  Total Defence Day   
+    
+2.  International Friendship Day   
+    
+3.  Racial Harmony Day  
+    
+4.  National Day
