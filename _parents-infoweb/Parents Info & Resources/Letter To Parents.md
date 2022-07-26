@@ -123,3 +123,12 @@ third_nav_title: Parents Info & Resources
 
 [Letter to Parents 18 May 2021.pdf](/files/Letter%20to%20Parents%2018%20May%202021.pdf)<br>
 [19 May 2021 HPB School Health and School Dental Services.pdf](/files/19%20May%202021%20HPB%20School%20Health%20and%20School%20Dental%20Services.pdf)
+
+##### April 2021
+
+[Letter to P3 Parents Term 2 HA 2021_MT_Sc_Ma_EL.pdf](/files/Letter%20to%20P3%20Parents%20Term%202%20HA%202021_MT_Sc_Ma_EL.pdf)<br>
+[Letter to P4 Parents Term 2 HA 2021_MT_Sc_Ma_EL.pdf](/files/Letter%20to%20P4%20Parents%20Term%202%20HA%202021_MT_Sc_Ma_EL.pdf)<br>
+[Letter to P5 Parents Term 2 HA 2021_MT_Sc_Ma_EL.pdf](/files/Letter%20to%20P5%20Parents%20Term%202%20HA%202021_MT_Sc_Ma_EL.pdf)<br>
+[Letter to P6 Std and Fdn Parents Sem 1 HA 2021.pdf](/files/Letter%20to%20P6%20Std%20and%20Fdn%20Parents%20Sem%201%20HA%202021.pdf)<br>
+[Letter to Parents - Resumption of HS Services With Eye Chart.pdf](/files/Letter%20to%20Parents%20-%20Resumption%20of%20HS%20Services%20With%20Eye%20Chart.pdf)<br>
+[Letter to P6 Parents SA1 Oral.pdf](/files/Letter%20to%20P6%20Parents%20SA1%20Oral.pdf)
