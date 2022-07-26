@@ -33,6 +33,5 @@ Here are the contact information of our SCC operator:
 |Office Tel:|63153074 
 |Centre Supervisor:|Ms Audrey Yang 
 |Contact Tel: |98357896 
-|Email:|sdscc@ymca.edu.sg 
+|Email:|[sdscc@ymca.edu.sg](mailto:sdscc@ymca.edu.sg)
 |Website:|[www.ymca.org.sg/cdcscc/](www.ymca.org.sg/cdcscc/)
-
