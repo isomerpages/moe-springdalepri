@@ -2,4 +2,5 @@ collections:
   co-curriculum:
     output: true
     order:
+      - SCSA (Schools) Competition.md
       - Innovation Programme (IvP).md
