@@ -13,3 +13,12 @@ third_nav_title: Parents Info & Resources
 [T2 Newsletter Lower Primary.pdf](/files/T2%20Newsletter%20Lower%20Primary.pdf)<br>
 [T2 Newsletter Middle Primary.pdf](/files/T2%20Newsletter%20Middle%20Primary.pdf)<br>
 [T2 Newsletter Upper Primary.pdf](/files/T2%20Newsletter%20Upper%20Primary.pdf)
+
+#### NEWSLETTER 2021
+
+##### Sem 1 Newsletter
+
+[T3 Newsletter Lower Primary.pdf](/files/T3%20Newsletter%20Lower%20Primary.pdf)<br>
+[T3 Newsletter Middle Primary.pdf](/files/T3%20Newsletter%20Middle%20Primary.pdf)<br>
+[T3 Newsletter Upper Primary.pdf](/files/T3%20Newsletter%20Upper%20Primary.pdf)
+
