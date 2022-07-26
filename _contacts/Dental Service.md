@@ -22,4 +22,3 @@ In case of emergency, please call HPB Tel: 6435 3782 or the following buddy clin
 |Fern Green Primary|6481 2840
 
 As the clinics are not opened every day, we strongly advise parents to call the clinic to make appointment prior to their visit. For enquires or concern with regards to the student’s dental care, please contact the clinic to make appointment at **6435 3782** during operating hours.
-
