@@ -73,5 +73,14 @@ CCAs will be conducted after school on either Mondays, Tuesdays or Thursdays. Pl
 
 | Code | CCA | Description |
 | -------- | -------- | -------- |
-| **A1**     | **Choir**     | The Choir CCA aims to equip students with the fundamentals of proper vocal techniques through songs of different genres and cultures. Students will learn to develop listening, sight-reading and performing skills when they sing as an ensemble.  Singing helps students to express their emotions and creativity in a non-threatening environment. There will be opportunities for students to develop their confidence, learn to collaborate and perform at various platforms.   <br><br>  Please note that auditions will be conducted to better match students to the CCA._     |
+| **A1**     | **Choir**     | The Choir CCA aims to equip students with the fundamentals of proper vocal techniques through songs of different genres and cultures. Students will learn to develop listening, sight-reading and performing skills when they sing as an ensemble.  Singing helps students to express their emotions and creativity in a non-threatening environment. There will be opportunities for students to develop their confidence, learn to collaborate and perform at various platforms.   <br><br>  _Please note that auditions will be conducted to better match students to the CCA._     |
+|**A2**|**International Dance**|The International Dance CCA aims to empower students to communicate and express their feelings through creative movements and ideas. In the midst of exploring different dance genres, they will also learn to appreciate different cultural perspectives. Opportunities will be given to students to display their artistic flair. Through such team work and choreography, students' confidence and poise will be developed.
+|**A3**|**Ukulele**|The Ukulele CCA aims to nurture students with passion for the performing arts through an instrumental ensemble. Students will learn the basic techniques of ukulele-playing and develop sight-reading and ensemble skills when they perform accompaniment and ensemble pieces. There will be multiple platforms to hone and showcase the students’ ukulele-playing skills so as to build their confidence, resilience and team spirit.
+|**A4**|**Art Club**|The Art Club CCA aims to nurture and inspire students with artistic flair to create meaningful art. It will also be a channel for them to echo their voices in communicating and expressing self, time and place. Through the art making processes, students will sharpen foundational and creativity skills while exploring and experimenting with varied art media and materials. Mounting on the different platforms to extract their inherent talent in art, students will develop self-confidence and competencies to share their love for the art, and utilise it as an avenue to contribute to the school/community. Through the experiences, students will learn the importance of values, such as responsibility, resilience, care and respect.
 
+
+**Clubs and Societies**
+
+
+| Code | CCA | Description |
+| -------- | -------- | -------- |
