@@ -31,3 +31,8 @@ third_nav_title: Parents Info & Resources
 [T1 Newsletter LP.pdf](/files/T1%20Newsletter%20LP%20(1).pdf)<br>
 [T1 Newsletter MP.pdf](/files/T1%20Newsletter%20MP%20(1).pdf)<br>
 [T1 Newsletter UP.pdf](/files/T1%20Newsletter%20UP%20(1).pdf)
+
+
+[T2 Newsletter LP.pdf](/files/T2%20Newsletter%20LP.pdf)<br>
+[T2 Newsletter MP.pdf](/files/T2%20Newsletter%20MP.pdf)<br>
+[T2 Newsletter UP.pdf](/files/T2%20Newsletter%20UP.pdf)
