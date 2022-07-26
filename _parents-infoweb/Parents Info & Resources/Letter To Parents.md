@@ -36,3 +36,12 @@ third_nav_title: Parents Info & Resources
 [T2 Newsletter LP.pdf](/files/T2%20Newsletter%20LP.pdf)<br>
 [T2 Newsletter MP.pdf](/files/T2%20Newsletter%20MP.pdf)<br>
 [T2 Newsletter UP.pdf](/files/T2%20Newsletter%20UP.pdf)
+
+#### YEAR 2022
+
+##### April 2022
+
+[Letter to P3 Parents Term 2 WA 2022.pdf](/files/Letter%20to%20P3%20Parents%20Term%202%20WA%202022.pdf)<br>
+[Letter to P4 Parents Term 2 WA 2022.pdf](/files/Letter%20to%20P4%20Parents%20Term%202%20WA%202022.pdf)<br>
+[Letter to P5 Parents Term 2 WA 2022.pdf](/files/Letter%20to%20P5%20Parents%20Term%202%20WA%202022.pdf)<br>
+[Letter to Parents PCTC HBL.pdf](/files/Letter%20to%20Parents%20PCTC%20%20HBL.pdf)
