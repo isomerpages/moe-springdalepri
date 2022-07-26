@@ -15,7 +15,7 @@ Matlamat Kurikulum Bahasa Melayu peringkat sekolah rendah adalah untuk membolehk
 *   berhubung dengan masyarakat Nusantara dan dunia yang bertutur dalam bahasa atau budaya yang sama.  
     
 
-**KEMAHIRAN BAHASA** 
+**KEMAHIRAN BAHASA**&nbsp;
 
 Pengajaran dan pembelajaran bahasa bertujuan menjadikan murid sebagai pengguna bahasa yang cekap yang boleh berkomunikasi dengan yakin, berkesan dan bermakna dalam situasi sebenar, melalui tugasan bahasa yang autentik. Untuk mencapai tujuan ini, terdapat pelbagai aktiviti yang dirancang supaya murid berpeluang untuk mengasah kemahiran berbahasa.
 
@@ -42,6 +42,32 @@ Murid-murid akan melibatkan diri secara aktif dalam pelbagai aktiviti yang akan 
 
   
 
-Dwiminggu Bahasa Ibunda
+**Dwiminggu Bahasa Ibunda**
 
 Program ini adalah untuk menggalakkan murid-murid yang mengambil bahasa Melayu supaya menggunakan bahasa tersebut dalam situasi autentik. Murid juga diajak memahami dan menghayati budaya Melayu sebagai sebahagian daripada masyarakat majmuk Singapura.
+
+![](/images/malay.png)
+
+##### PAUTAN PADA LAIN-LAIN LELAMAN
+
+Tunas Bahasa 
+[http://tinta.moe.edu.sg/mekar/slot/u112/PRI/index.html](http://tinta.moe.edu.sg/mekar/slot/u112/PRI/index.html)
+
+Kamus yang diluluskan SEAB
+[https://www.seab.gov.sg/docs/default-source/documents/2019psledictlist\_031220185877e9dade9e458a955510ad15b49c98.pdf](https://www.seab.gov.sg/docs/default-source/documents/2019psledictlist_031220185877e9dade9e458a955510ad15b49c98.pdf)
+
+e-Kamus DBP<br>
+[http://prpm.dbp.gov.my/](http://prpm.dbp.gov.my/%C2%A0)
+
+Portal iMTL<br>
+[https://imtl.moe.edu.sg/cos/o.x?c=/ca7\_imtl/user&amp;func=login](https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&amp;func=login)
+
+##### SEDUTAN KELAS BAHASA MELAYU
+
+Pembelajaran Abad ke-21
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR9TBsHf5fT1bl98CXZmKBVvwpSmMP49yWqeLP9MQgHr5QzUtTnWJUQZ5Kf74Dr90I7wohXNa3YBg8p/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+Dwiminggu Bahasa Ibunda
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQa5VOGyLOrXmsmPyZY4NtpyWwnomBIyyvkgHn_Fid6gML-lOxQZxL88W8BIkvs7MtvtP9ymhMwFCTv/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
