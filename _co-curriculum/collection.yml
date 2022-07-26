@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Co Curriculum Activities (CCA)/Art Club.md
       - Co Curriculum Activities (CCA)/Media Club.md
       - Co Curriculum Activities (CCA)/Gymnastics.md
       - Co Curriculum Activities (CCA)/Floorball.md
