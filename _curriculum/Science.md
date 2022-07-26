@@ -14,3 +14,9 @@ description: ""
 |P5| **Cycles**<br>-    Cells<br>-     Reproduction in Animals<br>-    Reproduction in plants<br>-     Water<br><br>**Systems**<br>-   Respiratory Systems<br>-   Human Circulatory<br>-   Plant transport<br>-   Electricity|
 |P6|**Energy**<br>-    Photosynthesis<br>-    Energy forms and Conversion<br><br>**Interactions**<br>-   Effects of a force<br>-     Types of forces<br>-     Environmental factors<br>-     Populations & Communities<br>-     Food chains & webs<br>-     Adaptations<br>-     Man & the environment|
 |P6F|**Energy**<br>-  Photosynthesis<br>-   Energy Forms<br><br>**Interactions**<br>-   Effects of a force<br>-   Environmental factors<br>-   Populations & Communities<br>-   Food chains<br>-    Adaptations<br><br>**Interactions**<br>-   Man & the environment
+
+**Programmes**
+
+**(1)**  **Learning Alive! – Augmented Reality enhanced Inquiry-Based Learning**
+
+Augmented Reality (AR) has enormous potential in learning and is recognised as an emergent technology in education. AR affords scaffolds for students to experience and observe virtual phenomenon and processes as part of their present environment. AR opens up more possibilities to create problem scenarios which may be ordinarily limited, especially in the teaching of natural phenomenon.
