@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Co Curriculum Activities (CCA)/Floorball.md
       - Co Curriculum Activities (CCA)/Multi Sport.md
       - Co Curriculum Activities (CCA)/Outdoor Adventure.md
       - Co Curriculum Activities (CCA)/Basketball.md
