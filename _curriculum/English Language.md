@@ -29,3 +29,8 @@ For more information on STELLAR programme, please refer to [http://www.stellarl
 **Explicit Instruction for Component /Task Mastery**
 
 Besides STELLAR, a structured programme is also in place to help our students develop and master the various language skills. The strategies for each language component or techniques for each task will be explicitly taught by our teachers to ensure students have a strong grounding in the fundamentals of English. In-house learning packages are also designed to develop students’ skills in writing and oral communication in a progressive manner.
+
+<img src="/images/photo%205.jpeg" 
+     style="width:60%;float:left">
+<img src="/images/Photo%206.jpeg" 
+     style="width:38%">
