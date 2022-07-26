@@ -72,3 +72,31 @@ Purchase of the school uniform at the retail store is strictly by appointment ba
 
 Please read the attached Shanghai School Uniforms letter for more details on the purchase of school uniforms:<br>
 [SDPS Uniform Shanghai School Uniforms.pdf](/files/SDPS%20Uniform%20Shanghai%20School%20Uniforms%20for%202022%20(1).pdf)
+
+**School Shoes:**  
+
+*   Our school socks and shoes are white in colour  
+    
+*   The shoes may be made of canvas or water-proof material  
+    
+*   Socks and shoes may be purchased from our uniform supplier
+
+  
+
+School Nametags  
+
+To order nametags, please read the attached Nametag ordering and collection guide for more details:<br>
+[SDPS Name Tag Order for 2022.pdf](/files/SDPS%20Name%20Tag%20Order%20for%202022%20(1).pdf)
+
+#### School Bus
+
+LONGLIM PTE LTD  
+  
+Address  
+34 JALAN TARI PIRING JALAN KAYU ESTATE SINGAPORE 799187  
+  
+Contact Tel  
+64814013 / 64822568 / 67548353  
+  
+Form  
+[https://www.longlim.com/](https://www.longlim.com/)
