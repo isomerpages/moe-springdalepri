@@ -26,4 +26,22 @@ A. Learning Outcomes for Primary 1 & 2 (Revised Art Syllabus)
 
 | See| Express | Appreciate |
 | -------- | -------- | -------- |
-|-    Identify simple visual qualities in what they see around them      <br>-   Ask questions about what they see<br>-  Draw from their imagination & observation|
+|-    Identify simple visual qualities in what they see around them      <br>-   Ask questions about what they see<br>-  Draw from their imagination & observation| -   Play with a variety of materials & tools to make art  <br>-  Share their imagination, thoughts & feelings through art making|-   Show interest in looking at a variety of artworks  <br>- Talk about what they see, feel & experience using art vocabulary|
+
+#### **Scope of Learning**
+
+  
+B. Learning Outcomes for Primary 3 & 4
+
+| See| Express | Appreciate |
+| -------- | -------- | -------- |
+|-   Distinguish the visual qualities in what they see  <br>- Ask questions & gather information to make meaning of what they see  <br>-   Draw from their observation & experience| -   Explore & discover different ways to use materials & tools to make art  <br>-   Present their ideas & consider others’ ideas in artworks & through art making| -   Demonstrate eagerness to find out more about art  <br>-   Share their artworks, intentions & art making processes with others  <br>-   Talk about Singapore & international artworks & artist
+
+#### **Scope of Learning**
+
+  
+C. Learning Outcomes for Primary 5 & 6
+
+| See| Express | Appreciate |
+| -------- | -------- | -------- |
+|-   Gather information & make informed links between the use of visual qualities & intentions  <br>-  Draw from observing visuals & the world around them to record ideas for art making|-   Experiment with alternative ways to use materials & tools to make art individually & with others <br>- Discuss the intentions of their own artworks & interpret those of others|-   Take pride in their own art making  <br>- Respect others’ artworks, intentions & perspectives  <br>-  Discuss & relate Singapore & international artworks & artists to their own experiences
