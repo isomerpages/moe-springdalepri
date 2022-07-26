@@ -1,4 +1,5 @@
 collections:
   contacts:
     output: true
-    order: []
+    order:
+      - School Vendors.md
