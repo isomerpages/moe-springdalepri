@@ -25,16 +25,25 @@ Augmented Reality (AR) has enormous potential in learning and is recognised as a
 
 The school adopts&nbsp;the use of a framework built on Questioning, Investigating, Making and Synthesising (QIMS) to scaffold the learning process. Our AR enhanced inquiry based learning packages allows our students to delve deeper into the learning of Science.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT4kTSmS0Ni7p2ydVcrY5OxUphupL-wBZrhGKFDuWmNwmHnpFvt7hJpZNXtSB17T60Yw-XTYK6wQ7fi/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT4kTSmS0Ni7p2ydVcrY5OxUphupL-wBZrhGKFDuWmNwmHnpFvt7hJpZNXtSB17T60Yw-XTYK6wQ7fi/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 **(2) T(h)inkering with S.T.E.M Learning**  
 
 Adopting a fun, creative and hands-on approach to learning Science, our STEM learning programme involves
 
-\-          Recess activities (Maker’s Monday, Science games café)
+\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recess activities (Maker’s Monday, Science games café)
 
-\-          in-curriculum performance tasks which provide tinkering challenges integrating Science, Technology, Engineering and Mathematics (S.T.E.M) learning in our very own Makerspace
+\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in-curriculum performance tasks which provide tinkering challenges integrating Science, Technology, Engineering and Mathematics (S.T.E.M) learning in our very own Makerspace
 
-\-          Young Scientist Badge online which is a self-directed platform for tinkering opportunities
+\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Young Scientist Badge online which is a self-directed platform for tinkering opportunities
 
-\-          Integrated Project Work with Cross-curricular integrations help students better visualize and understand concepts in an enjoyable & engaging manner in real world contexts of problem solving
+\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Integrated Project Work with Cross-curricular integrations help students better visualize and understand concepts in an enjoyable &amp; engaging manner in real world contexts of problem solving
+
+![](/images/science.png)
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTVZGdZKFD6dE0JCoaVsuGNWFs3y1AKahqH6rxinfdzw-ISnGjQvReOnnogmuFA_EeIAvJjlXBetY2b/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+**(3) Go-green @ SDPS**
+
+The Earth is our home. It is everyone’s responsibility to take good care of it. Thus our Go-Green programme includes raising students’ awareness and understanding of environmental issues, so that it will heighten their sense of responsibility and care for Mother Earth. Some activities to encourage this include working on various green activities such as vertical gardening and recycling of plastic bottles and textbooks. Environmental education is also imbued in Values-In-Action programmes at various levels. Moreover termly talks and activities on anti-littering, waste minimisation and the 4Rs help our students in understanding the role they have to play in sustainability and caring for the environment.
+
