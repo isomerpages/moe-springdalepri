@@ -54,7 +54,7 @@ To find out more about SkillsFuture
 
 ##### Useful subject resources for parents
 
-*   [English Language resources](https://springdalepri-moe-edu-sg-admin.cwp.sg/in-curriculum/english-language)
-*   [Chinese Language resources](https://springdalepri-moe-edu-sg-admin.cwp.sg/in-curriculum/chinese-language)
-*   [Malay Language resources](https://springdalepri-moe-edu-sg-admin.cwp.sg/in-curriculum/malay-language)
-*   [Mathematics resources](https://springdalepri-moe-edu-sg-admin.cwp.sg/in-curriculum/mathematics)
+*   [English Language resources](/curriculum/English-Language)
+*   [Chinese Language resources](/curriculum/Chinese-Language)
+*   [Malay Language resources](/curriculum/Malay-Language)
+*   [Mathematics resources](/curriculum/Mathematics)
