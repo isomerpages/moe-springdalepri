@@ -49,3 +49,9 @@ This programme provides learning support for students who enter Primary 1 with w
      style="width:50%;float:left">
 <img src="/images/Photo%208a.jpeg" 
      style="width:50%">
+		 
+
+
+| |  | 
+| -------- | -------- |
+| Stellar website     | The STELLAR website introduces parents to the national programme for English Language teaching. There are also resources like digital games for students to practise their language skills learnt in each unit of work.  <br><br>[http://www.stellarliteracy.sg](http://www.stellarliteracy.sg/)     |
