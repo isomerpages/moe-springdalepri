@@ -24,3 +24,15 @@ After careful consideration of staff competency, the type of programmes offered 
     
 
 Here are the contact information of our SCC operator:
+
+
+|   |   |
+| -------- | -------- | 
+| Company Name :     | Young Men's Christian Association of Singapore     | 
+|Address:|One Orchard Road Singapore 238824
+|Office Tel:|63153074 
+|Centre Supervisor:|Ms Audrey Yang 
+|Contact Tel: |98357896 
+|Email:|sdscc@ymca.edu.sg 
+|Website:|[www.ymca.org.sg/cdcscc/](www.ymca.org.sg/cdcscc/)
+
