@@ -42,5 +42,7 @@ c. Toy Instruction Manual with coloured photos
 
 | Date | Description | 
 | -------- | -------- | 
-| by 17 Jun     | Register interest to participate by filling up the online form: <br> [https://form.gov.sg/62303bd5ba91100012133d60](https://form.gov.sg/62303bd5ba91100012133d60)     | 
-
+| by 17 Jun     | Register interest to participate by filling up the online form: <br> [https://form.gov.sg/62303bd5ba91100012133d60](https://form.gov.sg/62303bd5ba91100012133d60)     |
+|27 Jun|First toy submission date for P1 to P6 levels <br>Bring completed toy to school, placed inside a sturdy box with cover.<br>Submit the toy together with (1) SCSA (Schools) Competition Entry Form and (2) Toy Instruction Manual to Makerspace during recess time only.|
+|12 July|Second toy submission date for P1 to P6 levels
+|6 August|Final deadline for toy submission (For P1 to P5 levels only)
