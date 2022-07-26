@@ -73,3 +73,53 @@ third_nav_title: Parents Info & Resources
 #### YEAR 2021
 
 ##### Dec 2021
+
+[Letter to Parents 22 Dec 21.pdf](/files/Letter%20to%20Parents%2022%20Dec%2021.pdf)
+
+##### Nov 2021
+
+[Letter to Parents 19 Nov 21.pdf](/files/Letter%20to%20Parents%2019%20Nov%2021.pdf)
+
+##### 2022 Packing List
+
+[Letter to P1 2022 Parents P1 Packing List for 2022.pdf](/files/Letter%20to%20P1%202022%20Parents%20P1%20Packing%20List%20for%202022.pdf)<br>
+[Letter to P2 2022 Parents P2 Packing List for 2022.pdf](/files/Letter%20to%20P2%202022%20Parents%20P2%20Packing%20List%20for%202022.pdf)<br>
+[Letter to P3 2022 Parents P3 Packing List for 2022.pdf](/files/Letter%20to%20P3%202022%20Parents%20P3%20Packing%20List%20for%202022.pdf)<br>
+[Letter to P4 2022 Parents P4 Packing List for 2022.pdf](/files/Letter%20to%20P4%202022%20Parents%20P4%20Packing%20List%20for%202022.pdf)<br>
+[Letter to P5 2022 Parents P5 Packing List for 2022.pdf](/files/Letter%20to%20P5%202022%20Parents%20P5%20Packing%20List%20for%202022.pdf)<br>
+[Letter to P6 2022 Parents P6 Packing List for 2022.pdf](/files/Letter%20to%20P6%202022%20Parents%20P6%20Packing%20List%20for%202022.pdf)
+
+##### Oct 2021
+
+[SDPS Name Tag Order for 2022.pdf](/files/SDPS%20Name%20Tag%20Order%20for%202022.pdf)<br>
+[SDPS Uniform Shanghai School Uniforms for 2022.pdf](/files/SDPS%20Uniform%20Shanghai%20School%20Uniforms%20for%202022.pdf)<br>
+[Letter to Parents_Onboard Zoom_updated.pdf](/files/Letter%20to%20Parents_Onboard%20Zoom_updated.pdf)<br>
+[Student_Zoom_Onboarding_Step-by-step Guide_updated.pdf](/files/Student_Zoom_Onboarding_Step-by-step%20Guide_updated.pdf)
+
+##### Sep 2021
+
+[MOE_FAS_Pamphlet_2022.pdf](/files/MOE_FAS_Pamphlet_2022.pdf)<br>
+[MOE FAS Application Form Sep 21.pdf](/files/MOE%20FAS%20Application%20Form%20Sep%2021.pdf)<br>
+[P1 to P5 HBL Letter_2021 Term 4_Final.pdf](/files/P1%20to%20P5%20HBL%20Letter_2021%20Term%204_Final.pdf)<br>
+[Letter to P3 Parents  Term 4 SA.pdf](/files/Letter%20to%20P3%20Parents%20%20Term%204%20SA.pdf)<br>
+[Letter to P4 Parents Term 4 SA.pdf](/files/Letter%20to%20P4%20Parents%20Term%204%20SA.pdf)<br>
+[Letter to P5 Parents Term 4 SA.pdf](/files/Letter%20to%20P5%20Parents%20Term%204%20SA.pdf)
+
+##### Aug 2021
+
+[Letter to Parents on Further Updates to LOA AA Policy.pdf](/files/Letter%20to%20Parents%20on%20Further%20Updates%20to%20LOA%20AA%20Policy.pdf)<br>
+[LTA handbrake requirements for bicycles.pdf](/files/LTA%20handbrake%20requirements%20for%20bicycles.pdf)<br>
+[Letter to Parents 31 Aug 21.pdf](/files/Letter%20to%20Parents%2031%20Aug%2021.pdf)
+
+##### Jul 2021
+
+[Letter to Parents 2 Jul 21.pdf](/files/Letter%20to%20Parents%202%20Jul%2021.pdf)<br>
+[Letter to P3 Parents Term 3 WA 2021_MT_EL_SC_MA.pdf](/files/Letter%20to%20P3%20Parents%20Term%203%20WA%202021_MT_EL_SC_MA.pdf)<br>
+[Letter to P4 Parents Term 3 WA 2021_MT_EL_SC_MA.pdf](/files/Letter%20to%20P4%20Parents%20Term%203%20WA%202021_MT_EL_SC_MA.pdf)<br>
+[Letter to P5 Parents Term 3 WA 2021_MT_EL_SC_MA.pdf](/files/Letter%20to%20P5%20Parents%20Term%203%20WA%202021_MT_EL_SC_MA.pdf)<br>
+[Letter to Parents - Health Risk Warning and Alert by MOH 22 July 21.pdf](/files/Letter%20to%20Parents%20-%20Health%20Risk%20Warning%20and%20Alert%20by%20MOH%2022%20July%2021.pdf)
+
+##### May 2021
+
+[Letter to Parents 18 May 2021.pdf](/files/Letter%20to%20Parents%2018%20May%202021.pdf)<br>
+[19 May 2021 HPB School Health and School Dental Services.pdf](/files/19%20May%202021%20HPB%20School%20Health%20and%20School%20Dental%20Services.pdf)
