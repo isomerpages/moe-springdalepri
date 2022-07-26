@@ -2,5 +2,6 @@ collections:
   curriculum:
     output: true
     order:
+      - Art.md
       - Info Comm Technology.md
       - Holistic Assessment.md
