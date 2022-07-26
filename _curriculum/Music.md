@@ -56,3 +56,5 @@ In Domain 2, students will be able to explore different types of musical instrum
 In an academic year for Primary 5 and 6, the broad domain is **Musical Expedition**. In this domain, students will consolidate and apply their understanding of the elements and concepts of music (theory rudiments) through various forms such as voice, instruments, movements and digital media. There will be opportunities for students to appreciate music and express themselves through various cultures/ genres of music.  Opportunities will also be provided for them to work collaboratively in groups through processes of music improvisation, creation and performance.
 
 The following themes and components will be weaved into the School Music Curriculum so as to contextualise students’ acquisition of the music skills and knowledge.
+
+![](/images/music.png)
