@@ -2,5 +2,6 @@ collections:
   contacts:
     output: true
     order:
+      - Student Care Centre.md
       - Dental Service.md
       - School Vendors.md
