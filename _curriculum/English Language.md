@@ -34,3 +34,18 @@ Besides STELLAR, a structured programme is also in place to help our students de
      style="width:60%;float:left">
 <img src="/images/Photo%206.jpeg" 
      style="width:38%">
+		 
+##### WOW@Springdale Programme  
+  
+
+Visiting the school library, World of Wonders (WOW) , is one regular language activity at Springdale Primary School. To promote passion for reading and to entrench this habit of reading in our students, curriculum time has been set aside for students to engage in various reading activities like uninterrupted reading period, book talk and library visits.  
+  
+
+##### Learning Support Programme (LSP) for English
+
+This programme provides learning support for students who enter Primary 1 with weak English Language and literacy skills. Students are identified for LSP through a systematic screening process carried out at the beginning of Primary 1. The students will be equipped with basic literacy skills so that they could access learning in the regular classroom.
+
+<img src="/images/Photo%207a.jpeg" 
+     style="width:50%;float:left">
+<img src="/images/Photo%208a.jpeg" 
+     style="width:50%">
