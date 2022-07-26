@@ -46,3 +46,15 @@ c. Toy Instruction Manual with coloured photos
 |27 Jun|First toy submission date for P1 to P6 levels <br>Bring completed toy to school, placed inside a sturdy box with cover.<br>Submit the toy together with (1) SCSA (Schools) Competition Entry Form and (2) Toy Instruction Manual to Makerspace during recess time only.|
 |12 July|Second toy submission date for P1 to P6 levels
 |6 August|Final deadline for toy submission (For P1 to P5 levels only)
+
+Exception: Primary 2 students who are submitting with toys made during P2 Young T(h)inkers programme may submit their toys to their Form Teachers. 
+
+4. For further queries, please email to Ms Audrey Phang (email: [phang\_sok\_kian\_audrey@moe.edu.sg](mailto:phang_sok_kian_audrey@moe.edu.sg) ) or Madam Teng Yan Ling (email: [teng\_yan\_ling@moe.edu.sg](mailto:teng_yan_ling@moe.edu.sg) )
+
+**D.**   **Links to SCSA Competition and ideas for toy-making:**
+
+1. (new) Sony Creative Science Award: Students’ Workshop: [https://canvas.instructure.com/enroll/WCEPJA](https://canvas.instructure.com/enroll/WCEPJA)
+
+2\. SCSA Facebook page: [https://www.facebook.com/SonyCreativeScienceAward/](https://www.facebook.com/SonyCreativeScienceAward/)
+
+3. SCSA info page: [https://www.science.edu.sg/for-schools/competitions/sony-creative-science-award](https://www.science.edu.sg/for-schools/competitions/sony-creative-science-award)
