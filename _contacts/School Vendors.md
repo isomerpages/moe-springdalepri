@@ -70,4 +70,5 @@ Purchase of the school uniform at the retail store is strictly by appointment ba
 
 [https://shop.shanghai-uniforms.com/appointment-booking-at-ubi/](https://shop.shanghai-uniforms.com/appointment-booking-at-ubi/)   
 
-Please read the attached Shanghai School Uniforms letter for more details on the purchase of school uniforms:
+Please read the attached Shanghai School Uniforms letter for more details on the purchase of school uniforms:<br>
+[SDPS Uniform Shanghai School Uniforms.pdf](/files/SDPS%20Uniform%20Shanghai%20School%20Uniforms%20for%202022%20(1).pdf)
