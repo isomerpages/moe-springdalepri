@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Co Curriculum Activities (CCA)/Scouts.md
       - Co Curriculum Activities (CCA)/Badminton.md
       - Co Curriculum Activities (CCA)/.keep
       - Young Scientist Online Badge.md
