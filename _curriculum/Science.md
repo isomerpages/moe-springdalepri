@@ -27,3 +27,14 @@ The school adopts&nbsp;the use of a framework built on Questioning, Investigatin
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT4kTSmS0Ni7p2ydVcrY5OxUphupL-wBZrhGKFDuWmNwmHnpFvt7hJpZNXtSB17T60Yw-XTYK6wQ7fi/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
+**(2) T(h)inkering with S.T.E.M Learning**  
+
+Adopting a fun, creative and hands-on approach to learning Science, our STEM learning programme involves
+
+\-          Recess activities (Maker’s Monday, Science games café)
+
+\-          in-curriculum performance tasks which provide tinkering challenges integrating Science, Technology, Engineering and Mathematics (S.T.E.M) learning in our very own Makerspace
+
+\-          Young Scientist Badge online which is a self-directed platform for tinkering opportunities
+
+\-          Integrated Project Work with Cross-curricular integrations help students better visualize and understand concepts in an enjoyable & engaging manner in real world contexts of problem solving
