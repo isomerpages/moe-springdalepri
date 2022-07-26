@@ -54,3 +54,18 @@ third_nav_title: Parents Info & Resources
 [SBB_TL.pdf](/files/SBB_TL.pdf)<br>
 [SBB_ML.pdf](/files/SBB_ML.pdf)<br>
 [Letter to Parents School Health Visit for Primary 1 to 6 Students - 7 to 18 Apr 22.pdf](/files/Letter%20to%20Parents%20School%20Health%20Visit%20for%20Primary%201%20to%206%20Students%20-%207%20to%2018%20Apr%2022.pdf)
+
+##### Jan 2022
+
+[Letter to Parents 5 Jan 22 - Individual Student Details Report.pdf](/files/Letter%20to%20Parents%205%20Jan%2022%20-%20Individual%20Student%20Details%20Report.pdf)<br>
+[Letter to Parents_kooBits.pdf](/files/Letter%20to%20Parents_kooBits.pdf)<br>
+[Letter to P3 Parents Term 1 WA 2022.pdf](/files/Letter%20to%20P3%20Parents%20Term%201%20WA%202022.pdf)<br>
+[Letter to P4 Parents Term 1 WA 2022.pdf](/files/Letter%20to%20P4%20Parents%20Term%201%20WA%202022.pdf)<br>
+[Letter to P5 Parents Term 1 WA 2021.pdf](/files/Letter%20to%20P5%20Parents%20Term%201%20WA%202021.pdf)<br>
+[Letter to P6 Std and Fdn Parents Sem 1 SA.pdf](/files/Letter%20to%20P6%20Std%20and%20Fdn%20Parents%20Sem%201%20SA.pdf)<br>
+[Letter to Parents 24 Jan 2022 - P1  P2.pdf](/files/Letter%20to%20Parents%2024%20Jan%202022%20-%20P1%20%20P2.pdf)<br>
+[Letter to Parents 24 Jan 2022 - P3.pdf](/files/Letter%20to%20Parents%2024%20Jan%202022%20-%20P3.pdf)<br>
+[Letter to Parents 24 Jan 2022 - P4.pdf](/files/Letter%20to%20Parents%2024%20Jan%202022%20-%20P4.pdf)<br>
+[Letter to Parents 24 Jan 2022 - P5.pdf](/files/Letter%20to%20Parents%2024%20Jan%202022%20-%20P5.pdf)<br>
+[Letter to Parents 24 Jan 2022 - P6.pdf](/files/Letter%20to%20Parents%2024%20Jan%202022%20-%20P6.pdf)<br>
+[Letter to Parents 24 Jan 22.pdf](/files/Letter%20to%20Parents%2024%20Jan%2022.pdf)
