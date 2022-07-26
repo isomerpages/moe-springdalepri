@@ -74,3 +74,11 @@ Citizenship or national education is an important aspect of holistic education. 
 3.  Racial Harmony Day  
     
 4.  National Day
+
+##### USEFUL LINKS FOR PARENTS
+
+Singapore Kindness Movement<br>
+[http://kindness.sg/](http://kindness.sg/)
+
+Sexuality Education @ Springdale Primary<br>
+[https://springdalepri.moe.edu.sg/parents-infoweb/moe-sexuality-education](https://springdalepri.moe.edu.sg/parents-infoweb/moe-sexuality-education)
