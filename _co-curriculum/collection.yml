@@ -2,5 +2,6 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Young Scientist Online Badge.md
       - SCSA (Schools) Competition.md
       - Innovation Programme (IvP).md
