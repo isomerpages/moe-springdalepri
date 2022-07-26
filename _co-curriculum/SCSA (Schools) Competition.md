@@ -37,3 +37,10 @@ b. SCSA (Schools) Competition Entry Form
 c. Toy Instruction Manual with coloured photos
 
 3. Important dates to note:
+
+
+
+| Date | Description | 
+| -------- | -------- | 
+| by 17 Jun     | Register interest to participate by filling up the online form: <br> [https://form.gov.sg/62303bd5ba91100012133d60](https://form.gov.sg/62303bd5ba91100012133d60)     | 
+
