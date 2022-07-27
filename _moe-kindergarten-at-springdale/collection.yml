@@ -2,5 +2,6 @@ collections:
   moe-kindergarten-at-springdale:
     output: true
     order:
+      - MK Total Curriculum/MK Total Curriculum.md
       - MK Total Curriculum/.keep
       - School Events.md
