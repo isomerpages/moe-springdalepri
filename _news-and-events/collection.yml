@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - Achievements/2017.md
       - Achievements/2015.md
       - Achievements/2013.md
       - Achievements/.keep
