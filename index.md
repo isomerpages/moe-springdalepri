@@ -8,6 +8,10 @@ notification: ""
 sections:
   - hero:
       background: /images/homepage2.gif
+      key_highlights:
+        - title: Announcements
+          description: ""
+          url: /Announcements
   - infobar:
       title: Springdale Parent Volunteer Club
       subtitle: Latest Happening
