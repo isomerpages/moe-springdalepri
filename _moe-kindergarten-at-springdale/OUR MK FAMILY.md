@@ -37,4 +37,5 @@ description: ""
 |**Mdm Shen You Juan**|Chinese Language|[Shen_youjuan@moe.edu.sg](mailto:Shen_youjuan@moe.edu.sg)
 |**Mdm Zhu Li Hong**|Chinese Language|[Zhu_Lihong@moe.edu.sg](mailto:Zhu_Lihong@moe.edu.sg)
 |**Mdm Tan Yian**|Chinese Language|[Tan_yian@moe.edu.sg  ](mailto:Tan_yian@moe.edu.sg)
-|
+|**Mdm Siaw Pey King**|Chinese Language|[Siaw_pey_king_a@moe.edu.sg](mailto:Siaw_pey_king_a@moe.edu.sg)
+|**Ms Maggie Chan Miao Hui**|Chinese Language|[Maggie_chan_miao_hui@moe.edu.sg](mailto:Maggie_chan_miao_hui@moe.edu.sg)
