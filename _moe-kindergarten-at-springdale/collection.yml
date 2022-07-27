@@ -2,6 +2,7 @@ collections:
   moe-kindergarten-at-springdale:
     output: true
     order:
+      - OUR MK FAMILY.md
       - Timetable.md
       - Calendar of Events.md
       - Info On School Uniform.md
