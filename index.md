@@ -17,5 +17,5 @@ sections:
       title: “Space for Our Dreams” Art Competition
       subtitle: Announcements
       button: find out more here
-      url: /
+      url: /news-and-events/Space-for-Our-Dreams-Art-Competition-by-URA
 ---
