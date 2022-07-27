@@ -39,3 +39,6 @@ description: ""
 |**Mdm Tan Yian**|Chinese Language|[Tan_yian@moe.edu.sg  ](mailto:Tan_yian@moe.edu.sg)
 |**Mdm Siaw Pey King**|Chinese Language|[Siaw_pey_king_a@moe.edu.sg](mailto:Siaw_pey_king_a@moe.edu.sg)
 |**Ms Maggie Chan Miao Hui**|Chinese Language|[Maggie_chan_miao_hui@moe.edu.sg](mailto:Maggie_chan_miao_hui@moe.edu.sg)
+|**Ms Nurul Nadhira Bte Salim**|Malay Language|[nurul_nadhira_salim@moe.edu.sg](mailto:nurul_nadhira_salim@moe.edu.sg)
+|**Ms Haizayani Bte Hasim**|Malay Language| [haizayani_hasim@moe.edu.sg](mailto:haizayani_hasim@moe.edu.sg)
+|**Mdm Subathira**|Tamil Language|[subathira_Krishnan@moe.edu.sg](mailto:subathira_Krishnan@moe.edu.sg)
