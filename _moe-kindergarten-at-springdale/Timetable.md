@@ -27,3 +27,10 @@ For more details on the timetable for individual levels, please refer to the pic
      style="width:50%;float:left">
 		 <img src="/images/K1%20AM%20timetable.png" 
      style="width:50%">
+		 
+##### PM
+
+<img src="/images/K2%20PM%20timetable.png" 
+     style="width:50%;float:left">
+		 <img src="/images/K1%20PM%20timetable.png" 
+     style="width:50%">
