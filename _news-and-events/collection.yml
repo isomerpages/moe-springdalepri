@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - Most Inspiring Tamil Teachers’ Award 2020 2021.md
       - Achievements/.keep
       - Achievements/2021.md
       - Achievements/2020.md
