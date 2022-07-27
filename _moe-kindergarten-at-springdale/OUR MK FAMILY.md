@@ -27,3 +27,14 @@ description: ""
 |**Mdm Loh Ya Yun**|	[Loh_ya_yun@moe.edu.sg](	mailto:Loh_ya_yun@moe.edu.sg)
 |**Mdm Veronica**|[Veronica_charles_anbalagan@moe.edu.sg](mailto:Veronica_charles_anbalagan@moe.edu.sg)
 |**Ms Wong Wanjun**|[Wong_wanjun@moe.edu.sg](mailto:Wong_wanjun@moe.edu.sg)
+
+##### Mother Tongue Language  Kindergarten Teachers
+
+
+| Name  | Langugage| E-mail Address |
+| -------- | -------- | --- |
+|**Mdm Zheng Hong Wei**|Chinese Language| [Zheng_hong_wei@moe.edu.sg](mailto:Zheng_hong_wei@moe.edu.sg)
+|**Mdm Shen You Juan**|Chinese Language|[Shen_youjuan@moe.edu.sg](mailto:Shen_youjuan@moe.edu.sg)
+|**Mdm Zhu Li Hong**|Chinese Language|[Zhu_Lihong@moe.edu.sg](mailto:Zhu_Lihong@moe.edu.sg)
+|**Mdm Tan Yian**|Chinese Language|[Tan_yian@moe.edu.sg  ](mailto:Tan_yian@moe.edu.sg)
+|
