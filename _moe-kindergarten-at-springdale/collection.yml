@@ -2,6 +2,7 @@ collections:
   moe-kindergarten-at-springdale:
     output: true
     order:
+      - MK Total Curriculum/WOW PROJECT.md
       - MK Total Curriculum/Routines & Transitions.md
       - MK Total Curriculum/Centre based Programmes.md
       - MK Total Curriculum/MK Total Curriculum.md
