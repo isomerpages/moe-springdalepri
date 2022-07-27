@@ -2,11 +2,6 @@ collections:
   news-and-events:
     output: true
     order:
-      - School Events & Celebrations.md
-      - The Inspiring Teacher of English Award 2022.md
-      - Most Inspiring Tamil Teachers’ Award 2022.md
-      - “Space for Our Dreams” Art Competition by URA.md
-      - Most Inspiring Tamil Teachers’ Award 2020 2021.md
       - Achievements/.keep
       - Achievements/2021.md
       - Achievements/2020.md
@@ -16,3 +11,8 @@ collections:
       - Achievements/2016.md
       - Achievements/2015.md
       - Achievements/2013.md
+      - School Events & Celebrations.md
+      - The Inspiring Teacher of English Award 2022.md
+      - Most Inspiring Tamil Teachers’ Award 2022.md
+      - “Space for Our Dreams” Art Competition by URA.md
+      - Most Inspiring Tamil Teachers’ Award 2020 2021.md
