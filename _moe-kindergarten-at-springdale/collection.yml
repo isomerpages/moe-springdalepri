@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - MK Total Curriculum/.keep
-      - MK Total Curriculum.md
       - School Events.md
