@@ -4,10 +4,7 @@ permalink: /parents-infoweb/Parents-Info-and-Resources/Parents-Information-and-R
 description: ""
 third_nav_title: Parents Info & Resources
 ---
-   
 *   [Slides for Sharing & Seminars in Springdale Primary School](/parents-infoweb/Parents-Info-and-Resources/Sharing-Slides-For-Seminars-and-Sharing)  
-    
-*   [Family activities ideas](/parents-infoweb/Parents-Info-and-Resources/Activities-For-Families)
 
 ##### P4 Parents Information - Subject-based Banding (Primary) Brochures
 
