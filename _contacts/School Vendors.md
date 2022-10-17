@@ -54,14 +54,9 @@ Please read the attached Shanghai School Uniforms letter for more details on the
 **School Shoes:**  
 
 
-| Column 1 | Column 2 | 
+| **With effect from 2023**  | **With effect from 2024** | 
 | -------- | -------- | 
-| **With effect from 2023**     | **With effect from 2024**     | 
-
-| Column 1 | Column 2 | 
-| -------- | -------- | 
-| Our school **socks are white** and **shoes are black/white**     | Our school **socks are white** and **shoes are black**     |
-
+| Our school **socks are white** and **shoes are black/white** | Our school **socks are white** and **shoes are black** | 
     
 *   The shoes may be made of canvas or water-proof material  
     
