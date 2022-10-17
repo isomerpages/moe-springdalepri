@@ -1,6 +1,6 @@
 ---
 title: School Vendors
-permalink: /contacts/School-Vendors
+permalink: /contacts/School-Vendors/
 description: ""
 ---
 #### Bookshop
@@ -53,8 +53,15 @@ Please read the attached Shanghai School Uniforms letter for more details on the
 
 **School Shoes:**  
 
-*  With effect from 2023: Our school **socks are white** and **shoes are black/white**  
-*  With effect from 2024: Our school **socks are white** and **shoes are black**  
+
+| Column 1 | Column 2 | 
+| -------- | -------- | 
+| **With effect from 2023**     | **With effect from 2024**     | 
+
+| Column 1 | Column 2 | 
+| -------- | -------- | 
+| Our school **socks are white** and **shoes are black/white**     | Our school **socks are white** and **shoes are black**     |
+
     
 *   The shoes may be made of canvas or water-proof material  
     
