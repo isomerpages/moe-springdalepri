@@ -1,6 +1,6 @@
 ---
 title: Sharing Slides For Seminars & Sharing In Springdale Pri Sch
-permalink: /parents-infoweb/Parents-Info-and-Resources/Sharing-Slides-For-Seminars-and-Sharing
+permalink: /parents-infoweb/Parents-Info-and-Resources/Sharing-Slides-For-Seminars-and-Sharing/
 description: ""
 third_nav_title: Parents Info & Resources
 ---
@@ -24,4 +24,5 @@ third_nav_title: Parents Info & Resources
  [P4 Parents Briefing 2021_19 Feb.pdf](/files/P4%20Parents%20Briefing%202021_19%20Feb.pdf)<br>
 
 **For P5 and P6 Parents**<br>
+[P5 Parents Briefing 2021_19 Feb.pdf]()  
 [P6 Parents Briefing 2021_24 Feb.pdf](/files/P6%20Parents%20Briefing%202021_24%20Feb.pdf)
