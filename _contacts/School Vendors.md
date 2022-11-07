@@ -17,7 +17,10 @@ LTC Building C, Singapore 409959
 
   
 Primary 1 to Primary 6 Booklist (2022):<br>
-To be updated <br>
+[SDPS P1 Booklist 2023.pdf]()  
+[SDPS P2 Booklist 2023.pdf]()  
+[SDPS P3 HMT Booklist.pdf](/files/SDPS%20P3%20(HMT)%20Booklist%202023%20-%20Final.pdf)
+<br>
 
 
  Click here to view the steps to Online Buying Guide:<br>
