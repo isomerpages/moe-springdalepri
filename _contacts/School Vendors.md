@@ -16,10 +16,16 @@ Address
 LTC Building C, Singapore 409959
 
   
-Primary 1 to Primary 6 Booklist (2022):<br>
-[SDPS P1 Booklist 2023.pdf]()  
-[SDPS P2 Booklist 2023.pdf]()  
-[SDPS P3 HMT Booklist.pdf](/files/SDPS%20P3%20(HMT)%20Booklist%202023%20-%20Final.pdf)
+Primary 1 to Primary 6 Booklist (2023):<br>
+[SDPS P1 Booklist 2023.pdf](/files/SDPS%20P1%20Booklist%202023%20-%20Final.pdf)  
+[SDPS P2 Booklist 2023.pdf](/files/SDPS%20P2%20Booklist%202023%20-%20Final.pdf)  
+[SDPS P3 HMT Booklist 2023.pdf](/files/SDPS%20P3%20(HMT)%20Booklist%202023%20-%20Final.pdf)  
+[SDPS P3 Booklist 2023.pdf](/files/SDPS%20P3%20Booklist%202023%20-%20Final.pdf)  
+[SDPS P4 Booklist 2023.pdf](/files/SDPS%20P4%20Booklist%202023%20-%20Final.pdf)  
+[SDPS P5 HMT Booklist 2023.pdf](/files/SDPS%20P5%20(HMT)%20Booklist%202023%20-%20Final.pdf)  
+[SDPS P5 Booklist 2023.pdf](/files/SDPS%20P5%20Booklist%202023%20-%20Final.pdf)  
+[SDPS P6 (3S1FMT) Booklist 2023.pdf](/files/SDPS%20P6%20(3S1FMT)%20Booklist%202023%20-%20Final.pdf)  
+[SDPS P6 (4F) Booklist 2023.pdf](/files/SDPS%20P6%20(4F)%20Booklist%202023%20-%20Final.pdf)
 <br>
 
 
