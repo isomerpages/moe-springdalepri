@@ -25,7 +25,10 @@ Primary 1 to Primary 6 Booklist (2023):<br>
 [SDPS P5 HMT Booklist 2023.pdf](/files/SDPS%20P5%20(HMT)%20Booklist%202023%20-%20Final.pdf)  
 [SDPS P5 Booklist 2023.pdf](/files/SDPS%20P5%20Booklist%202023%20-%20Final.pdf)  
 [SDPS P6 (3S1FMT) Booklist 2023.pdf](/files/SDPS%20P6%20(3S1FMT)%20Booklist%202023%20-%20Final.pdf)  
-[SDPS P6 (4F) Booklist 2023.pdf](/files/SDPS%20P6%20(4F)%20Booklist%202023%20-%20Final.pdf)
+[SDPS P6 (4F) Booklist 2023.pdf](/files/SDPS%20P6%20(4F)%20Booklist%202023%20-%20Final.pdf)  
+[SDPS P6 HMT Booklist 2023.pdf](/files/SDPS%20P6%20(HMT)%20Booklist%202023%20-%20Final.pdf)  
+[SDPS P6 2S2F,MAMT Booklist 2023.pdf](/files/SDPS%20P6%202S2F,MAMT%20Booklist%202023%20-%20Final.pdf)
+
 <br>
 
 
