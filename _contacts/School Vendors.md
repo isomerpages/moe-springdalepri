@@ -29,7 +29,8 @@ Primary 1 to Primary 6 Booklist (2023):<br>
 [SDPS P6 HMT Booklist 2023.pdf](/files/SDPS%20P6%20(HMT)%20Booklist%202023%20-%20Final.pdf)  
 [SDPS P6 2S2F,MAMT Booklist 2023.pdf](/files/SDPS%20P6%202S2F,MAMT%20Booklist%202023%20-%20Final.pdf)  
 [SDPS P6 2S2F,MASC Booklist 2023.pdf](/files/SDPS%20P6%202S2F,MASC%20Booklist%202023%20-%20Final.pdf)  
-[SDPS P6 Booklist 2023.pdf](/files/SDPS%20P6%20Booklist%202023%20-%20Final.pdf)
+[SDPS P6 Booklist 2023.pdf](/files/SDPS%20P6%20Booklist%202023%20-%20Final.pdf)  
+Click [here](/files/Sales_Collection%20of%20Books%20and%20Uniforms%20from%20Nov%20to%20Dec%202022.pdf) to view the schedule for the sale and collection of Books (for 2023) and Uniforms during the November and December 2022 holidays.
 <br>
 
 
