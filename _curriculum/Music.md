@@ -19,7 +19,7 @@ All the LOs will be addressed and learned in spiral progression, where elements 
 **Music Curriculum Concept**  
 The Primary Music curriculum seeks to develop musical understanding through 3 Musical Processes of Listening, Creating and Performing.  As illustrated below, the 3 Musical Processes are core to the Music Curriculum Concept and inter-related and inter-dependent in practice.
 
-![Music Curriculum Concept](/images/Music%20cirriculum.png)
+<img src="/images/Music%20cirriculum.png" alt="HTML tutorial" style="width:50%;height:30%42px;"> 
 
 The display of musical processes draws on students’ learning and understanding of musical elements and concepts during their musical exploration.
 
