@@ -1,6 +1,6 @@
 ---
 title: Chinese Language
-permalink: /curriculum/Chinese-Language
+permalink: /curriculum/Chinese-Language/
 description: ""
 ---
 ##### 华文部的活动与计划
@@ -47,6 +47,3 @@ description: ""
 | 小学华文教材数码教学资源     |  “学乐网”是供家长和学生在家里通过互联网使用的数码教学资源。除了“图片/录像/动画”，与课本对应的其他资源均可让学生使用，以复习学校里的上课内容。 从2013年起，“欢乐小镇”并入“学乐网”。此网站让学生通过有趣、互动的方式学习华文。    | 
 | 小学华文课程标准 2015|明课程理念、课程总目标、课程架构、分项目标以及实施建议的文件。<br><br>[http://www.moe.gov.sg/education/syllabuses/mother-tongue-languages/files/chinese-primary-2015.pdf](http://www.moe.gov.sg/education/syllabuses/mother-tongue-languages/files/chinese-primary-2015.pdf)|
 |小学华文课程标准 2007［更新版］| 说明课程理念、课程总目标、课程架构、分项目标以及实施建议的文件。  <br><br>[http://www.moe.gov.sg/education/syllabuses/languages-and-literature/files/chinese-primary-2007.pdf](http://www.moe.gov.sg/education/syllabuses/languages-and-literature/files/chinese-primary-2007.pdf%C2%A0)|
-|“书袋”|此网站为教育部的线上杂志，专为家长提供最新的教育资讯和新闻。<br><br>[http://www.schoolbag.sg/](http://www.schoolbag.sg/)
-|Diana Ser Crazy About Chinese|此网站提供好些有趣的点子让家长与孩子一起学习华文。<br><br>[http://www.dianaser.com/](http://www.dianaser.com/)
-|嘟嘟(仅限小一）|嘟嘟是在线华文自主及自适应学习系统。作为一个自适应阅读系统，嘟嘟能够根据每一个学生的阅读能力向他们推荐难易度适中的电子书，从而使学生能够通过阅读来提高对华文的掌握能力。嘟嘟拥有数百本基于难度分级的电子书。这些电子书涵盖了从历史故事到科学故事等各种题材。书中精美的插画和动画使得学生能够进行交互式学习。电子书的汉语拼音以及音频回放也将帮助学生克服生词，便于阅读。<br><br>&nbsp;[http://go.dudu.town](http://go.dudu.town/)
