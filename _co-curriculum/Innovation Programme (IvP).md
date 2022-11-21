@@ -1,6 +1,6 @@
 ---
 title: Innovation Programme (IvP)
-permalink: /co-curriculum/Innovation-Programme-IvP
+permalink: /co-curriculum/Innovation-Programme-IvP/
 description: ""
 ---
 Innovation Programme (IvP) is an initiative by MOE which aims to provide students a unique opportunity to develop their problem-solving and critical thinking skills. Students learn to be empathetic changemakers by identifying problems in their everyday lives, applying different brainstorming tools, and creating prototypes to solve these problems. Students go through a nine-month training to be equipped with skills and strategies to the Innovation Process of Understanding the Challenge, Generating Ideas and Developing Solutions. Selected projects will be featured in the annual Young Innovators’ Fair organised by the Gifted Education Branch.

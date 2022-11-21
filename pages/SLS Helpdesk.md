@@ -1,6 +1,6 @@
 ---
 title: SLS Helpdesk
-permalink: /SLS-Helpdesk
+permalink: /SLS-Helpdesk/
 description: ""
 ---
 #### SLS Support for Home-based Learning

@@ -1,6 +1,6 @@
 ---
 title: Tamil Language
-permalink: /curriculum/Tamil-Language
+permalink: /curriculum/Tamil-Language/
 description: ""
 ---
 ![](/images/TL%20page%201.png)

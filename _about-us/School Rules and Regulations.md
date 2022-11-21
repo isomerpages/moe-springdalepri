@@ -1,6 +1,6 @@
 ---
 title: School Rules and Regulations
-permalink: /about-us/School-Rules-and-Regulations
+permalink: /about-us/School-Rules-and-Regulations/
 description: ""
 ---
 1.  Pupils who are Singapore citizens must sing the National Anthem and take the Pledge. Pupils will take the Pledge with the right fist placed over the heart. 

@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /curriculum/Mathematics
+permalink: /curriculum/Mathematics/
 description: ""
 ---
 ##### The Primary Mathematics Education aims to enable all students to:

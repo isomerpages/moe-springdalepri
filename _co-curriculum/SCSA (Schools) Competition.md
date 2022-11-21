@@ -1,6 +1,6 @@
 ---
 title: SCSA (Schools) Competition
-permalink: /co-curriculum/SCSA-Schools-Competition
+permalink: /co-curriculum/SCSA-Schools-Competition/
 description: ""
 ---
 Springdale Primary is hosting our third year school-based Sony Creative Science Award (SCSA) (Schools) Competition. This school-based competition is jointly organised by the Science Centre Singapore and the Sony Group of Companies in Singapore, with the support of the Ministry of Education.SCSA (Schools) Competition is optional but highly encouraged for interested students who love Science and have the passion in exploratory and skillful play and creation of a toy based on scientific concepts/principles. The best toy entries will be shortlisted for the SCSA competition and will stand to win attractive prizes.

@@ -1,6 +1,6 @@
 ---
 title: Holistic Assessment
-permalink: /curriculum/Holistic-Assessment
+permalink: /curriculum/Holistic-Assessment/
 description: ""
 ---
 **Assessment in Primary 1 and Primary 2**

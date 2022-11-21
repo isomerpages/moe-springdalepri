@@ -1,6 +1,6 @@
 ---
 title: Info Comm Technology
-permalink: /curriculum/Info-Comm-Technology
+permalink: /curriculum/Info-Comm-Technology/
 description: ""
 ---
 **Vision**: Future-Ready &amp; Responsible Digital Learners&nbsp;

@@ -1,6 +1,6 @@
 ---
 title: Student Learning Space (SLS)
-permalink: /parents-infoweb/Student-Learning-Space-SLS
+permalink: /parents-infoweb/Student-Learning-Space-SLS/
 description: ""
 ---
 As part of its commitment to nurturing future-ready learners, the Ministry of Education (MOE) had announced that all students in Singapore schools will be supported in their learning by the Singapore Student Learning Space (SLS), an online learning platform that contains curriculum-aligned resources and learning tools. 

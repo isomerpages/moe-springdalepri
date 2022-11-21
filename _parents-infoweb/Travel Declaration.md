@@ -1,6 +1,6 @@
 ---
 title: Travel Declaration
-permalink: /parents-infoweb/Travel-Declaration
+permalink: /parents-infoweb/Travel-Declaration/
 description: ""
 ---
 #### Guide to Access My Travel Plans via Parents Gateway (PG)

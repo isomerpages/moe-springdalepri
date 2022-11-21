@@ -1,6 +1,6 @@
 ---
 title: Springdale Parent Volunteer Club
-permalink: /parents-infoweb/Springdale-Parent-Volunteer-Club
+permalink: /parents-infoweb/Springdale-Parent-Volunteer-Club/
 description: ""
 ---
 Welcome to&nbsp;**Springdale Parent Volunteer Club**!
