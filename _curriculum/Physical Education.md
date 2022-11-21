@@ -1,6 +1,6 @@
 ---
 title: Physical Education
-permalink: /curriculum/Physical-Education
+permalink: /curriculum/Physical-Education/
 description: ""
 ---
 The purpose of Physical Education (PE) is to enable pupils to demonstrate, individually and with others, the physical skills, practices and values to enjoy a lifetime of active and healthy living.

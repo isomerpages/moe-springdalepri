@@ -1,6 +1,6 @@
 ---
 title: Login to SLS
-permalink: /login-to-SLS
+permalink: /login-to-SLS/
 description: ""
 ---
 SLS can be accessed from [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login). The username and passwords are issued to  your child separately.

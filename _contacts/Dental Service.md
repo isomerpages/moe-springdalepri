@@ -1,6 +1,6 @@
 ---
 title: Dental Service
-permalink: /contacts/Dental-Service
+permalink: /contacts/Dental-Service/
 description: ""
 ---
 The School Dental Clinic is opened on the following dates:

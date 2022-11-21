@@ -1,6 +1,6 @@
 ---
 title: Calendar of Events
-permalink: /moe-kindergarten-at-springdale/Calendar-of-Events
+permalink: /moe-kindergarten-at-springdale/Calendar-of-Events/
 description: ""
 ---
 Please refer to the documents below to access our calendar of Events :

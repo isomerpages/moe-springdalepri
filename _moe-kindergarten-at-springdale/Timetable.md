@@ -1,6 +1,6 @@
 ---
 title: Timetable
-permalink: /moe-kindergarten-at-springdale/Timetable
+permalink: /moe-kindergarten-at-springdale/Timetable/
 description: ""
 ---
 MOE Kindergarten is a 4-hour Kindergarten 1 and 2 programme for children aged 5 and 6 years old.  

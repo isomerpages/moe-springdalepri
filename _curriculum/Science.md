@@ -1,6 +1,6 @@
 ---
 title: Science
-permalink: /curriculum/Science
+permalink: /curriculum/Science/
 description: ""
 ---
 **Science Curriculum Coverage**

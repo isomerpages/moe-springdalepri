@@ -1,6 +1,6 @@
 ---
 title: SLS Password Reset
-permalink: /SLS-Password-Reset
+permalink: /SLS-Password-Reset/
 description: ""
 ---
 #### SLS Password Reset Email Address Verification

@@ -1,6 +1,6 @@
 ---
 title: Malay Language
-permalink: /curriculum/Malay-Language
+permalink: /curriculum/Malay-Language/
 description: ""
 ---
 ##### MATLAMAT PENDIDIKAN BAHASA MELAYU PERINGKAT SEKOLAH RENDAH  

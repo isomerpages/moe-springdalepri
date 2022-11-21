@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions
-permalink: /FAQ
+permalink: /FAQ/
 description: ""
 ---
 **Q1 : My child has forgotten his/her password. What should I do?**
