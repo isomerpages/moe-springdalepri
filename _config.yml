@@ -49,8 +49,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-springdalepri-staging.netlify.app
-prod: https://moe-springdalepri-prod.netlify.app
+staging: https://staging.dt7wrnpr4bozp.amplifyapp.com
+prod: https://master.dt7wrnpr4bozp.amplifyapp.com
 shareicon: /images/logo.png
 is_government: false
 facebook-pixel: ""
