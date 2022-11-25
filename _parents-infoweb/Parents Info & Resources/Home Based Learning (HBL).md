@@ -9,9 +9,3 @@ The Curriculum Continuity Plan focuses on how the school can facilitate students
 To minimize the loss of curriculum time and to keep students gainfully occupied at home, there is a need to have a Home-Based Learning (HBL) plan. 
 
   
-
-Below is the link to view the HBL Learning Plan.   
-  
-[https://sites.google.com/moe.edu.sg/sdps-hbl-2022/home](https://sites.google.com/moe.edu.sg/sdps-hbl-2022/home)  
-  
-
