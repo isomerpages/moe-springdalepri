@@ -15,7 +15,7 @@ third_nav_title: Our Family
 |**Ms Rafizan Binte Roslan**|Administration Executive @ MK
 |**Mdm Dian Farhana Binte Abdul Razak**|Corporate Support Officer
 |**Mdm Florence Cho Poh Chan**|Corporate Support Officer
-|**Mdm Thamineni Bindu Kalyani**|ICT Associate
+|**Mr Lou Heng Hui**|ICT Manager
 |**Mdm Teo Geok Mui**|Operations Support Officer
 |**Mdm Fu Xuejuan**|Operations Support Officer
 |**Mdm Pan Lian**|Operations Support Officer
@@ -30,8 +30,8 @@ third_nav_title: Our Family
 
 | Name| Position |
 | -------- | -------- | 
-|**Mr Muhammad Azim Bin Mohd Razib**|Desktop Engineer
-|**Mr Ang Eng Keong**|Desktop Engineer
+|**Mr Kavinesh Rajamanickam**|Desktop Engineer
+|**Mr Fitri Ismail**|Desktop Engineer
 |**Ms Goh Chloe**|Librarian
 
 The school is also supported by the following contract staff and vendors:
