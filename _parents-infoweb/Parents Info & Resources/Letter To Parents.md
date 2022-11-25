@@ -4,11 +4,9 @@ permalink: /parents-infoweb/Parents-Info-and-Resources/Letter-To-Parents/
 description: ""
 third_nav_title: Parents Info & Resources
 ---
-
 #### NEWSLETTER 2022
 
   
-
 ##### Sem 1 Newsletter
 
 [T2 Newsletter Lower Primary.pdf](/files/T2%20Newsletter%20Lower%20Primary.pdf)<br>
@@ -71,96 +69,3 @@ third_nav_title: Parents Info & Resources
 [Letter to Parents 24 Jan 2022 - P6.pdf](/files/Letter%20to%20Parents%2024%20Jan%202022%20-%20P6.pdf)<br>
 [Letter to Parents 24 Jan 22.pdf](/files/Letter%20to%20Parents%2024%20Jan%2022.pdf)
 
-#### YEAR 2021
-
-##### Dec 2021
-
-[Letter to Parents 22 Dec 21.pdf](/files/Letter%20to%20Parents%2022%20Dec%2021.pdf)
-
-##### Nov 2021
-
-[Letter to Parents 19 Nov 21.pdf](/files/Letter%20to%20Parents%2019%20Nov%2021.pdf)
-
-##### 2022 Packing List
-
-[Letter to P1 2022 Parents P1 Packing List for 2022.pdf](/files/Letter%20to%20P1%202022%20Parents%20P1%20Packing%20List%20for%202022.pdf)<br>
-[Letter to P2 2022 Parents P2 Packing List for 2022.pdf](/files/Letter%20to%20P2%202022%20Parents%20P2%20Packing%20List%20for%202022.pdf)<br>
-[Letter to P3 2022 Parents P3 Packing List for 2022.pdf](/files/Letter%20to%20P3%202022%20Parents%20P3%20Packing%20List%20for%202022.pdf)<br>
-[Letter to P4 2022 Parents P4 Packing List for 2022.pdf](/files/Letter%20to%20P4%202022%20Parents%20P4%20Packing%20List%20for%202022.pdf)<br>
-[Letter to P5 2022 Parents P5 Packing List for 2022.pdf](/files/Letter%20to%20P5%202022%20Parents%20P5%20Packing%20List%20for%202022.pdf)<br>
-[Letter to P6 2022 Parents P6 Packing List for 2022.pdf](/files/Letter%20to%20P6%202022%20Parents%20P6%20Packing%20List%20for%202022.pdf)
-
-##### Oct 2021
-
-[SDPS Name Tag Order for 2022.pdf](/files/SDPS%20Name%20Tag%20Order%20for%202022.pdf)<br>
-[SDPS Uniform Shanghai School Uniforms for 2022.pdf](/files/SDPS%20Uniform%20Shanghai%20School%20Uniforms%20for%202022.pdf)<br>
-[Letter to Parents_Onboard Zoom_updated.pdf](/files/Letter%20to%20Parents_Onboard%20Zoom_updated.pdf)<br>
-[Student_Zoom_Onboarding_Step-by-step Guide_updated.pdf](/files/Student_Zoom_Onboarding_Step-by-step%20Guide_updated.pdf)
-
-##### Sep 2021
-
-[MOE_FAS_Pamphlet_2022.pdf](/files/MOE_FAS_Pamphlet_2022.pdf)<br>
-[MOE FAS Application Form Sep 21.pdf](/files/MOE%20FAS%20Application%20Form%20Sep%2021.pdf)<br>
-[P1 to P5 HBL Letter_2021 Term 4_Final.pdf](/files/P1%20to%20P5%20HBL%20Letter_2021%20Term%204_Final.pdf)<br>
-[Letter to P3 Parents  Term 4 SA.pdf](/files/Letter%20to%20P3%20Parents%20%20Term%204%20SA.pdf)<br>
-[Letter to P4 Parents Term 4 SA.pdf](/files/Letter%20to%20P4%20Parents%20Term%204%20SA.pdf)<br>
-[Letter to P5 Parents Term 4 SA.pdf](/files/Letter%20to%20P5%20Parents%20Term%204%20SA.pdf)
-
-##### Aug 2021
-
-[Letter to Parents on Further Updates to LOA AA Policy.pdf](/files/Letter%20to%20Parents%20on%20Further%20Updates%20to%20LOA%20AA%20Policy.pdf)<br>
-[LTA handbrake requirements for bicycles.pdf](/files/LTA%20handbrake%20requirements%20for%20bicycles.pdf)<br>
-[Letter to Parents 31 Aug 21.pdf](/files/Letter%20to%20Parents%2031%20Aug%2021.pdf)
-
-##### Jul 2021
-
-[Letter to Parents 2 Jul 21.pdf](/files/Letter%20to%20Parents%202%20Jul%2021.pdf)<br>
-[Letter to P3 Parents Term 3 WA 2021_MT_EL_SC_MA.pdf](/files/Letter%20to%20P3%20Parents%20Term%203%20WA%202021_MT_EL_SC_MA.pdf)<br>
-[Letter to P4 Parents Term 3 WA 2021_MT_EL_SC_MA.pdf](/files/Letter%20to%20P4%20Parents%20Term%203%20WA%202021_MT_EL_SC_MA.pdf)<br>
-[Letter to P5 Parents Term 3 WA 2021_MT_EL_SC_MA.pdf](/files/Letter%20to%20P5%20Parents%20Term%203%20WA%202021_MT_EL_SC_MA.pdf)<br>
-[Letter to Parents - Health Risk Warning and Alert by MOH 22 July 21.pdf](/files/Letter%20to%20Parents%20-%20Health%20Risk%20Warning%20and%20Alert%20by%20MOH%2022%20July%2021.pdf)
-
-##### May 2021
-
-[Letter to Parents 18 May 2021.pdf](/files/Letter%20to%20Parents%2018%20May%202021.pdf)<br>
-[19 May 2021 HPB School Health and School Dental Services.pdf](/files/19%20May%202021%20HPB%20School%20Health%20and%20School%20Dental%20Services.pdf)
-
-##### April 2021
-
-[Letter to P3 Parents Term 2 HA 2021_MT_Sc_Ma_EL.pdf](/files/Letter%20to%20P3%20Parents%20Term%202%20HA%202021_MT_Sc_Ma_EL.pdf)<br>
-[Letter to P4 Parents Term 2 HA 2021_MT_Sc_Ma_EL.pdf](/files/Letter%20to%20P4%20Parents%20Term%202%20HA%202021_MT_Sc_Ma_EL.pdf)<br>
-[Letter to P5 Parents Term 2 HA 2021_MT_Sc_Ma_EL.pdf](/files/Letter%20to%20P5%20Parents%20Term%202%20HA%202021_MT_Sc_Ma_EL.pdf)<br>
-[Letter to P6 Std and Fdn Parents Sem 1 HA 2021.pdf](/files/Letter%20to%20P6%20Std%20and%20Fdn%20Parents%20Sem%201%20HA%202021.pdf)<br>
-[Letter to Parents - Resumption of HS Services With Eye Chart.pdf](/files/Letter%20to%20Parents%20-%20Resumption%20of%20HS%20Services%20With%20Eye%20Chart.pdf)<br>
-[Letter to P6 Parents SA1 Oral.pdf](/files/Letter%20to%20P6%20Parents%20SA1%20Oral.pdf)
-
-##### Mar 2021
-
-[Letter to Parents 22 Mar 21.pdf](/files/Letter%20to%20Parents%2022%20Mar%2021.pdf)
-
-##### Feb 2021
-
-[Letter to Parents 1 Feb 2021 - P1  P2.pdf](/files/Letter%20to%20Parents%201%20Feb%202021%20-%20P1%20%20P2.pdf)<br>
-[Letter to Parents 1 Feb 2021 - P3.pdf](/files/Letter%20to%20Parents%201%20Feb%202021%20-%20P3.pdf)<br>
-[Letter to Parents 1 Feb 2021 - P4.pdf](/files/Letter%20to%20Parents%201%20Feb%202021%20-%20P4.pdf)<br>
-[Letter to Parents 1 Feb 2021 - P5.pdf](/files/Letter%20to%20Parents%201%20Feb%202021%20-%20P5.pdf)<br>
-[Letter to Parents 1 Feb 2021 - P6.pdf](/files/Letter%20to%20Parents%201%20Feb%202021%20-%20P6.pdf)<br>
-[Letter to Parents 10 Feb 2021 - TT token distribution For non-PG parents.pdf](/files/Letter%20to%20Parents%2010%20Feb%202021%20-%20TT%20token%20distribution%20For%20non-PG%20parents.pdf)<br>
-[TT Token Request Form For Non-PG parents.pdf](/files/TT%20Token%20Request%20Form%20For%20Non-PG%20parents.pdf)<br>
-[Letter to Parents P4 SBB.pdf](/files/Letter%20to%20Parents%20P4%20SBB.pdf)<br>
-[1. MOE_SBB_ENG_revised 1 Mar 2018.pdf](/files/1%20MOE_SBB_ENG_revised%201%20Mar%202018.pdf)<br>
-[2. MOE_SBB_CHI_revised 1 Mar 2018.pdf](/files/2%20MOE_SBB_CHI_revised%201%20Mar%202018.pdf)<br>
-[3. MOE_SBB_ML_revised 1 Mar 2018.pdf](/files/3%20MOE_SBB_ML_revised%201%20Mar%202018.pdf)<br>
-[4. MOE_SBB_TL_revised 1 Mar 2018.pdf](/files/4%20MOE_SBB_TL_revised%201%20Mar%202018.pdf)
-
-##### Jan 2021
-
-[Letter to Parents 5 Jan 21.pdf](/files/Letter%20to%20Parents%205%20Jan%2021.pdf)<br>
-[Letter to P4 to P6 Parents CCA 11 Jan 2021.pdf](/files/Letter%20to%20P4%20to%20P6%20Parents%20CCA%2011%20Jan%202021.pdf)<br>
-[Letter to P2 to P6 Parents SLS email verification 11 Jan 2021_Final.pdf](/files/Letter%20to%20P2%20to%20P6%20Parents%20SLS%20email%20verification%2011%20Jan%202021_Final.pdf)<br>
-[Letter to Parents - MK RE 18 Jan 21.pdf](/files/Letter%20to%20Parents%20-%20MK%20RE%2018%20Jan%2021.pdf)<br>
-[Letter to P3 Parents Term 1 HA 2021_EL_Ma_MT_Sc final.pdf](/files/Letter%20to%20P3%20Parents%20Term%201%20HA%202021_EL_Ma_MT_Sc%20final.pdf)<br>
-[Letter to P4 Parents Term 1 HA 2021_EL_Ma_MT_Sc final.pdf](/files/Letter%20to%20P4%20Parents%20Term%201%20HA%202021_EL_Ma_MT_Sc%20final.pdf)<br>
-[Letter to P5 Parents Term 1 HA 2021_EL_Ma_MT_Sc final.pdf](/files/Letter%20to%20P5%20Parents%20Term%201%20HA%202021_EL_Ma_MT_Sc%20final.pdf)<br>
-[Letter to P6 Std and Fdn Parents Sem 1 HA 2021_EL_Ma_MT_Sc final.pdf](/files/Letter%20to%20P6%20Std%20and%20Fdn%20Parents%20Sem%201%20HA%202021_EL_Ma_MT_Sc%20final.pdf)<br>
-[Letter to P1 Parents SLS 26 Jan 21_Final.pdf](/files/Letter%20to%20P1%20Parents%20SLS%2026%20Jan%2021_Final.pdf)
