@@ -12,8 +12,3 @@ Please click **[here]** for MOE FAS pamphlet.
 
 ---
 
-Dear parents and students, 
-
-Springdale's first **SCSA (Schools) Competition** is open for registration from now till 26 June. 
-
-Sign up for the competition today! Please click [here](/co-curriculum/scsa-schools-competition) for more information.
