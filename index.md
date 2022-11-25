@@ -17,11 +17,4 @@ sections:
       subtitle: Latest Happening
       button: Click here to find out more!
       url: /parents-infoweb/Springdale-Parent-Volunteer-Club
-  - infopic:
-      title: “Space for Our Dreams” Art Competition
-      subtitle: Announcements
-      button: find out more here
-      url: /news-and-events/Space-for-Our-Dreams-Art-Competition-by-URA
-      image: /images/LTPR Art Competition Poster_Page_1.jpeg
-      alt: Image alt text
 ---
