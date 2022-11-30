@@ -1,13 +1,16 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    collection: about-us
+  - title: Parents Infoweb
+    collection: parents-infoweb
+  - title: Curriculum
+    collection: curriculum
+  - title: Co-Curriculum
+    collection: co-curriculum
+  - title: Contacts
+    collection: contacts
+  - title: News & Events
+    collection: news-and-events
+  - title: MOE Kindergarten @ Springdale
+    collection: moe-kindergarten-at-springdale
