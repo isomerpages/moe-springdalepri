@@ -6,16 +6,41 @@ third_nav_title: School Hours & Recess
 ---
 **School Curriculum Hours**
 
-Mondays to Fridays  
-7.30 am to 1.30 pm (Mon, Wed, Fri)  
-7.30 am to 1.05 pm (Tue, Thu)  
+The school will start at 7.30am. The dismissal timing will be as follows:
+
+**P1-P3**
+* 1.30pm on Mondays to Wednesdays 
+* 1.00pm on Thursdays and Fridays
+
+**P4-P6**
+* 1.30pm on Mondays to Thursdays
+* 1.00pm on Fridays 
+
   
 
 **Gate Hours**
 
 During term time, please note the opening hours for the school gates:
 
-![](/images/curriculum.png)
+**Main Gate**
+
+Mondays to Fridays
+6.30am – 7.00pm 
+
+**Rear Gate**
+
+Monday – Friday		             
+AM (6.45am – 7.30am)
+
+Monday to Wednesday 	             
+PM (1.30pm – 2.00pm)
+
+Thursday 
+PM (1.00pm – 2.00pm)
+
+Friday
+PM (1.00pm – 1.30pm)
+
 
 **Note on Reporting in the morning:**<br>
 We would like to appeal to parents to send your child to school  only after 6.45 am  and to ensure he/she always have a book at hand to occupy him/her while waiting for class to start at 7.30 am as staff would only be present after 7.10am to supervise them. Having your child arrive in school by 7.15am would help your child to settle in better before the start of the lessons.
