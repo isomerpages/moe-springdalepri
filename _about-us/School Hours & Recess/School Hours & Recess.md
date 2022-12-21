@@ -50,9 +50,9 @@ We seek the cooperation from parents to only drive into the school compound to p
 
 **Recess**
 | Level | Recess | 
-| ----- | ---------------- | 
-| P1     | 8.30am - 9.00am | 
-| P2    | 9.00am - 9.30am | 
+| --------| -------- | 
+| P1   | 8.30am - 9.00am | 
+| P2  | 9.00am - 9.30am | 
 | P3    | 9.30am - 10.00am | 
 | P4    | 10.00am - 10.30am | 
 | P5    | 10.30am - 11.00am | 
