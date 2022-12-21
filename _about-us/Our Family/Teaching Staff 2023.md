@@ -4,7 +4,6 @@ permalink: /about-us/Our-Family/Teaching-Staff-2023/
 description: ""
 third_nav_title: Our Family
 ---
-
 **Primary 1 Teachers**
 
 | Class| Form Teacher | Email Address|
