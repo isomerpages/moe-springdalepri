@@ -12,6 +12,60 @@ third_nav_title: Our Family
 | | Mrs Ho-Tan Gek Hiang |tan_gek_hiang@moe.edu.sg|
 | **P1 Patience**|Mdm Noreen Ali|noreen_ali@moe.edu.sg|
 | |Ms Daphne Tang |tang_daphne@moe.edu.sg|	
+| **P1 Resourcefulness**| Mdm Nurfarhana |nurfarhana_eriza_suari@moe.edu.sg|
+| | Ms Nurul Hidana |nurul_hidana_ahmad@moe.edu.sg|
+| **P1 Initiative**| Mrs Kym Yap|nguee_sin_ee@moe.edu.sg |
+| | Mr Sufian | muhammad_sufian_kamalzaman@moe.edu.sg|
+| **P1 Generosity**| Mrs Trixie Tay| young_li_hua_trixie@moe.edu.sg|
+| | Mdm Emily Aw| aw_mui_nai_emily@moe.edu.sg|
+| **P1 Discernment**| Mdm Siti Norlizah| siti_norlizah_ibrahim@moe.edu.sg|
+| | Ms Carina Luk| luk_kar_wing_carina@moe.edu.sg|
+| **P1 Alertness**| Mrs Rajesh| caroline_shantha@moe.edu.sg| 
+| | Mdm Au Su Yee| au_su_yee@moe.edu.sg|
+| **P1 Loyalty**| Mrs Michelle Hu| lim_mee_yun_michelle@moe.edu.sg|
+| | Ms Chen Shihui |chen_shihui@moe.edu.sg|
+|**P1 Enthusiasm**| Ms Hajera Tasneem| @moe.edu.sg|
+| | Mrs Gayatri Roy |gayatri_s@moe.edu.sg|
+
+**Primary 2 Teachers**
+| Class| Form Teacher | Email Address|
+| -------- | -------- | -------- | 
+| **P2 Sincerity**| Mrs Jaslyn Lim| cai_yuyu@moe.edu.sg|
+| | Ms Wu Jing| wu_jing_a@moe.edu.sg|	
+| **P2 Patience**| Mdm Hazel Cheong|hazel_cheong_seok_yee@moe.edu.sg|
+| | Mdm Kalathevi | kalathevi_kalaimeikam@moe.edu.sg|	
+| **P2 Resourcefulness**| Ms Dalvin Chandran| dalvin_chandran@moe.edu.sg|
+| | Ms Ng Chi Cheng | ng_chi_cheng@moe.edu.sg |
+| **P2 Initiative**| Mdm Lee Siew Yee |ee_siew_yee@moe.edu.sg|
+| | Mdm Yogeetha | yogeetha_ramerchandra@moe.edu.sg|
+| **P2 Generosity**| Mdm Nadziah Sudin | nadziah_sudin@moe.edu.sg |
+| | Mrs Eileen Poh| chua_li_eng_eileen@moe.edu.sg|
+| **P2 Discernment**| Mrs Jane Ong | wu_mei_chan_jane@moe.edu.sg|
+| | Mdm Dewi Bte Mohamed | dewi_mohamed@moe.edu.sg|
+| **P2 Alertness**| Mdm Sandy Chiok | chiok_xue_ting@moe.edu.sg| 
+| | Ms Sharon Han | han_huiping@moe.edu.sg|
+| **P2 Loyalty**| Mdm Nurul Raudhah | nurul_raudhah_abdul_malek@moe.edu.sg|
+| | Mdm Phyllis Lum| lum_foong_chun@moe.edu.sg|
+|**P2 Enthusiasm**| Mdm Norrasyidah | norrasyidah_mohamed_yusof@moe.edu.sg|
+| | Mdm Dewi Juliana|dewi_juliana@moe.edu.sg|
+
+
+**Primary 6 Teachers**
+
+| Class| Form Teacher | Email Address|
+| -------- | -------- | -------- |
+|**P6 Sincerity**|Mr Taib| mohamad_taib_majid@moe.edu.sg|
+|  |Mrs Chan Cheng Guan| chan_cheng_guan@moe.edu.sg|
+|**P6 Patience**|Mr Anwarul|anwarul_fadhli_mohd_ismail@moe.edu.sg|
+|  |Mdm EuniceLiuu|liuu_mee_tein_eunice@moe.edu.sg|
+|**P6 Resourcefulness**|Mr Charles Ye|ye_jinkun_charles@moe.edu.sg|
+| |Mdm Shanom Farsa|shanom_farsa_sarry@moe.edu.sg|
+|**P6 Initiative**|Mr Tham Otto| tham_otto@moe.edu.sg|
+| | Ms Angelina Huang| angelina_huang@moe.edu.sg|
+|**P6 Generosity**|Mrs Ong Shi Hui|ong_shi_hui_a@moe.edu.sg|
+ | | Ms Aishah Nasyeera| aishah_nasyeera_rizdwan@moe.edu.sg| 
+|**P6 Discernment**|Mr Lyndon Long| long_tianjun_lyndon@moe.edu.sg| 
+| |Ms Liu Yisi| liu_yisi@moe.edu.sg |
 
 
 
