@@ -10,13 +10,15 @@ third_nav_title: Our Family
 
 | Name| Position |
 | -------- | -------- | 
+| **Mdm Chow Shin Ye**     | Administration Manager     | 
 | **Mdm Joan Hoo**     | Administration Manager     | 
 |**Mr Anthony Augustin**|Operation Manager
 |**Mr Richard Toh**|Operation Manager
 |**Ms Rafizan Binte Roslan**|Administration Executive @ MK
 |**Mdm Dian Farhana Binte Abdul Razak**|Corporate Support Officer
 |**Mdm Florence Cho Poh Chan**|Corporate Support Officer
-|**Mr Lou Heng Hui**|ICT Manager
+|**Mdm Vernetta Chan**|Corporate Support Officer
+|**Mdm Sharon Lim**|Corporate Support Officer
 |**Mdm Teo Geok Mui**|Operations Support Officer
 |**Mdm Fu Xuejuan**|Operations Support Officer
 |**Mdm Pan Lian**|Operations Support Officer
