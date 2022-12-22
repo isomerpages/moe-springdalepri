@@ -24,7 +24,7 @@ third_nav_title: Our Family
 | | Mdm Au Su Yee| au_su_yee@moe.edu.sg|
 | **P1 Loyalty**| Mrs Michelle Hu| lim_mee_yun_michelle@moe.edu.sg|
 | | Ms Chen Shihui |chen_shihui@moe.edu.sg|
-|**P1 Enthusiasm**| Ms Hajera Tasneem| @moe.edu.sg|
+|**P1 Enthusiasm**| Ms Hajera Tasneem| To be updated|
 | | Mrs Gayatri Roy |gayatri_s@moe.edu.sg|
 
 **Primary 2 Teachers**
@@ -36,7 +36,7 @@ third_nav_title: Our Family
 | | Mdm Kalathevi | kalathevi_kalaimeikam@moe.edu.sg|	
 | **P2 Resourcefulness**| Ms Dalvin Chandran| dalvin_chandran@moe.edu.sg|
 | | Ms Ng Chi Cheng | ng_chi_cheng@moe.edu.sg |
-| **P2 Initiative**| Mdm Lee Siew Yee |ee_siew_yee@moe.edu.sg|
+| **P2 Initiative**| Mdm Lee Siew Yee |lee_siew_yee@moe.edu.sg|
 | | Mdm Yogeetha | yogeetha_ramerchandra@moe.edu.sg|
 | **P2 Generosity**| Mdm Nadziah Sudin | nadziah_sudin@moe.edu.sg |
 | | Mrs Eileen Poh| chua_li_eng_eileen@moe.edu.sg|
