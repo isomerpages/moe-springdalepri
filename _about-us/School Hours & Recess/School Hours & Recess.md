@@ -33,10 +33,9 @@ During term time, please note the opening hours for the school gates:
 |**Rear Gate**|Monday – Friday|Monday to Wednesday
 ||AM (6.45am – 7.30am)|PM (1.30pm – 2.00pm)|
 || |Thursday
-||PM (1.00pm – 2.00pm)
-
-Friday
-PM (1.00pm – 1.30pm)
+|||PM (1.00pm – 2.00pm)
+|||Friday
+|||PM (1.00pm – 1.30pm)
 
 
 **Note on Reporting in the morning:**<br>
