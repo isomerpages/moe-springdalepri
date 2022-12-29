@@ -16,27 +16,24 @@ The school will start at 7.30am. The dismissal timing will be as follows:
 * 1.30pm on Mondays to Thursdays
 * 1.00pm on Fridays 
 
-  
+**Notes to caregiver**
+* ALL P1 & P2 students will be dismissed at the front gate. Parents or caregivers of P1 and P2 can proceed to the foyer 5 minute before dismissal. 
+
+* ALL P3-P6 students will be dismissed at the front and rear gates. All parents or caregivers of P3-P6 students are to wait outside the school gates and will not be allowed to enter the school.
+
 
 **Gate Hours**
 
 During term time, please note the opening hours for the school gates:
 
-**Main Gate**
-
-Mondays to Fridays
-6.30am – 7.00pm 
-
-**Rear Gate**
-
-Monday – Friday		             
-AM (6.45am – 7.30am)
-
-Monday to Wednesday 	             
-PM (1.30pm – 2.00pm)
-
-Thursday 
-PM (1.00pm – 2.00pm)
+|Gate| Opening Hours||
+| -------- | -------- |-------- |
+| **Main Gate**|Monday to Friday|
+||6.30am – 7.00pm|
+|**Rear Gate**|Monday – Friday|Monday to Wednesday
+||AM (6.45am – 7.30am)|PM (1.30pm – 2.00pm)|
+|| |Thursday
+||PM (1.00pm – 2.00pm)
 
 Friday
 PM (1.00pm – 1.30pm)
