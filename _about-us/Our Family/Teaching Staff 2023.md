@@ -97,7 +97,7 @@ third_nav_title: Our Family
 | **P5 Resourcefulness**| Ms Jennifer Tang | tang_kuan_eng_jennifer@moe.edu.sg |
 | | Ms Ho Suk San | ho_suk_san@moe.edu.sg |
 | **P5 Initiative**| Mrs Pearly Lim | lee_peiyi_pearly@moe.edu.sg |
-| | Ms Yao Xiaofeng | To be updated|
+| | Ms Yao Xiaofeng | yao_xiaofeng@moe.edu.sg|
 | **P5 Generosity**| Mdm Belinda Tan Sia Phing  | tan_sia_phing@moe.edu.sg |
 | | Mdm Nor Azila | nor_azila_noor@moe.edu.sg |
 | **P5 Discernment**| Ms Tan Yee Hui | tan_yee_hui@moe.edu.sg |
