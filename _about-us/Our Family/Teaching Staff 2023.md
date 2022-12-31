@@ -57,14 +57,14 @@ third_nav_title: Our Family
 | **P3 Sincerity**| Mr Peh Sheng Kang | peh_sheng_kang@moe.edu.sg|
 | | Miss Noor Ezaida Binte Abdul | noor_ezaida_abdul_rahman@moe.edu.sg |	
 | **P3 Patience**| Ms Sunita | sunita_mohandas@moe.edu.sg|
-| | Mr Goh Kah How | goh_kah_how@moe.edu.sg |	
+| | Mr Goh Kah How | goh_kah_how@moe.edu.sg |
 | **P3 Resourcefulness**| Mrs Chris Yeo | tan_kah_khee@moe.edu.sg |
 | | Ms Sawiyah | sawiyah_mohamed_sidek@moe.edu.sg |
 | **P3 Initiative**| Mdm Rohana | rohana_md_nor@moe.edu.sg |
 | | Mdm Ellen Chung | chung_mui_ling_ellen@moe.edu.sg |
 | **P3 Generosity**| Mdm Fazlinda | fazlinda_junid@moe.edu.sg |
 | | Miss Siti Norliana Bte Othman | siti_norliana_othman@moe.edu.sg |
-| **P3 Discernment**| Miss Suraiya Binte Noor Mohamed | To be updated|
+| **P3 Discernment**| Miss Suraiya Binte Noor Mohamed | suraiya_noor_mohamed@moe.edu.sg|
 | | Ms Ong Bee Hua | ong_bee_hua@moe.edu.sg |
 | **P3 Alertness**| Ms Audrey Phang | phang_sok_kian_audrey@moe.edu.sg | 
 | | Mdm Lee Shirui (Mrs Tan) | lee_shirui@moe.edu.sg|
