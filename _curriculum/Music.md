@@ -37,3 +37,7 @@ LO2: Create Music in both vocal and instrumental settings, individually and coll
 LO3: Perform Music in both vocal and instrumental settings, individually and collaboratively where students respectively:   
 A.	Sing  
 B.	Play Instruments
+
+![Musicable@SDPS](/images/Musicable.jpg)
+Musicable @ SDPS App: 
+[Musicable@Springdale App](https://musicable.glideapp.io/dl/da19fa)
