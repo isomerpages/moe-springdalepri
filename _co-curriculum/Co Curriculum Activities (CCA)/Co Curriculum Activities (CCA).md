@@ -43,9 +43,9 @@ No student should be loitering outside or around the school before the start of 
 
 CCAs will be conducted after school on either Mondays, Tuesdays or Thursdays. Please take note of the respective dates, timing and levels as shown in the following tables. **The respective CCA Teachers-in-charge will provide more details via Parents Gateway (PG).**
 
-![](/images/cca.png)
-![](/images/cca2.png)
-![](/images/cca3.png)
+![CCA schedule 2023](/images/cca%20schedule%202023-1.png)
+
+![CCA schedule 2023](/images/cca%20schedule%202023-2.png)
 
 ##### CCA Guidelines
 

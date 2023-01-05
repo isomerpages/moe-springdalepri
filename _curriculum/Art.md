@@ -45,3 +45,6 @@ C. Learning Outcomes for Primary 5 & 6
 | See| Express | Appreciate |
 | -------- | -------- | -------- |
 |-   Gather information & make informed links between the use of visual qualities & intentions  <br>-  Draw from observing visuals & the world around them to record ideas for art making|-   Experiment with alternative ways to use materials & tools to make art individually & with others <br>- Discuss the intentions of their own artworks & interpret those of others|-   Take pride in their own art making  <br>- Respect others’ artworks, intentions & perspectives  <br>-  Discuss & relate Singapore & international artworks & artists to their own experiences
+
+![Artmazing@SDPS](/images/Artmazing.png)
+Artmazing@SDPS App: [Artmazing@SDPS](https://sdpsapps.wixsite.com/sdpsart)

@@ -12,25 +12,25 @@ third_nav_title: Our Family
 |**Mr Shoeb Burhanuddin**|Vice-Principal 1 (Academic)
 |**Mr Kelvin Ho**|Vice-Principal 2 (Student Development)
 |**Mdm Lim Bee Tin**|Vice-Principal (Administration)
+|**Ms Chow Shin Ye**|Administration Manager
 |**Mdm Joan Hoo**|Administration Manager
 |**Mr Anthony Augustin**|Operations Manager
+|**Mr Richard Toh**|Operations Manager
 |**Mdm Nor Azila**|School Staff Developer
-|**Mdm Amanda Tan**|Head of Department (Science)
 |**Mdm Eunice Liuu**|Head of Department (Mathematics)
 |**Ms Angelina Huang**|Head of Department (English Language)|
 |**Ms Ong Bee Hua**|Head of Department (Mother Tongue Languages)
-|**Mr Randall Lim**|Head of Department (Physical Education)
 |**Mdm Lee Shirui**|Head of Department (Information & Communication Technology)
 |**Miss Fazlinda Binte Junid**|Head of Department (Character & Citizenship Education)
-|**Mr Sean Lim Tong Lee**|	Year Head (Middle Primary) 
+|**Mdm Dewi Juliana**|Head of Department (Special Educational Support)
+|**Ms Ong Si Han**|Head of Department (Student Management)
 |**Mdm Abidah**|Year Head (Upper Primary)
-|**Mrs Jaslyn Lim**|Asst. Year Head (Lower Primary)
-|**Ms Ong Si Han**|Subject Head (Student Well-being)  <br>_Covering Head of Department (Student Management)_
-|**Mr Tham Otto**|Subject Head (Pupil Management)
-|**Mr Saravanan**|Subject Head (Pastoral Care)
+|**Mr Sean Lim Tong Lee**|	Year Head (Middle Primary) 
+|**Mrs Jaslyn Lim**|<br>_Covering Year Head (Lower Primary)_
+|**Mrs Kym Yap**|	Asst. Year Head (Lower Primary) 
+|**Mr Tham Otto**|Subject Head (Student Discipline)
 |**Mrs Ho-Tan Gek Hiang**|Subject Head (Aesthetics)
 |**Mdm Dewi Bte Mohamed**|Subject Head (Malay)
-|**Mr Muhammad Ali Haikal**|Level Head (English)
 |**Mrs Song Wei Ni**|Level Head (Mathematics)
 |**Mdm Teng Yan Ling**|Level Head (Science)
 
@@ -38,6 +38,7 @@ third_nav_title: Our Family
 
 |Name | Position |
 | -------- | -------- |
-|**Mrs Chan Cheng Guang**|Senior Teacher (Chinese)
-|**Mrs Susan Teo**|Senior Teacher (Art)
+|**Mr Ghazali B Md Ibrahim**|Lead Teacher (Educational Support)
 |**Mdm Aw Mui Na Emily**|Senior Teacher (Educational Support)
+|**Mrs Chan Cheng Guang**|Senior Teacher (Chinese)
+|**Mr Mohamed Jufri**|Senior Teacher (Physical Education)

@@ -87,13 +87,8 @@ To order nametags, please read the attached Nametag ordering and collection gui
 
 ##### School Bus
 
-LONGLIM PTE LTD  
-  
-Address  
-34 JALAN TARI PIRING JALAN KAYU ESTATE SINGAPORE 799187  
-  
-Contact Tel  
-64814013 / 64822568 / 67548353  
-  
-Form  
-[https://www.longlim.com/](https://www.longlim.com/)
+SFX Transport Pte Ltd 
+
+Contact Tel: 6282 0262 / 8800 0262
+
+Email: school@sfxtransport.com.sg
