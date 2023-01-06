@@ -36,7 +36,7 @@ third_nav_title: Our Family
 | **P2 Patience**| Mdm Hazel Cheong|hazel_cheong_seok_yee@moe.edu.sg|
 | | Mdm Kalathevi | kalathevi_kalaimeikam@moe.edu.sg|	
 | **P2 Resourcefulness**| Ms Dalvin Chandran| dalvin_chandran@moe.edu.sg|
-| | Ms Ng Chi Cheng | ng_chi_cheng@moe.edu.sg |
+| | Ms Ng Chi Cheng | ng_chi_cheng@moe.edu.sg 
 | **P2 Initiative**| Mdm Lee Siew Yee |lee_siew_yee@moe.edu.sg|
 | | Mdm Yogeetha | yogeetha_ramerchandra@moe.edu.sg|
 | **P2 Generosity**| Mdm Nadziah Sudin | nadziah_sudin@moe.edu.sg |
@@ -49,7 +49,6 @@ third_nav_title: Our Family
 | | Mdm Phyllis Lum| lum_foong_chun@moe.edu.sg|
 |**P2 Enthusiasm**| Mdm Norrasyidah | norrasyidah_mohamed_yusof@moe.edu.sg|
 | | Mdm Dewi Juliana|dewi_juliana@moe.edu.sg|
-
 
 **Primary 3 Teachers**
 | Class| Form Teacher | Email Address|
