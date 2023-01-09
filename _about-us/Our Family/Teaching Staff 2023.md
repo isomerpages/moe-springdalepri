@@ -29,6 +29,7 @@ third_nav_title: Our Family
 
 
 **Primary 2 Teachers**
+
 | Class| Form Teacher | Email Address|
 | -------- | -------- | -------- | 
 | **P2 Sincerity**| Mrs Jaslyn Lim| cai_yuyu@moe.edu.sg|
@@ -51,6 +52,7 @@ third_nav_title: Our Family
 | | Mdm Dewi Juliana|dewi_juliana@moe.edu.sg|
 
 **Primary 3 Teachers**
+
 | Class| Form Teacher | Email Address|
 | -------- | -------- | -------- | 
 | **P3 Sincerity**| Mr Peh Sheng Kang | peh_sheng_kang@moe.edu.sg|
@@ -70,6 +72,7 @@ third_nav_title: Our Family
 
 
 **Primary 4 Teachers**
+
 | Class| Form Teacher | Email Address|
 | -------- | -------- | -------- | 
 | **P4 Sincerity**| Mdm Kang Zhang Mei   | kang_zhang_mei@moe.edu.sg |
