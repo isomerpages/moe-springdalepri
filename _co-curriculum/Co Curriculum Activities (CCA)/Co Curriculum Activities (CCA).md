@@ -36,7 +36,7 @@ Students involved in CCA competitions may have more training sessions to better 
 ##### CCA Schedule
 
 ![CCA schedule 2023 -1](/images/CCA%201.png)
-![CCA schedule 2023-2](/images/CCA%202.png)
+![CCA Schedule 2023-2](/images/CCA%20Schedule%202.png)
 
 Please take note of the respective dates, timing and levels as shown in the following tables.  (Subject to changes due to unforeseen circumstances).  We seek your understanding in this matter.  **The respective CCA Teachers-in-charge will provide more details and updates via Parents Gateway (PG).**
 
