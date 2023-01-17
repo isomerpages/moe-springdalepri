@@ -9,7 +9,7 @@ As depicted in the 3-leaves clover on our school crest, education is a partnersh
 
 If you are keen to join us, kindly fill in the form and return it to the school. Please note that each parent should fill in a separate form.&nbsp;If you have any queries, please feel free to email Mrs Jaslyn Lim at cai\_yuyu@moe.edu.sg&nbsp;or call her at 6315 7600.
 
-Sign up as a PV using this&nbsp;**[Recruitment Form](https://springdalepri-moe-edu-sg-admin.cwp.sg/qql/slot/u152/Parents/Parent%20Volunteer%20Club/2021/Parent_Volunteer_Form.pdf).**&nbsp;
+Sign up as a PV using this&nbsp;[Recruitment Form](/files/Parent_Volunteer_Form.pdf)&nbsp;
 
   
 
