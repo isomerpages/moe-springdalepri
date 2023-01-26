@@ -35,46 +35,13 @@ Sexuality Education Lessons:
 
 **2023 SEXUALITY EDUCATION LESSONS IN CCE 2021**
 
-|**CCE (FTGP) THEME**| **LESSONS / DURATION**| **Primary 5 LESSON OBJECTIVES**<br>**At the end of the lesson, pupils will be able to:** | **TIME PERIOD** |
-| -------- | -------- | -------- | -------- | 
-|Growing years| The Changes in Me (60 min) | - know what puberty is<br>- identify the physical changes during puberty     |Term 2 Week 10    |
-|What Can I Do? (Part 1)<BR>(30 min)|-  identify the stresses caused by physical and emotional changes during puberty<br>- describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>- describe the emotions caused by physical changes during puberty<br>- recognise that one’s identity does not change even when one’s body is experiencing change due to puberty|Term 2 Week 10 
-|What Can I Do? (Part 2)<br>(30 min)|- identify the stresses caused by physical and emotional changes during puberty<br>- describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>- describe the emotions caused by physical changes during puberty<br>- recognise that one’s identity does not change even when one’s body is experiencing change due to puberty|Term 2 Week 10 
-|Main Task<br>(30 min)|Description of the Main Task:<br><br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.|Term 2 Week 10
-
-**UNIT: Where I Belong**
-
-| **LESSONS / DURATION**| **Primary 5 LESSON OBJECTIVES**<br>**At the end of the lesson, pupils will be able to:** | **TIME PERIOD** |
-| -------- | -------- | -------- |
-|What Are Families?<br>(30 min)|- know that there are different types of family structures<br>- know that every family is unique<br>- state that the three basic functions of families are to provide love, protection and guidance<br>- identify the right sources of help to turn to when in need|Term 3 Week 10
-|What is My Role?<br>(30 min)|- know that gender is about being male or female<br>- choose not to stereotype by gender|Term 3 Week 10   
 
 
-**UNIT: How Do I Keep Myself Safe?**
+| **CCE (FTGP) THEME** | **LESSON TITLE / DURATION** | **LESSON OVERVIEW** | **TIME PERIOD (e.g. Term 1 Week 2)** |  
+| -------- | -------- | -------- |  -------- |
+| Growing Years     | The Changes in Me(60 min)|This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. |Term 4 Week 1  
+| Growing years |  Did You Know? (60 min) | This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’. | Term 4 Week 2  |
 
-| **LESSONS / DURATION**| **Primary 5 LESSON OBJECTIVES**<br>**At the end of the lesson, pupils will be able to:** | **TIME PERIOD** |
-| -------- | -------- | -------- |
-|What is Safety?<br>(30 min)|- know what sexual abuse is<br>- know that there are laws in Singapore that can protect them from sexual abuse<br>- know their rights in keeping themselves safe from sexual abuse|Term 3 Week 10  
-|Stop It! Run! Tell!<br>(30 min)|- protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br>- know their responsibilities in minimising the risk of sexual harm|Term 3 Week 10  
-
-
-UNIT: Are We More Than Friends?
-
-| **LESSONS / DURATION**| **Primary 6 LESSON OBJECTIVES**<br>**At the end of the lesson, pupils will be able to:** | **TIME PERIOD** |
-| -------- | -------- | -------- |
-|Who Are My Friends?<br>(30 min)|- identify the qualities of a healthy friendship<br>- recognise the importance of making wise choices in friendship|Term 4 Week 9
-|Am I A Good Friend?<br>(30 min)|- identify the qualities that they have as a friend<br>- recognise the importance of developing in oneself the qualities of a good friend|Term 4 Week 9
-|What is Love?<br>(30 min)|-  identify the characteristics of love and infatuation<br>- distinguish between the characteristics of love versus infatuation<br>- identify strong feelings arising from infatuation|Term 4 Week 9
-|Am I Falling In Love?<br>(30 min)|- manage strong feelings arising from infatuation<br>- identify ways to manage and cope with teasing from peers|Term 4 Week 9
-|Main Task<br>(30 min)|Description of the Main Task:<br><br>Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.|Term 4 Week 9
-
-UNIT: Friends or Foes?
-
-| **LESSONS / DURATION**| **Primary 6 LESSON OBJECTIVES**<br>**At the end of the lesson, pupils will be able to:** | **TIME PERIOD** |
-| -------- | -------- | -------- |
-|Are You Really My Friend?<br>(30 min)|- identify the pros and cons of forming relationships through social networking websites<br>- know ways to keep themselves safe when using social networking websites|Term 4 Week 9
-|Is It All Safe?<br>(30 min)|- know that some information (like pornography) received through the Internet may be harmful<br>- know ways to keep themselves safe when using social networking websites or the Internet| Term 4 Week 9
-|Main Task<br>(30 min)| Description of the Main Task:<br><br>Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety.  These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.|Term 4 Week 9
 
 
 #### **Information for Parents**
