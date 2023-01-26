@@ -44,6 +44,7 @@ Sexuality Education Lessons:
 | Growing years | Keeping Myself Safe(60 min) | In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions |  Term 4 Week 3 |
 
 **Primary 6**
+
 | **CCE (FTGP) THEME** | **LESSON TITLE / DURATION** | **LESSON OVERVIEW** | **TIME PERIOD (e.g. Term 1 Week 2)** |  
 | -------- | -------- | -------- |  -------- |
 | Growing Years     | Are We More than Friends?Lesson 1(60 min)|In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends. |Term 4 Week 5  
