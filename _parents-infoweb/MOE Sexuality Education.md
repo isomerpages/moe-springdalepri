@@ -35,23 +35,32 @@ Sexuality Education Lessons:
 
 **2023 SEXUALITY EDUCATION LESSONS IN CCE 2021**
 
-
+**Primary 5**
 
 | **CCE (FTGP) THEME** | **LESSON TITLE / DURATION** | **LESSON OVERVIEW** | **TIME PERIOD (e.g. Term 1 Week 2)** |  
 | -------- | -------- | -------- |  -------- |
 | Growing Years     | The Changes in Me(60 min)|This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. |Term 4 Week 1  
-| Growing years |  Did You Know? (60 min) | This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’. | Term 4 Week 2  |
+| Growing years |  Did You Know? (60 min) | This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’. This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. | Term 4 Week 2  |
+| Growing years | Keeping Myself Safe(60 min) | In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions |  Term 4 Week 3 |
+
+**Primary 6**
+| **CCE (FTGP) THEME** | **LESSON TITLE / DURATION** | **LESSON OVERVIEW** | **TIME PERIOD (e.g. Term 1 Week 2)** |  
+| -------- | -------- | -------- |  -------- |
+| Growing Years     | Are We More than Friends?Lesson 1(60 min)|In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends. |Term 4 Week 5  
+| Growing years |  Are We More than Friends Lesson 2(60 min) |In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other. | Term 4 Week 7  |
+| Growing years | Did You Know? *(60 min) | This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’. This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. |  Term 4 Week 8 |
+
+**Please Note:
+*For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort. 
 
 
 
 #### **Information for Parents**
 
-8\. Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.  
-  
+8.	Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
+ 
+9.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents via Parents Gateway.
 
-9.Parents who wish to opt their children out of the Growing Years (GY) programme need to complete an opt-out form. The school will issue the consent form for the Growing Years programme via Parent Gateway nearer to the programme date.   
+10.	Parents can contact the school at 63157600 or email to  springdale_ps@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
 
-10. Parents can contact the school at 6315 7600 or email the school at springdale\_ps@moe.edu.sg for discussion or to seek clarification about the school’s sexuality education programme.       
 
-  
-11. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
