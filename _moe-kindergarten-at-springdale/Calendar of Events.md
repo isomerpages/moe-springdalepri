@@ -6,9 +6,4 @@ description: ""
 Please refer to the documents below to access our calendar of Events :
 
 ##### TERM 1
-
-[2022 Term 1 Calendar of Events.pdf](/files/2022%20Term%201%20Calendar%20of%20Events.pdf)
-
-##### TERM 2 
-
-[2022 Term 2 Calendar of Events.pdf](/files/2022%20Term%202%20Calendar%20of%20Events.pdf)
+[2023 Semester 1_Calendar of Events](/files/2023%20Calendar%20of%20Events%20Semester%201.pdf)
