@@ -2,7 +2,6 @@ collections:
   parents-infoweb:
     output: true
     order:
-      - Example 1.md
       - Parents Info & Resources/Letter To Parents.md
       - Parents Info & Resources/Home Based Learning (HBL).md
       - Parents Info & Resources/Parents Information & Resources.md
