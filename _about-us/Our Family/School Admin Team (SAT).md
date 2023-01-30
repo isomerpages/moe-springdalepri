@@ -9,7 +9,6 @@ third_nav_title: Our Family
 | Name| Position |
 | -------- | -------- | 
 | **Mdm Chow Shin Ye**     | Administration Manager     | 
-| **Mdm Joan Hoo**     | Administration Manager     | 
 |**Mr Anthony Augustin**|Operation Manager
 |**Mr Richard Toh**|Operation Manager
 |**Ms Rafizan Binte Roslan**|Administration Executive @ MK
