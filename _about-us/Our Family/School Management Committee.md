@@ -13,7 +13,6 @@ third_nav_title: Our Family
 |**Mr Kelvin Ho**|Vice-Principal 2 (Student Development)
 |**Mdm Lim Bee Tin**|Vice-Principal (Administration)
 |**Ms Chow Shin Ye**|Administration Manager
-|**Mdm Joan Hoo**|Administration Manager
 |**Mr Anthony Augustin**|Operations Manager
 |**Mr Richard Toh**|Operations Manager
 |**Mdm Nor Azila**|School Staff Developer
