@@ -45,12 +45,14 @@ We would like to appeal to parents to send your child to school  only after 6.4
 We seek the cooperation from parents to only drive into the school compound to pick up their children from the school foyer _**after 1.45pm on**_ **Mon to Thu** and **after 1.20pm on Fri**.
 
 **Recess**
+
 | Level | Recess | 
 | --------| -------- | 
 | P1   | 8.30am - 9.00am | 
 | P2  | 9.00am - 9.30am | 
-| P3    | 9.30am - 10.00am | 
-| P4    | 10.00am - 10.30am | 
-| P5    | 10.30am - 11.00am | 
-| P6    | 11.00am - 11.30am | 
+| P3  | 9.30am - 10.00am | 
+| P4  | 10.00am - 10.30am | 
+| P5  | 10.30am - 11.00am | 
+| P6  | 11.00am - 11.30am | 
+
 _The school has snack break. Hence, students could pack light/dry snacks to be consumed in class at 9 am or 12pm._
