@@ -23,4 +23,3 @@ Welcome to MK@SD's Open House 2023!
 Please register your interest by scanning the QR code in the poster or click [here](https://www.eventbrite.com/e/2023-mk-open-house-tickets-505734434307?utm_campaign=open+house+&utm_medium=email&utm_source=PMKs).
 
 We look forward to seeing you here in MK@Springdale!
-
