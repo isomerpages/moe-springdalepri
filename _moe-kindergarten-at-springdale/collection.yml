@@ -2,13 +2,13 @@ collections:
   moe-kindergarten-at-springdale:
     output: true
     order:
-      - Forms.md
       - MK@SD Open House 2023.md
       - OUR MK FAMILY.md
       - Timetable.md
       - Calendar of Events.md
       - Info On School Uniform.md
       - Learning Environment (MK @ Springdale).md
+      - MK Total Curriculum/.keep
       - MK Total Curriculum/HI Light Programme.md
       - MK Total Curriculum/STARLIGHT (EL) PROGRAMME.md
       - MK Total Curriculum/STARLIGHT (MTL) PROGRAMME.md
@@ -16,5 +16,5 @@ collections:
       - MK Total Curriculum/Routines & Transitions.md
       - MK Total Curriculum/Centre based Programmes.md
       - MK Total Curriculum/MK Total Curriculum.md
-      - MK Total Curriculum/.keep
       - School Events.md
+      - Forms.md
