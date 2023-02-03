@@ -2,7 +2,6 @@ collections:
   moe-kindergarten-at-springdale:
     output: true
     order:
-      - Contact us.md
       - MK@SD Open House 2023.md
       - OUR MK FAMILY.md
       - Timetable.md
@@ -19,3 +18,4 @@ collections:
       - MK Total Curriculum/MK Total Curriculum.md
       - School Events.md
       - Forms.md
+      - Contact us.md
