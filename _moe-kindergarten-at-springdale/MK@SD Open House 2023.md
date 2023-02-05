@@ -1,8 +1,11 @@
 ---
 title: MK@SD Open House 2023
-permalink: /moe-kindergarten-at-springdale/permalink/
+permalink: /moe-kindergarten-at-springdale/MKSD-OPEN-HOUSE-2023/
 description: ""
 ---
+
+
+
 Welcome to MK@SD's Open House 2023!
 
 ![](/images/2023%20Open%20House%20Poster%20(1).png)
