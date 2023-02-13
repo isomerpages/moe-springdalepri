@@ -13,7 +13,7 @@ Welcome to MK@SD's Open House 2023!
 | Time | Programme 
 | ----------- | ----------- | 
 | 9 am     | Welcome Address & Briefing by Principal & MK Centre Head
-| 10am  | EL Reading Session|  
+| 10 am  | EL Reading Session|  
 | 10 am onwards     | Centre Tour (free & easy)
 | 10.30 am     | CL Reading Session
 | 11 am     | ML Reading Session
