@@ -9,4 +9,4 @@ third_nav_title: Parents Info & Resources
   
 Click [here](https://studentgpa.incomegroupins.com.sg/#/) to access the claim portal. 
 
-Click here to view the 
+Click [here](/files/Product%20Fact%20Sheet%20Year%202023.pdf) to view the Product Fact Sheet. 
