@@ -2,6 +2,7 @@ collections:
   parents-infoweb:
     output: true
     order:
+      - Parents Info & Resources/Student Personal Accident (GPA) Insurance.md
       - Parents Info & Resources/Letter To Parents.md
       - Parents Info & Resources/Home Based Learning (HBL).md
       - Parents Info & Resources/Parents Information & Resources.md
