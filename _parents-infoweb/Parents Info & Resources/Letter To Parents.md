@@ -7,8 +7,17 @@ third_nav_title: Parents Info & Resources
 #### YEAR 2023
 
 ##### Jan 2023
+[Letter to P3 Parents (Term 1 WA) 2023](/files/Letter%20to%20P3%20Parents%20(Term%201%20WA)%202023_updated.pdf)
 
+[Letter to P4 Parents (Term 1 WA) 2023](/files/Letter%20to%20P4%20Parents%20(Term%201%20WA)%202023.pdf)
 
+[Letter to P5 Parents (Term 1 WA) 2023](/files/Letter%20to%20P5%20Parents%20(Term%201%20WA)%202023.pdf)
+
+[Letter to P6 Parents (Assessment Plan)](/files/Letter%20to%20P6%20Parents%20(Assessment%20Plan).pdf)
+
+##### Feb 2023
+
+[Letter to Parents (PCTC HBL)_21 Feb](/files/Letter%20to%20Parents%20(PCTC%20%20HBL)_21%20Feb.pdf)
 
 #### NEWSLETTER 2022
 
@@ -18,4 +27,3 @@ third_nav_title: Parents Info & Resources
 [T2 Newsletter Lower Primary.pdf](/files/T2%20Newsletter%20Lower%20Primary.pdf)<br>
 [T2 Newsletter Middle Primary.pdf](/files/T2%20Newsletter%20Middle%20Primary.pdf)<br>
 [T2 Newsletter Upper Primary.pdf](/files/T2%20Newsletter%20Upper%20Primary.pdf)
-
