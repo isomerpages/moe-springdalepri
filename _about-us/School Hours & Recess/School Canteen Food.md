@@ -29,4 +29,4 @@ Parents can thus be assured that their children in school are eating meals or sn
 
 #### **School Canteen Stall Menu**
 
-Parents may click [here](/files/SDPS%20canteen%20menu%2019%20Mar%202021.pdf) to view the stall menu.
+Parents may click [here](/files/SDPS%20Canteen%20Menu%20updated%2015%20Feb%202023.pdf)
