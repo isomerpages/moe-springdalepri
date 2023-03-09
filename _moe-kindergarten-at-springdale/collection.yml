@@ -2,12 +2,12 @@ collections:
   moe-kindergarten-at-springdale:
     output: true
     order:
+      - MK@SD Open House 2023.md
+      - School Information/.keep
       - School Information/Info On School Uniform.md
       - School Information/Our Learning Environment.md
       - School Information/School Hours.md
       - School Information/MK@SD's Teaching Staff.md
-      - School Information/.keep
-      - MK@SD Open House 2023.md
       - MK Total Curriculum/.keep
       - MK Total Curriculum/HI Light Programme.md
       - MK Total Curriculum/STARLIGHT (EL) PROGRAMME.md
