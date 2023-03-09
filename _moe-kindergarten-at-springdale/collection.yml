@@ -2,6 +2,7 @@ collections:
   moe-kindergarten-at-springdale:
     output: true
     order:
+      - School Information/Info On School Uniform.md
       - School Information/Our Learning Environment.md
       - School Information/School Hours.md
       - School Information/MK@SD's Teaching Staff.md
