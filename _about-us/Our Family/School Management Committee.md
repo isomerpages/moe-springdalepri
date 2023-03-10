@@ -25,7 +25,7 @@ third_nav_title: Our Family
 |**Ms Ong Si Han**|Head of Department (Student Management)
 |**Mdm Abidah**|Year Head (Upper Primary)
 |**Mr Sean Lim Tong Lee**|	Year Head (Middle Primary) 
-|**Mrs Jaslyn Lim**|<br>_Covering Year Head (Lower Primary)_
+|**Mrs Jaslyn Lim**|Covering Year Head (Lower Primary)
 |**Mrs Kym Yap**|	Asst. Year Head (Lower Primary) 
 |**Mr Tham Otto**|Subject Head (Student Discipline)
 |**Mrs Ho-Tan Gek Hiang**|Subject Head (Aesthetics)
