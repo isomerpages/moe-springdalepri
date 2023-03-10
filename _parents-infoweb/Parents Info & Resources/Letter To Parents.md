@@ -4,6 +4,17 @@ permalink: /parents-infoweb/Parents-Info-and-Resources/Letter-To-Parents/
 description: ""
 third_nav_title: Parents Info & Resources
 ---
+#### NEWSLETTER 2023
+  
+##### Sem 1 Newsletter
+
+[T1 Newsletter (Lower Primary)](/files/T1%20Newsletter%20(LP).pdf)
+
+[T1 Newsletter (Middle Primary)](/files/T1%20Newsletter%20(MP).pdf)
+
+[T1 Newsletter (Upper Primary)](/files/T1%20Newsletter%20(UP).pdf)
+
+
 #### YEAR 2023
 
 ##### Jan 2023

@@ -24,6 +24,7 @@ third_nav_title: Our Family
 | | Mdm Au Su Yee| au_su_yee@moe.edu.sg|
 | **P1 Loyalty**| Mrs Michelle Hu| lim_mee_yun_michelle@moe.edu.sg|
 | | Ms Chen Shihui |chen_shihui@moe.edu.sg|
+| | Mrs Jaslyn Lim |cai_yuyu@moe.edu.sg|
 |**P1 Enthusiasm**| Ms Hajera Tasneem| hajera_tasneem_abdul_azeez@moe.edu.sg|
 | | Mrs Gayatri Roy | gayatri_s@moe.edu.sg|
 
@@ -32,7 +33,7 @@ third_nav_title: Our Family
 
 | Class| Form Teacher | Email Address|
 | -------- | -------- | -------- | 
-| **P2 Sincerity**| Mrs Jaslyn Lim| cai_yuyu@moe.edu.sg|
+| **P2 Sincerity**| Ms Matilda Ong| To be updated|
 | | Ms Wu Jing| wu_jing_a@moe.edu.sg|	
 | **P2 Patience**| Mdm Hazel Cheong|hazel_cheong_seok_yee@moe.edu.sg|
 | | Mdm Kalathevi | kalathevi_kalaimeikam@moe.edu.sg|	
@@ -78,7 +79,7 @@ third_nav_title: Our Family
 | **P4 Sincerity**| Mdm Kang Zhang Mei   | kang_zhang_mei@moe.edu.sg |
 | | Mr Chew Mou Yi | chew_mou_yi@moe.edu.sg|	
 | **P4 Patience**| Mdm Norsham | norsham_mohammed_noh@moe.edu.sg|
-| | Mr Sean Lim Tong Lee | lim_tong_lee@moe.edu.sg |	
+| | Ms Liew Hui Jun | To be updated |	
 | **P4 Resourcefulness**| Ms Thong Wei Wei | thong_wei_wei@moe.edu.sg |
 | | Ms Uma Maheswari | uma_maheswari_velusamy@moe.edu.sg |
 | **P4 Initiative**| Mdm Teng Yan Ling | teng_yan_ling@moe.edu.sg |
@@ -87,6 +88,7 @@ third_nav_title: Our Family
 | | Miss Chan Shu Hui | chan_shu_hui_a@moe.edu.sg|
 | **P4 Discernment**| Mrs Song Wei Ni  | chong_wei_ni@moe.edu.sg|
 | | Mr Leonard Toh | toh_jia_bin_leonard@moe.edu.sg |
+| | Mr Sean Lim Tong Lee | lim_tong_lee@moe.edu.sg |	
 
 
 **Primary 5 Teachers**
