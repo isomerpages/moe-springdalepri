@@ -15,4 +15,4 @@ The HI-Light Programme supports the holistic development of children through an 
 
 ##### A typical Hi-Light lesson in MK@SD
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRbNvS7PN0wgOD80FK-5Xh11fkqlFIWdoBvQfix3rPuNLRHYGx13wlcT6vT4srTgXwzAfbKJG9Ny19Z/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRCBWaPid00o9rOYtB0YqSIQ6B_ZFJOqEkF6QDZNdRjFNnAhmUcVUUqx6yLvZOzAn0_-D3q2_zVPn6Z/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
