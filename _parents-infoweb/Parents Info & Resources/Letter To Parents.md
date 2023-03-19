@@ -8,7 +8,7 @@ third_nav_title: Parents Info & Resources
   
 ##### Sem 1 Newsletter
 
-[T1 Newsletter (Lower Primary)](https://drive.google.com/file/d/1HMXkX4pJ5fxEJ7RlGldq0JsY-bfWMJKW/view?usp=sharing)
+[T1 Newsletter (Lower Primary)](https://for.edu.sg/t1newsletterlowerprimary)
 
 
 [T1 Newsletter (Middle Primary)](https://drive.google.com/file/d/1HMXkX4pJ5fxEJ7RlGldq0JsY-bfWMJKW/view?usp=sharing)
