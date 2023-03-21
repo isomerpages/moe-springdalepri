@@ -12,6 +12,8 @@ To minimize the loss of curriculum time and to keep students gainfully occupied 
 
 The learning plans for respective subjects will be available on the SDPS-HBL Google Site by 6pm the day before. Click [here](https://sites.google.com/moe.edu.sg/sdpshbl2023/home) to access the SDPS-HBL Google Site.
 
+Alternatively, you can also click on the links below to access the learning plans for the respective level and subjects. 
+
 [P1](https://docs.google.com/document/d/16Oy82ygjszdgABYJI0vgDZN5cp_YYRbXUoi5tE-FiJU/edit?usp=sharing)
 
 [P2](https://docs.google.com/document/d/1M58eZvAjcYYq3pw6XDQmMcLITibBEZmisPAEFyO4fiU/edit?usp=sharing)
