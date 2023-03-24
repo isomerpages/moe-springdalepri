@@ -33,7 +33,7 @@ third_nav_title: Our Family
 
 | Class| Form Teacher | Email Address|
 | -------- | -------- | -------- | 
-| **P2 Sincerity**| Ms Matilda Ong| To be updated|
+| **P2 Sincerity**| Ms Matilda Ong| matilda_ong_wei_ling@moe.edu.sg|
 | | Ms Wu Jing| wu_jing_a@moe.edu.sg|	
 | **P2 Patience**| Mdm Hazel Cheong|hazel_cheong_seok_yee@moe.edu.sg|
 | | Mdm Kalathevi | kalathevi_kalaimeikam@moe.edu.sg|	
@@ -79,7 +79,7 @@ third_nav_title: Our Family
 | **P4 Sincerity**| Mdm Kang Zhang Mei   | kang_zhang_mei@moe.edu.sg |
 | | Mr Chew Mou Yi | chew_mou_yi@moe.edu.sg|	
 | **P4 Patience**| Mdm Norsham | norsham_mohammed_noh@moe.edu.sg|
-| | Ms Liew Hui Jun | To be updated |	
+| | Ms Liew Hui Jun | liew_hui_jun@moe.edu.sg  |	
 | **P4 Resourcefulness**| Ms Thong Wei Wei | thong_wei_wei@moe.edu.sg |
 | | Ms Uma Maheswari | uma_maheswari_velusamy@moe.edu.sg |
 | **P4 Initiative**| Mdm Teng Yan Ling | teng_yan_ling@moe.edu.sg |
