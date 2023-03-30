@@ -4,14 +4,15 @@ permalink: /moe-kindergarten-at-springdale/MK-Total-Curriculum/HI-Light-Programm
 description: ""
 third_nav_title: MK Total Curriculum
 ---
-The HI-Light Programme supports the holistic development of children through an integrated approach. It focuses on the 6 learning areas:&nbsp;  
+The HI-Light Programme supports the holistic development of children through an integrated  approach to learning. The learning experiences in the HI-Light Programme are planned as a whole to help the children make sense of the world around them.
 
-*   Aesthetics and Creative Expression
-*   Discovery of the World
-*   Language and Literacy
-*   Motor Skills Development
-*   Numeracy
-*   &nbsp;Social and Emotional Development
+Through the HI-Light Programme, your child will be nurtured holistically in 6 learning areas:
+-	Aesthetics and Creative Expression
+-	Discovery of the World
+-	Language and Literacy
+-	Motor Skills Development
+-	Numeracy
+-	Social and Emotional Development 
 
 ##### A typical Hi-Light lesson in MK@SD
 
