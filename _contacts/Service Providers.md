@@ -1,13 +1,13 @@
 ---
-title: School Vendors
-permalink: /contacts/School-Vendors/
+title: Service Providers
+permalink: /contacts/service-providers/
 description: ""
 ---
 #### Bookshop
 
 PACIFIC BOOKSTORES PTE LTD  
   
-Website :  [https://www.pacificbookstores.com/](https://www.pacificbookstores.com/)  
+Website :&nbsp;&nbsp;[https://www.pacificbookstores.com/](https://www.pacificbookstores.com/)  
   
 Address  
 
@@ -36,7 +36,7 @@ Click [here](/files/Sales_Collection%20of%20Books%20and%20Uniforms%20from%20Nov%
 <br>
 
 
- Click here to view the steps to Online Buying Guide:<br>
+&nbsp;Click here to view the steps to Online Buying Guide:<br>
  [Online Buying Guide.pdf](/files/Online%20Buying%20Guide.pdf)
  
  
@@ -49,20 +49,20 @@ SHANGHAI SCHOOL UNIFORMS PTE LTD
   
 Address  
 
-63 Ubi Ave 1, #04-09, 63@UBI, Singapore 408937
+63 Ubi Ave 1, #04-09,&nbsp;63@UBI,&nbsp;Singapore 408937
 
 Contact Tel  
 6352 2741
 
   
 
-Website : [https://shanghai-uniforms.com/](https://shanghai-uniforms.com/)
+Website :&nbsp;[https://shanghai-uniforms.com/](https://shanghai-uniforms.com/)
 
   
 
 Purchase of the school uniform at the retail store is strictly by appointment basis at :
 
-[https://shop.shanghai-uniforms.com/appointment-booking-at-ubi/](https://shop.shanghai-uniforms.com/appointment-booking-at-ubi/)   
+[https://shop.shanghai-uniforms.com/appointment-booking-at-ubi/](https://shop.shanghai-uniforms.com/appointment-booking-at-ubi/)&nbsp;  
 
 Please read the attached Shanghai School Uniforms letter for more details on the purchase of school uniforms:<br>
 [SDPS Uniform Shanghai School Uniforms.pdf](/files/SDPS%20Uniform%20Shanghai%20School%20Uniforms%20for%202022%20(1).pdf)
@@ -82,7 +82,7 @@ Please read the attached Shanghai School Uniforms letter for more details on the
 
 School Nametags  
 
-To order nametags, please read the attached Nametag ordering and collection guide for more details:<br>
+To order nametags,&nbsp;please read the attached Nametag ordering and collection guide for more details:<br>
 [SDPS Name Tag Order for 2022.pdf](/files/SDPS%20Name%20Tag%20Order%20for%202022%20(1).pdf)
 
 ##### School Bus
