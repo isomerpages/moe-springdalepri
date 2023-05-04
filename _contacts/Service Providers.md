@@ -92,3 +92,7 @@ SFX Transport Pte Ltd
 Contact Tel: 6282 0262 / 8800 0262
 
 Email: school@sfxtransport.com.sg
+
+Click on the link below to view the School Bus Service Fares.
+
+[School Bus Service Fares](/files/school%20bus%20service%20fares.pdf)
