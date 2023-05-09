@@ -2,9 +2,9 @@ collections:
   contacts:
     output: true
     order:
-      - School bus.md
       - Springdale Pri School.md
       - Student Care Centre.md
       - Dental Service.md
       - Service Providers.md
       - School Canteen.md
+      - School bus.md
