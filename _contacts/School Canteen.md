@@ -1,6 +1,6 @@
 ---
 title: School Canteen
-permalink: /contacts/permalink/
+permalink: /contacts/school-canteen/
 description: ""
 ---
 #### School Canteen Advertisement
