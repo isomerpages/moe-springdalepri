@@ -16,4 +16,4 @@ description: ""
 ##### Hari Raya Puasa 2023
 Our school celebrated Hari Raya Puasa on 28 April 2023. During the assembly programme, our P4 Malay language students presented a dikir barat item comprising of a medley of popular songs such as “Di Pinggiran Aidilfitri” and “Wau Bulan”. The heartwarming performance captured the hearts of the audience.
 
-Click [here](https://youtu.be/9N8WiRKq1gM) to view the performance. 
+Click [here](https://youtu.be/9N8WiRKq1gM) to view the performance.
