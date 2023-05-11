@@ -9,7 +9,8 @@ Dear Parents,
 
 Thank you for your interest to place your child in Springdale Primary.
 
-Click **[here]**(https://go.gov.sg/sdpswaitlistapplicationform) to submit the Wait List Application Form for your child to be placed on the Wait List. 
+Click on [here](https://go.gov.sg/sdpswaitlistapplicationform) to submit the Wait List Application Form for your child to be placed on the Wait List. 
+
 
 Thank you. 
 
@@ -17,6 +18,6 @@ Thank you.
 
 Dear Parents,
   
-Please click **[here](/files/MOE%20FAS%20Application%20Form%20(30%20Sep%202020)%20final.pdf)** to view the MINISTRY OF EDUCATION FINANCIAL ASSISTANCE SCHEME (MOE FAS) APPLICATION FORM
+Please click **[here](/files/MOE%20FAS%20Application%20Form%20(30%20Sep%202020)%20final.pdf)** to view the MINISTRY OF EDUCATION FINANCIAL ASSISTANCE SCHEME (MOE FAS) APPLICATION FOR
 
-Please click **[here]** for MOE FAS pamphlet.
+Please click **[here](/files/MOE_FAS_Pamphlet_2022.pdf)** for MOE FAS pamphlet.
