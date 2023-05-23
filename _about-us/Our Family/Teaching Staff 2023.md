@@ -8,7 +8,7 @@ third_nav_title: Our Family
 
 | Class| Form Teacher | Email Address|
 | -------- | -------- | -------- | 
-| **P1 Sincerity**| Ms Felicia Foo | foo_kai_kai@moe.edu.sg|
+| **P1 Sincerity**| Ms Felicia Foo | felicia_foo_kai_kai@moe.edu.sg|
 | | Mrs Ho-Tan Gek Hiang |tan_gek_hiang@moe.edu.sg|
 | **P1 Patience**|Mdm Noreen Ali|noreen_ali@moe.edu.sg|
 | |Ms Daphne Tang |tang_daphne@moe.edu.sg|	
