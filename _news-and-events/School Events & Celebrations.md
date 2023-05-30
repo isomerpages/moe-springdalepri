@@ -7,6 +7,12 @@ description: ""
   
 ##### Sem 1 Newsletter
 
+[T2 Newsletter (Lower Primary)](https://for.edu.sg/t2newsletterlowerprimary)
+
+[T2 Newsletter (Middle Primary)](https://for.edu.sg/t2newslettermiddleprimary)
+
+[T2 Newsletter (Upper Primary)](https://for.edu.sg/t2newsletterupperprimary)
+
 [T1 Newsletter (Lower Primary)](/files/T1%20Newsletter%20(LP).pdf)
 
 [T1 Newsletter (Middle Primary)](/files/T1%20Newsletter%20(MP).pdf)
