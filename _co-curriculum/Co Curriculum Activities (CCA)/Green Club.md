@@ -1,6 +1,6 @@
 ---
-title: Green Artists
-permalink: /co-curriculum/Co-Curriculum-Activities-CCA/Green-Artists/
+title: Green Club
+permalink: /co-curriculum/co-curriculum-activities-cca/green-club/
 description: ""
 third_nav_title: Co Curriculum Activities (CCA)
 ---
