@@ -14,6 +14,6 @@ Home-School Partnership is critical in the education of our students, and we ne
 
 My staff and I look forward to collaborating with our parents as we strive to provide a conducive environment where learning is delightful, and children find joy in coming to school.
 
-Mdm Neo Lay Wah
+**Mdm Neo Lay Wah**
 
 Principal
