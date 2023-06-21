@@ -30,11 +30,11 @@ All students are expected to adhere to the school rules and regulations, in part
 
 ![](/images/attire%20for%20boys%20updated.PNG)
 
-![](/images/hair%20for%20boys.PNG)
+![](/images/hair%20for%20boys%20updated.PNG)
 
-![](/images/attire%20for%20girls.PNG)
+![](/images/attire%20for%20girls%20updated.PNG)
 
-![](/images/hair%20for%20girls.PNG)
+![](/images/hair%20for%20girls%20updated.PNG)
 
 **Descriptions of Material and Design of School Uniform and PE Attire:**  
 **Shirt/Blouse:**  
