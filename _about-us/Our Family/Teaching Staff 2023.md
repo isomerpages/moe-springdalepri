@@ -23,8 +23,9 @@ third_nav_title: Our Family
 | **P1 Alertness**| Mrs Rajesh| caroline_shantha@moe.edu.sg| 
 | | Mdm Au Su Yee| au_su_yee@moe.edu.sg|
 | **P1 Loyalty**| Mrs Michelle Hu| lim_mee_yun_michelle@moe.edu.sg|
+| | Ms Marilyn Koh ||
 | | Ms Chen Shihui |chen_shihui@moe.edu.sg|
-| | Mrs Jaslyn Lim |cai_yuyu@moe.edu.sg|
+
 |**P1 Enthusiasm**| Ms Hajera Tasneem| hajera_tasneem_abdul_azeez@moe.edu.sg|
 | | Mrs Gayatri Roy | gayatri_s@moe.edu.sg|
 
@@ -58,17 +59,20 @@ third_nav_title: Our Family
 | -------- | -------- | -------- | 
 | **P3 Sincerity**| Mr Peh Sheng Kang | peh_sheng_kang@moe.edu.sg|
 | | Miss Noor Ezaida Binte Abdul | noor_ezaida_abdul_rahman@moe.edu.sg |	
-| **P3 Patience**| Ms Sunita | sunita_mohandas@moe.edu.sg|
-| | Mr Goh Kah How | goh_kah_how@moe.edu.sg |
+| **P3 Patience**| Mr Goh Kah How | goh_kah_how@moe.edu.sg|
+| | Mr Chong Chun Siang | chong_chun_siang@moe.edu.sg|
+| | Ms Sunita | sunita_mohandas@moe.edu.sg|
 | **P3 Resourcefulness**| Mrs Chris Yeo | tan_kah_khee@moe.edu.sg |
 | | Ms Sawiyah | sawiyah_mohamed_sidek@moe.edu.sg |
 | **P3 Initiative**| Mdm Rohana | rohana_md_nor@moe.edu.sg |
-| | Mdm Ellen Chung | chung_mui_ling_ellen@moe.edu.sg |
-| **P3 Generosity**| Mdm Fazlinda | fazlinda_junid@moe.edu.sg |
-| | Miss Siti Norliana Bte Othman | siti_norliana_othman@moe.edu.sg |
+| | Mr Evans Tan | evans_tan_jian_ern@moe.edu.sg |
+| **P3 Generosity**| Miss Siti Norliana Bte Othman | siti_norliana_othman@moe.edu.sg |
+||Ms Johanna Chua| Chua_Lyn_Lyn_Johanna@moe.edu.sg |
+| | Mdm Fazlinda | fazlinda_junid@moe.edu.sg |
 | **P3 Discernment**| Miss Suraiya Binte Noor Mohamed | suraiya_noor_mohamed@moe.edu.sg|
 | | Ms Ong Bee Hua | ong_bee_hua@moe.edu.sg |
 | **P3 Alertness**| Ms Audrey Phang | phang_sok_kian_audrey@moe.edu.sg | 
+| | Mr Michael Chan| michael_chan_choon_seng@moe.edu.sg|
 | | Mdm Lee Shirui (Mrs Tan) | lee_shirui@moe.edu.sg|
 
 
@@ -78,8 +82,8 @@ third_nav_title: Our Family
 | -------- | -------- | -------- | 
 | **P4 Sincerity**| Mdm Kang Zhang Mei   | kang_zhang_mei@moe.edu.sg |
 | | Mr Chew Mou Yi | chew_mou_yi@moe.edu.sg|	
-| **P4 Patience**| Mdm Norsham | norsham_mohammed_noh@moe.edu.sg|
-| | Ms Liew Hui Jun | liew_hui_jun@moe.edu.sg  |	
+| **P4 Patience**| Ms Liew Hui Jun | liew_hui_jun@moe.edu.sg  |
+|| Mr Bill Cheng| bill_cheng_yew_san@moe.edu.sg|
 | **P4 Resourcefulness**| Ms Thong Wei Wei | thong_wei_wei@moe.edu.sg |
 | | Ms Uma Maheswari | uma_maheswari_velusamy@moe.edu.sg |
 | **P4 Initiative**| Mdm Teng Yan Ling | teng_yan_ling@moe.edu.sg |
@@ -88,7 +92,7 @@ third_nav_title: Our Family
 | | Miss Chan Shu Hui | chan_shu_hui_a@moe.edu.sg|
 | **P4 Discernment**| Mrs Song Wei Ni  | chong_wei_ni@moe.edu.sg|
 | | Mr Leonard Toh | toh_jia_bin_leonard@moe.edu.sg |
-| | Mr Sean Lim Tong Lee | lim_tong_lee@moe.edu.sg |	
+
 
 
 **Primary 5 Teachers**
@@ -96,13 +100,13 @@ third_nav_title: Our Family
 | Class| Form Teacher | Email Address|
 | -------- | -------- | -------- | 
 | **P5 Sincerity**| Mr Sean Lim Meng Wee | lim_meng_wee_sean@moe.edu.sg|
-| | Mdm Abidah | abidah_bibi_marikar@moe.edu.sg |	
+| | Ms Kasturi Shanjey Nair | Kasturi_Shanjey_Nair@moe.edu.sg |	
 | **P5 Patience**| Mdm Chew Hwee Shan | chew_hwee_shan@moe.edu.sg |
 | | Mdm Dewi Bte Mohamed | dewi_mohamed@moe.edu.sg|
 | **P5 Resourcefulness**| Ms Jennifer Tang | tang_kuan_eng_jennifer@moe.edu.sg |
 | | Ms Ho Suk San | ho_suk_san@moe.edu.sg |
 | **P5 Initiative**| Mrs Pearly Lim | lee_peiyi_pearly@moe.edu.sg |
-| | Ms Yao Xiaofeng | yao_xiaofeng@moe.edu.sg|
+| | Mdm Ellen Chung | chung_mui_ling_ellen@moe.edu.sg|
 | **P5 Generosity**| Mdm Belinda Tan Sia Phing  | tan_sia_phing@moe.edu.sg |
 | | Mdm Nor Azila | nor_azila_noor@moe.edu.sg |
 | **P5 Discernment**| Ms Tan Yee Hui | tan_yee_hui@moe.edu.sg |
@@ -145,6 +149,8 @@ third_nav_title: Our Family
 |**Ms Wu Jing**|Chinese Language|[wu_jing_a@moe.edu.sg](mailto:wu_jing_a@moe.edu.sg)
 |**Mdm Au Su Yee**| Chinese Language|[au_su_yee@moe.edu.sg](mailto:au_su_yee@moe.edu.sg)
 |**Miss Chen Shihui**|Chinese Language|[chen_shihui@moe.edu.sg](mailto:chen_shihui@moe.edu.sg)
+|**Ms Marilyn  Koh**|Chinese Language|
+|**Liew Hui Jun**|Chinese Language|[liew_hui_jun@moe.edu.sg](liew_hui_jun@moe.edu.sg) 
 |**Mdm Abidah**|Malay Language|[abidah_bibi_marikar@moe.edu.sg](mailto:abidah_bibi_marikar@moe.edu.sg)
 |**Mdm Shanom Farsa**|Malay Language|[shanom_farsa_sarry@moe.edu.sg](mailto:shanom_farsa_sarry@moe.edu.sg)
 |**Ms Nurul Hidana**| Malay Language|[nurul_hidana_ahmad@moe.edu.sg](mailto:nurul_hidana_ahmad@moe.edu.sg)
@@ -168,7 +174,8 @@ third_nav_title: Our Family
 |**Mrs Eileen Poh**|PE|[chua_li_eng_eileen@moe.edu.sg](mailto:chua_li_eng_eileen@moe.edu.sg)
 |**Ms Kang Zhang Mei**|PE|[kang\_zhang\_mei@moe.edu.sg](mailto:wee_chiu_mei@moe.edu.sg)
 |**Mr Leonard Toh**|PE|[toh\_jia\_bin\_leonard@moe.edu.sg](mailto:toh_jia_bin_leonard@moe.edu.sg)
-|**Mr Muhammad Fadly**|PE|[muhammad_fadly_wahab@moe.edu.sg](mailto:muhammad_fadly_wahab@moe.edu.sg)
+|**Mr Chong Chun Siang**|PE|[chong_chun_siang@moe.edu.sg](chong_chun_siang@moe.edu.sg)
+|**Mr Evans Tan**|PE|[evans_tan_jian_ern@moe.edu.sg](evans_tan_jian_ern@moe.edu.sg)
 |**Mdm Phyllis Lum**|Art|[lum_foong_chun@moe.edu.sg](mailto:lum_foong_chun@moe.edu.sg)
 |**Miss Noor Ezaida Binte Abdul Rahman**|Art|[noor_ezaida_abdul_rahman@moe.edu.sg](mailto:noor_ezaida_abdul_rahman@moe.edu.sg)
 |**Mrs Ho-Tan Gek Hiang**|Music|[tan_gek_hiang@moe.edu.sg](mailto:tan_gek_hiang@moe.edu.sg)
@@ -181,6 +188,6 @@ third_nav_title: Our Family
 | -------- | -------- | -------- | 
 |**Miss Hngoi Zi Xin**|School Counsellor|[hngoi_zi_xin@moe.edu.sg](mailto:hngoi_zi_xin@moe.edu.sg)
 |**Mdm Stephanie Subashni Sam**|Student Welfare Officer|[stephanie_subashni_sam@moe.edu.sg](mailto:stephanie_subashni_sam@moe.edu.sg)
-|**Ms Chen Xiu Wen**|AED (LBS)|[chen_xiuwen@moe.edu.sg](mailto:chen_xiuwen@moe.edu.sg)
-|**Mdm Vethavalli Ramalingam**|AED (LBS)|[vethavalli_ramalingam@moe.edu.sg](mailto:vethavalli_ramalingam@moe.edu.sg)
-|**Mdm T N Fathima Nasrin**|AED (LBS)|[T_N_Fathima_Nasrin@moe.edu.sg](mailto:T_N_Fathima_Nasrin@moe.edu.sg)
+|**Ms Chen Xiu Wen**|Special Educational Needs Officer|[chen_xiuwen@moe.edu.sg](mailto:chen_xiuwen@moe.edu.sg)
+|**Mdm Vethavalli Ramalingam**|Special Educational Needs Officer|[vethavalli_ramalingam@moe.edu.sg](mailto:vethavalli_ramalingam@moe.edu.sg)
+|**Mdm T N Fathima Nasrin**|Special Educational Needs Officer|[T_N_Fathima_Nasrin@moe.edu.sg](mailto:T_N_Fathima_Nasrin@moe.edu.sg)
