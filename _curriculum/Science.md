@@ -44,21 +44,28 @@ Adopting a fun, creative and hands-on approach to learning Science, our STEM lea
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTVZGdZKFD6dE0JCoaVsuGNWFs3y1AKahqH6rxinfdzw-ISnGjQvReOnnogmuFA_EeIAvJjlXBetY2b/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
-**(3) Enrichment Programmes **
+**(3)**&nbsp;&nbsp;&nbsp;**Enrichment Programmes**
 
-The Earth is our home. It is everyone’s responsibility to take good care of it. Thus our Go-Green programme includes raising students’ awareness and understanding of environmental issues, so that it will heighten their sense of responsibility and care for Mother Earth. Some activities to encourage this include working on various green activities such as vertical gardening and recycling of plastic bottles and textbooks. Environmental education is also imbued in Values-In-Action programmes at various levels. Moreover termly talks and activities on anti-littering, waste minimisation and the 4Rs help our students in understanding the role they have to play in sustainability and caring for the environment.
+Our enrichment programmes provide opportunities for our students to explore and learn Science in engaging and real-world contexts. These serve to extend and deepen concepts and skills our students are learning in the Science curriculum.<br>
+Learning Journey:<br>
+•	P3 Our Native Wildlife Digital Learning Journey<br>
+•	P4 Heat &amp; Temperature Workshop at The Singapore Science Centre<br>
+•	P5 DNA Lab Workshop at The Singapore Science Centre<br>
+•	P6 Adaptation Workshop at Lee Kong Chian Natural History Museum <br>
+
+Selected P4 &amp; P5 students are also invited to participate in the P4 Excellence 2000 (E2K) programme as well as the Science Olympiad Training Workshops.
+
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQRFy1RgaXTPYaUp5MycjcdgtTqSZdbIfLUjzD4HD99vk369o_vK6h3L2DVegp27bNROQK7opB3GnDE/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-**(4)**&nbsp;&nbsp;&nbsp;**Enrichment Programmes**
+**(4)**&nbsp;&nbsp;&nbsp;**Eco-stewardship @ SDPS**
 
-Our encironment programmes provide opportunities for our students to explore and learn Science in engaging and real world contexts. These serve to extend and depend concepts and skills our students are learning in the Science curriculum.
+Our Eco-stewardship activities aims to increase students’ awareness and understanding of environmental issues and provide platforms for students to play their part for the environment and express their ideas in advocating eco-friendly practices. We hope to heighten the sense of responsibility and care for Mother Earth in our students. Some green activities to encourage this include recycling and upcycling activities, the Clean plate campaign and the National Youth Upcycling Movement (NYUM).  Environmental education is also imbued in Values-In-Action programmes at various levels. 
 
-*   P3 Fragile Forest Comes to School Digital Learning Journey
-*   P4 Excellence 2000 (E2K)
-*   P5 DNA Lab Blended Learning Workshop
-*   P5 NUS High School Digital Workshops
-*   P6 Lee Kong Chian Natural History Museum Adaptations Workshop
-*   Science X-perience Week
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR7bMcwxyLW8bHvvoK3lPxGUZS4_-55aiOlHNOgVhNsXJFCHCpnnl7MIGmpfj1h-vT6dfeiF-GK_CKp/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR7bMcwxyLW8bHvvoK3lPxGUZS4_-55aiOlHNOgVhNsXJFCHCpnnl7MIGmpfj1h-vT6dfeiF-GK_CKp/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe><br>
+
+**(5)**&nbsp;&nbsp;&nbsp;**Science X-perience Week**
+
+Themed as ‘Igniting the Spirit of Innovation through STEM’, this exciting week brings about showcasing of experiments and works by students. Some activities include Science busking, toy design, show-and-tell competition, and demonstration of STEM projects. From the science busker demonstrations, outstanding teams are invited to participate in the Singapore Science Buskers competition organised by the Science Centre Singapore. 
+
