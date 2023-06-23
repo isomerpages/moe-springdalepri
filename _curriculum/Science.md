@@ -13,14 +13,8 @@ The Primary Science Syllabus aims to provide students with opportunities/experie
 Guided by the Ministry of Education’s (MOE) Science Curriculum Framework, our science curriculum aims to equip our students with scientific literacy and instill in them the sense of curiosity so that they may continue to be inspired by science, inquire like scientists, and innovate using science. <br>
 
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-|  | | |
-
-
 **Science Curriculum Coverage**
-| Level | Coverage |
+|  |  |
 | -------- | -------- |
 | P3 | **Diversity**<br>-   &nbsp;Classifying Living Things and Non-Living Things<br>-   &nbsp;Plants &amp; Animals<br>-   &nbsp;Fungi and Bacteria<br>-   &nbsp;Materials<br><br>**Cycles**<br>-   &nbsp;Plant lifecycles<br>-   &nbsp;Animal lifecycles<br>     | 
 |P4|**Cycles**<br>-   Plant lifecycles<br>-   Animal lifecycles<br>-   &nbsp;Matter<br><br>**Energy**<br>- Light<br>- Heat<br><br>**Interactions**<br>-   &nbsp;Magnets|
