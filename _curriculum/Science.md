@@ -11,14 +11,15 @@ The Primary Science Syllabus aims to provide students with opportunities/experie
 •	apply scientific concepts and skills in making responsible decisions.<br>
 •	appreciate how science influences people and the environment.<br>
 Guided by the Ministry of Education’s (MOE) Science Curriculum Framework, our science curriculum aims to equip our students with scientific literacy and instill in them the sense of curiosity so that they may continue to be inspired by science, inquire like scientists, and innovate using science. <br>
+
 **Science Curriculum Coverage**
-|  | |
+|  |  |
 | -------- | -------- |
 | P3     | **Diversity**<br>-   &nbsp;Classifying Living Things and Non-Living Things<br>-   &nbsp;Plants &amp; Animals<br>-   &nbsp;Fungi and Bacteria<br>-   &nbsp;Materials<br><br>**Cycles**<br>-   &nbsp;Plant lifecycles<br>-   &nbsp;Animal lifecycles<br>     | 
 |P4|**Cycles**<br>-   Plant lifecycles<br>-   Animal lifecycles<br>-   &nbsp;Matter<br><br>**Energy**<br>- Light<br>- Heat<br><br>**Interactions**<br>-   &nbsp;Magnets|
 |P5| **Cycles**<br>-   &nbsp;&nbsp;Reproduction in Animals<br>-   &nbsp;Reproduction in plants<br>-   &nbsp;&nbsp;Water<br><br>**Systems**<br>-   Cells<br>-   Respiratory Systems<br>-   Human Circulatory<br>-   Plant transport<br>-   Electricity|
 |P6|**Energy**<br>-   &nbsp;Photosynthesis<br>-   &nbsp;Energy forms and Conversion<br><br>**Interactions**<br>-   Effects of a force<br>-     Types of forces<br>-     Environmental factors<br>-     Populations &amp; Communities<br>-     Food chains &amp; webs<br>-     Adaptations<br>-     Man &amp; the environment|
-|P6 Foundation|**Energy**<br>-  Photosynthesis<br>-   Energy Forms<br><br>**Interactions**<br>-   Effects of a force<br>-   Environmental factors<br>-   Populations &amp; Communities<br>-   Food chains<br>-   &nbsp;Adaptations<br>-   Man &amp; the Environment
+|P6 Foundation|**Energy**<br>-  Photosynthesis<br>-   Energy Forms<br><br>**Interactions**<br>-   Effects of a force<br>-   Environmental factors<br>-   Populations &amp; Communities<br>-   Food chains<br>-   &nbsp;Adaptations<br>-   Man &amp; the Environment |
 
 **Programmes**
 
