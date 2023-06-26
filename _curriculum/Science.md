@@ -14,6 +14,7 @@ Guided by the Ministry of Education’s (MOE) Science Curriculum Framework, our 
 
 
 **Science Curriculum Coverage**
+
 |  |  |
 | -------- | -------- |
 | P3 | **Diversity**<br>-   &nbsp;Classifying Living Things and Non-Living Things<br>-   &nbsp;Plants &amp; Animals<br>-   &nbsp;Fungi and Bacteria<br>-   &nbsp;Materials<br><br>**Cycles**<br>-   &nbsp;Plant lifecycles<br>-   &nbsp;Animal lifecycles<br>     | 
