@@ -14,7 +14,7 @@ description: ""
 训练学生利用键盘正确进行汉字输入，以提高学生的识字兴趣与效率。  
   
 
-**《**SLS/iMTL乐学善用互动平台**》（小三至小五)**  
+**《**SLS乐学善用互动平台**》（小三至小六)**  
 
 教师通过此平台上载视频、录音、照片等教材，引导学生进行贴近真实生活语境的各种语文练习，以加强教学效果。另一方面，此平台的多种反馈功能，也能鼓励自主学习和增进师生及同学之间的交流。  
   
@@ -25,16 +25,18 @@ description: ""
 
 **母语双周**&nbsp;  
 
-为了营造有助于学习华文华语的环境，我校在母语双周举办了一系列有关中华文化的活动，例如：豆画课、面塑制作课、布偶制作课、故事剧场、新谣歌词与音乐分享会等，让学生多接触母语，并加深对华族文化的认识。  
+
+为了营造有助于学习华文华语的环境，我校在母语双周举办了一系列有关中华文化的活动，例如：豆画课、古诗贴画、皮影纸偶、制作竹简书、打快板、中国历史大讲堂课与相声表演等，让学生多接触母语，并加深对华族文化的认识。
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ07E0pZkHzx4YWgwEN4V9AReHlcvUi1vldTM5sfr7hyXwfiU81w5G-Acj3akEuP2zGVK5paxz8NwMu/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
   
 
 **文化随意门**  
 &nbsp;“文化随意门”让老师带学生走出校园，在正式的表演场所（如剧院等）观赏以华语为媒介的文艺作品。此计划让学生们通过观赏广泛而丰富题材的文化演出，感受中华文化的魅力，并鼓励他们从年幼或青年时期种下“乐学”华文的种子。  
   
-今年，我校在3月25日邀请了新加坡福建会馆文化艺术团，让三年级学生有机会观赏以华语为媒介的文艺作品。这次的线上表演提高学生对学习华文的兴趣，并培养学生对中华文化的感恩精神。
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRzNLFnr3jTCD7xdJf2GQW-Vk1_Nr8Rm3A9yUJO4Rae6qYeI6EyUZ-Q347eJqA_yDJZZM-A2TzRlujF/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRzNLFnr3jTCD7xdJf2GQW-Vk1_Nr8Rm3A9yUJO4Rae6qYeI6EyUZ-Q347eJqA_yDJZZM-A2TzRlujF/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 有关华文学习资源的信息
 
