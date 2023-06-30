@@ -54,8 +54,6 @@ Program ini adalah untuk menggalakkan murid-murid yang mengambil bahasa Melayu s
 
 ##### PAUTAN PADA LAIN-LAIN LELAMAN
 
-Tunas Bahasa 
-[http://tinta.moe.edu.sg/mekar/slot/u112/PRI/index.html](http://tinta.moe.edu.sg/mekar/slot/u112/PRI/index.html)
 
 Kamus yang diluluskan SEAB
 [https://www.seab.gov.sg/docs/default-source/documents/2019psledictlist\_031220185877e9dade9e458a955510ad15b49c98.pdf](https://www.seab.gov.sg/docs/default-source/documents/2019psledictlist_031220185877e9dade9e458a955510ad15b49c98.pdf)
@@ -63,8 +61,6 @@ Kamus yang diluluskan SEAB
 e-Kamus DBP<br>
 [http://prpm.dbp.gov.my/](http://prpm.dbp.gov.my/%C2%A0)
 
-Portal iMTL<br>
-[https://imtl.moe.edu.sg/cos/o.x?c=/ca7\_imtl/user&amp;func=login](https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&amp;func=login)
 
 ##### SEDUTAN KELAS BAHASA MELAYU
 
