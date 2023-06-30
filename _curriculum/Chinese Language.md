@@ -28,7 +28,7 @@ description: ""
 
 为了营造有助于学习华文华语的环境，我校在母语双周举办了一系列有关中华文化的活动，例如：豆画课、古诗贴画、皮影纸偶、制作竹简书、打快板、中国历史大讲堂课与相声表演等，让学生多接触母语，并加深对华族文化的认识。
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ07E0pZkHzx4YWgwEN4V9AReHlcvUi1vldTM5sfr7hyXwfiU81w5G-Acj3akEuP2zGVK5paxz8NwMu/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTsfFnhCMEVxfLoC7TdSeSIRpecf-uRGV1_rYO-A20FPamF0ka0Uxd-tu7oUfN5A2l8dwC5BwZ4wqjX/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
   
 
@@ -36,7 +36,7 @@ description: ""
 &nbsp;“文化随意门”让老师带学生走出校园，在正式的表演场所（如剧院等）观赏以华语为媒介的文艺作品。此计划让学生们通过观赏广泛而丰富题材的文化演出，感受中华文化的魅力，并鼓励他们从年幼或青年时期种下“乐学”华文的种子。  
   
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRzNLFnr3jTCD7xdJf2GQW-Vk1_Nr8Rm3A9yUJO4Rae6qYeI6EyUZ-Q347eJqA_yDJZZM-A2TzRlujF/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRzNLFnr3jTCD7xdJf2GQW-Vk1_Nr8Rm3A9yUJO4Rae6qYeI6EyUZ-Q347eJqA_yDJZZM-A2TzRlujF/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 有关华文学习资源的信息
 
