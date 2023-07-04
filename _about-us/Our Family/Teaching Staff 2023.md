@@ -23,9 +23,8 @@ third_nav_title: Our Family
 | **P1 Alertness**| Mrs Rajesh| caroline_shantha@moe.edu.sg| 
 | | Mdm Au Su Yee| au_su_yee@moe.edu.sg|
 | **P1 Loyalty**| Mrs Michelle Hu| lim_mee_yun_michelle@moe.edu.sg|
-| | Ms Marilyn Koh ||
+| | Ms Marilyn Koh |koh_xiao_han_marilyn@moe.edu.sg|
 | | Ms Chen Shihui |chen_shihui@moe.edu.sg|
-
 |**P1 Enthusiasm**| Ms Hajera Tasneem| hajera_tasneem_abdul_azeez@moe.edu.sg|
 | | Mrs Gayatri Roy | gayatri_s@moe.edu.sg|
 
@@ -149,8 +148,10 @@ third_nav_title: Our Family
 |**Ms Wu Jing**|Chinese Language|[wu_jing_a@moe.edu.sg](mailto:wu_jing_a@moe.edu.sg)
 |**Mdm Au Su Yee**| Chinese Language|[au_su_yee@moe.edu.sg](mailto:au_su_yee@moe.edu.sg)
 |**Miss Chen Shihui**|Chinese Language|[chen_shihui@moe.edu.sg](mailto:chen_shihui@moe.edu.sg)
-|**Ms Marilyn  Koh**|Chinese Language|
-|**Liew Hui Jun**|Chinese Language|[liew_hui_jun@moe.edu.sg](liew_hui_jun@moe.edu.sg) 
+|**Ms Carina Luk**|Chinese Language|[luk_kar_wing_carina@moe.edu.sg](luk_kar_wing_carina@moe.edu.sg)
+|**Ms Chan Shu Hui**|Chinese Language|[chan_shu_hui_a@moe.edu.sg](chan_shu_hui_a@moe.edu.sg)
+|**Miss Liew Hui Jun**|Chinese Language|[liew_hui_jun@moe.edu.sg](liew_hui_jun@moe.edu.sg) 
+|**Ms Marilyn  Koh**|Chinese Language|[koh_xiao_han_marilyn@moe.edu.s](koh_xiao_han_marilyn@moe.edu.s)
 |**Mdm Abidah**|Malay Language|[abidah_bibi_marikar@moe.edu.sg](mailto:abidah_bibi_marikar@moe.edu.sg)
 |**Mdm Shanom Farsa**|Malay Language|[shanom_farsa_sarry@moe.edu.sg](mailto:shanom_farsa_sarry@moe.edu.sg)
 |**Ms Nurul Hidana**| Malay Language|[nurul_hidana_ahmad@moe.edu.sg](mailto:nurul_hidana_ahmad@moe.edu.sg)
