@@ -5,15 +5,14 @@ description: ""
 ---
 #### Bookshop
 
-PACIFIC BOOKSTORES PTE LTD  
-  
-Website :&nbsp;&nbsp;[https://www.pacificbookstores.com/](https://www.pacificbookstores.com/)  
-  
-Address  
+**BL Marketing Pte. Ltd.**<br>
+Address: <br>Oxley Bizhub
+61 Ubi Road 1
+#02-02<br>
+Postal 408727<br>
+Tel: 62848785<br>
+Email: sales@blmarketing.sg<br>
 
-14 Arumugam Road #08-01
-
-LTC Building C, Singapore 409959
 
   
 Primary 1 to Primary 6 Booklist (2023):<br>
@@ -31,41 +30,18 @@ Primary 1 to Primary 6 Booklist (2023):<br>
 [SDPS P6 2S2F,MAMT Booklist 2023.pdf](/files/SDPS%20P6%202S2F,MAMT%20Booklist%202023%20-%20Final.pdf)  
 [SDPS P6 2S2F,MASC Booklist 2023.pdf](/files/SDPS%20P6%202S2F,MASC%20Booklist%202023%20-%20Final.pdf)  
 [SDPS P6 Booklist 2023.pdf](/files/SDPS%20P6%20Booklist%202023%20-%20Final.pdf)  
-
-Click [here](/files/Sales_Collection%20of%20Books%20and%20Uniforms%20from%20Nov%20to%20Dec%202022%20(21%20Nov%2022).pdf) to view the schedule for the sale and collection of Books (for 2023) and Uniforms during the November and December 2022 holidays.
 <br>
 
-
-&nbsp;Click here to view the steps to Online Buying Guide:<br>
- [Online Buying Guide.pdf](/files/Online%20Buying%20Guide.pdf)
- 
- 
- Packing list (2023)
- To be updated <br>
- 
  #### School Uniform
+ 
+**Magdalene Sewing Centre Pte Ltd**<br>
+Address: <br>Tech Place II
+5000 Ang Mo Kio Ave 5 
+#05-09, S(569870)<br>
+Tel: 62935840<br>
+Tel: 8638 0499 (whatapps only)<br>
+Email: info@magdalene.com.sg<br>
 
-SHANGHAI SCHOOL UNIFORMS PTE LTD  
-  
-Address  
-
-63 Ubi Ave 1, #04-09,&nbsp;63@UBI,&nbsp;Singapore 408937
-
-Contact Tel  
-6352 2741
-
-  
-
-Website :&nbsp;[https://shanghai-uniforms.com/](https://shanghai-uniforms.com/)
-
-  
-
-Purchase of the school uniform at the retail store is strictly by appointment basis at :
-
-[https://shop.shanghai-uniforms.com/appointment-booking-at-ubi/](https://shop.shanghai-uniforms.com/appointment-booking-at-ubi/)&nbsp;  
-
-Please read the attached Shanghai School Uniforms letter for more details on the purchase of school uniforms:<br>
-[SDPS Uniform Shanghai School Uniforms.pdf](/files/SDPS%20Uniform%20Shanghai%20School%20Uniforms%20for%202022%20(1).pdf)
 
 **School Shoes:**  
 
@@ -87,11 +63,9 @@ To order nametags,&nbsp;please read the attached Nametag ordering and collection
 
 ##### School Bus
 
-SFX Transport Pte Ltd 
-
-Contact Tel: 6282 0262 / 8800 0262
-
-Email: school@sfxtransport.com.sg
+SFX Transport Pte Ltd <br>
+Contact Tel: 6282 0262 / 8800 0262<br>
+Email: school@sfxtransport.com.sg<br>
 
 Click on the link below to view the School Bus Service Fares.
 
