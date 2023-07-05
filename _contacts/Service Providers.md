@@ -63,11 +63,9 @@ To order nametags,&nbsp;please read the attached Nametag ordering and collection
 
 ##### School Bus
 
-SFX Transport Pte Ltd 
-
-Contact Tel: 6282 0262 / 8800 0262
-
-Email: school@sfxtransport.com.sg
+SFX Transport Pte Ltd <br>
+Contact Tel: 6282 0262 / 8800 0262<br>
+Email: school@sfxtransport.com.sg<br>
 
 Click on the link below to view the School Bus Service Fares.
 
