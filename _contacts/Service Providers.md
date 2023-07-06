@@ -32,6 +32,7 @@ Primary 1 to Primary 6 Booklist (2023):<br>
 [SDPS P6 Booklist 2023.pdf](/files/SDPS%20P6%20Booklist%202023%20-%20Final.pdf)  
 <br>
 
+
  #### School Uniform
  
 **Magdalene Sewing Centre Pte Ltd**<br>
