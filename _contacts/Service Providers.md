@@ -3,7 +3,7 @@ title: Service Providers
 permalink: /contacts/service-providers/
 description: ""
 ---
-#### Bookshop
+**Bookshop**
 
 **BL Marketing Pte. Ltd.**<br>
 Address: <br>Oxley Bizhub
@@ -33,7 +33,7 @@ Primary 1 to Primary 6 Booklist (2023):<br>
 <br>
 
 
-#### School Uniform
+**School Uniform**
 
 
 **Magdalene Sewing Centre Pte Ltd**<br>
@@ -57,7 +57,7 @@ Email: info@magdalene.com.sg<br>
 *   Socks and shoes may be purchased from our uniform supplier
 
 
-#### School Bus
+**School Bus**
 
 SFX Transport Pte Ltd <br>
 Contact Tel: 6282 0262 / 8800 0262<br>
