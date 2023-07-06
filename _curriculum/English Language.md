@@ -3,59 +3,61 @@ title: English Language
 permalink: /curriculum/English-Language/
 description: ""
 ---
-#### Aims
+#### Confident and Proficient Users of the English Language who enjoy learning
 
-The school adopts a balanced and integrated approach in designing the English Language (EL) curriculum for the students. Besides STELLAR, the structured core programme designed by MOE curriculum specialists, the school also implements its own school-based curriculum in alignment with the school education philosophy of Play.Passion.Purpose. to develop students to be confident and expressive users of the English Language.
+ThThe Springdale Learning Experience (SLE) is guided by our educational philosophy of Play, Passion and Purpose. Our English Curriculum leverages the 3Ps (Play.Passion.Purpose.) to design learning experiences that motivate and meet students’ needs; and involve students as active participants.
 
-  
+At SDPS, we adopt the Strategies for English Language Learning and Reading (STELLAR), a national pedagogic framework, in the learning of the English Language. The STELLAR approach seeks to build strong fundamentals by weaving the areas of language learning through a whole part whole approach where students enjoy reading, viewing, writing and listening to different literature. 
 
-#### Department Programmes
 
-**STELLAR**
+#### Key Programmes
 
-The Strategies for English Language Learning And Reading ( STELLAR) programme aims to strengthen children’s language and reading skills as well as promote a positive attitude towards learning in the foundational years. Age-appropriate materials and research-based teaching strategies are used to engage student in the learning of English. The key strategies used in the lower primary classrooms are the Shared Book Approach (SBA), Modified Language Experience Approach (MLEA) and Learning Centres (LC). As for middle primary levels, the key strategies used in the classrooms are Supported Reading (SR), Process Writing, Peer Conferencing, Know-Want to know-Learnt (KWL) and Retelling.
+In line with the fast changing educational landscape, our programmes gives attention to multiliteracies, metacognitive skills and exploratory talk in order to help our students achieve 21st century competencies across all areas of language learning. 
 
-<img src="/images/Photo%201a.jpeg" 
-     style="width:50%;float:left">
-<img src="/images/Photo%202a.jpeg" 
-     style="width:50%">
-<img src="/images/Photo%203a.jpeg" 
-     style="width:50%;float:left">
-<img src="/images/Photo%204a.jpeg" 
-     style="width:50%">
+![](/images/stellar%20pic.png)
 
-For more information on STELLAR programme, please refer to [http://www.stellarliteracy.sg/](http://www.stellarliteracy.sg/)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTqm-7e9HlmaUNKJsaTgt4szj86FIBOCmPSJX2rIfAdBaWai9RTwEk36Q8SwHxjUFfL936BUGNN5mDY/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
-**Explicit Instruction for Component /Task Mastery**
 
-Besides STELLAR, a structured programme is also in place to help our students develop and master the various language skills. The strategies for each language component or techniques for each task will be explicitly taught by our teachers to ensure students have a strong grounding in the fundamentals of English. In-house learning packages are also designed to develop students’ skills in writing and oral communication in a progressive manner.
+#### English Week 
 
-<img src="/images/photo%205.jpeg" 
-     style="width:60%;float:left">
-<img src="/images/Photo%206.jpeg" 
-     style="width:38%">
+We celebrate our use of the English Language during the English Week where our students showcase their speaking and writing skills creatively. Based on a different theme every year, there is a variety of language activities which allow our students to create and perform.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTZPOLSXsgPJpTa-79DMP5siGBwpIX4kugjbuE7Uh9nLXOFXrum9m1R6zhAzIBq8T4h569cett6bpL-/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 		 
-##### WOW@Springdale Programme  
-  
-
-Visiting the school library, World of Wonders (WOW) , is one regular language activity at Springdale Primary School. To promote passion for reading and to entrench this habit of reading in our students, curriculum time has been set aside for students to engage in various reading activities like uninterrupted reading period, book talk and library visits.  
-  
-
-##### Learning Support Programme (LSP) for English
-
-This programme provides learning support for students who enter Primary 1 with weak English Language and literacy skills. Students are identified for LSP through a systematic screening process carried out at the beginning of Primary 1. The students will be equipped with basic literacy skills so that they could access learning in the regular classroom.
-
-<img src="/images/Photo%207a.jpeg" 
-     style="width:50%;float:left">
-<img src="/images/Photo%208a.jpeg" 
-     style="width:50%">
 		 
+##### Read &amp; Grow @SDPS  
+  
+We believe that our students have to be concerned citizens who are cognisant of what is happening around them and in the world. Read &amp; Grow @SDPS seeks to heighten our students awareness of current affairs through sharing of news happenings and getting our students to take different perspectives with the thinking routine – I see, feel, think and wonder.  
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS-M-EUcSgrgLH-Lh7Ph9IqYSFyGP9eS2UsQ1aB62xrifrMtKh00z_KwQ-q6dvRbyTKwKyQ8FWHUx-j/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 
-| |  | 
-| -------- | -------- |
-| Stellar website     | The STELLAR website introduces parents to the national programme for English Language teaching. There are also resources like digital games for students to practise their language skills learnt in each unit of work.  <br><br>[http://www.stellarliteracy.sg](http://www.stellarliteracy.sg/)     |
-|National Library Board (NLB) website|Access National Library Board (NLB) website for its NLB catalogue and a list of eResources for primary school students. One of the highly recommended resources is Tumblebook library which has a collection of animated, talking picture books. Young children will love reading the electronic picture books which come with animation, sound, music and narration.  <br><br>[http://www.nlb.gov.sg/](http://www.nlb.gov.sg/)
-|Mrs Perkins' website|Mrs Perkins' Dolch Words is a website dedicated for the teaching of Dolch sight words to young children. Besides word lists, there are also flash cards, worksheets and slides for parents to go through with their children.  <br><br>[http://www.mrsperkins.com/](http://www.mrsperkins.com/)
-|Starfall.com|Starfall.com is a free online resource that teaches children to read and inspire in them a love for learning. The resources have read-aloud capability, enabling children’s speaking, reading and writing vocabulary to grow as they explore the wealth of resources.    <br><br>[http://www.starfall.com/](http://www.starfall.com/)
-|LearnEnglish Kids|LearnEnglish Kids has lots of free online games, songs, stories and activities for children to have fun while learning English.  <br><br>[http://learnenglishkids.britishcouncil.org/en/](http://learnenglishkids.britishcouncil.org/en/)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSsSoQZRt4zX3CkSv7ll4IOSh8Fbby7NY0pNGGk0zGQoLjgQnNoNXNJE-KGLjHqNco6DVEU-xFajzGu/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+
+
+##### WOW@Springdale
+
+Visiting the school library, World of Wonders (WOW), is one regular language activity at Springdale Primary School. To promote passion for reading and to entrench this habit of reading in our students, curriculum time has been set aside for students to engage in various reading activities like uninterrupted reading period, book talk and library visits.
+	 
+	 
+#### Literacy Support Programmes
+
+**Learning Support Programme (LSP) for English**
+
+LSP aims to provide early intervention for selected P1 and P2 students. It equips students with basic literacy skills to aid their learning in the regular classroom. Conducted by a trained Learning Support Coordinator, these lessons are conducted in small groups daily during school curriculum hours. 
+
+
+**School-based Dyslexia Remediation (SDR)**
+
+The SDR programme provides support for selected P3 and P4 students. During this programme, students learn strategies to cope with reading. The lessons are conducted thrice a week after school by a trained SDR instructor.
+
+
+**Reading Remediation Programme (RRP)**
+
+RRP provides extended reading support for P3 and P4 students. Through a range of strategies for reading comprehension, these students gain greater confidence in managing their learning during their EL lessons. The lessons are conducted twice a week after school by a trained RRP instructor.
+
+
+**Readers Delight** 
+
+Readers Delight seeks to enthuse our young readers in reading through age-appropriate stories. These sessions are conducted after school weekly for selected students. The small group setting and guided reading allow these students to gain greater confidence in reading and expressing themselves.
