@@ -32,7 +32,8 @@ Primary 1 to Primary 6 Booklist (2023):<br>
 [SDPS P6 Booklist 2023.pdf](/files/SDPS%20P6%20Booklist%202023%20-%20Final.pdf)  
 <br>
 
- #### School Uniform<br>
+
+ #### School Uniform
  
 **Magdalene Sewing Centre Pte Ltd**<br>
 Address: <br>Tech Place II
@@ -55,7 +56,7 @@ Email: info@magdalene.com.sg<br>
 *   Socks and shoes may be purchased from our uniform supplier
 
 
-##### School Bus
+#### School Bus
 
 SFX Transport Pte Ltd <br>
 Contact Tel: 6282 0262 / 8800 0262<br>
