@@ -5,7 +5,7 @@ description: ""
 ---
 #### Confident and Proficient Users of the English Language who enjoy learning
 
-ThThe Springdale Learning Experience (SLE) is guided by our educational philosophy of Play, Passion and Purpose. Our English Curriculum leverages the 3Ps (Play.Passion.Purpose.) to design learning experiences that motivate and meet students’ needs; and involve students as active participants.
+The Springdale Learning Experience (SLE) is guided by our educational philosophy of Play, Passion and Purpose. Our English Curriculum leverages the 3Ps (Play.Passion.Purpose.) to design learning experiences that motivate and meet students’ needs; and involve students as active participants.
 
 At SDPS, we adopt the Strategies for English Language Learning and Reading (STELLAR), a national pedagogic framework, in the learning of the English Language. The STELLAR approach seeks to build strong fundamentals by weaving the areas of language learning through a whole part whole approach where students enjoy reading, viewing, writing and listening to different literature. 
 
