@@ -3,9 +3,9 @@ title: Springdale Parent Volunteer Club
 permalink: /parents-infoweb/Springdale-Parent-Volunteer-Club/
 description: ""
 ---
-Do you have a child in Springdale Primary School and have an interest to be a Parent Volunteer (PV)? If so, do sign up as a PV today using this form &nbsp;[Recruitment Form](/files/Parent_Volunteer_Form.pdf)&nbsp; or via this [link](https://form.gov.sg/64088533d87c3d00114b1a2e)
+Do you have a child in Springdale Primary School and have an interest to be a **Parent Volunteer (PV)**? If so, do sign up as a PV today using this  &nbsp;[Recruitment Form](/files/Parent_Volunteer_Form.pdf)&nbsp; or via this [link](https://form.gov.sg/64088533d87c3d00114b1a2e)
 
-&nbsp;If you have any queries, please feel free to email Mrs Jaslyn Lim at cai\_yuyu@moe.edu.sg&nbsp;or call her at 6315 7600.
+&nbsp;If you have any queries, please feel free to email **Mrs Jaslyn Lim** at cai_yuyu@moe.edu.sg&nbsp;or call her at 6315 7600.
 
 
 **Welcome to Springdale Parent Volunteer Club (SPVC)!**
@@ -20,7 +20,7 @@ As a PV, you will also have opportunities to bond with other like-minded parents
 #### a. School Events
 
 
-**Children’s Day Carnival Proposal**
+**Children’s Day Carnival**
 
 SPVC organised a game carnival for students during Children’s Day celebration. The kids had fun playing the games and collecting points to exchange for gifts during their recess time.
 
@@ -67,6 +67,14 @@ PVs and their children had a great bonding time at the Botanic Garden. Parents a
 
 **Parent Workshop &amp; Parent-Child Bonding Activity**&nbsp;
 
+**SPVC’s 1st Telematch**
+
+![Telematch 1](/images/spvc%20telematch%20pic%201.png)
+
+![Telematch 2](/images/spvc%20telematch%20pic%202.png)
+
+
+<br>
 PVs and their children had a great time bonding through making art piece from recycled materials together.
 
 ![](/images/Parent%201.png)
