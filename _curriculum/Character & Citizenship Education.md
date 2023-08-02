@@ -80,5 +80,5 @@ Citizenship or national education is an important aspect of holistic education. 
 Singapore Kindness Movement<br>
 [http://kindness.sg/](http://kindness.sg/)
 
-Sexuality Education @ Springdale Primary<br>
-https://www.springdalepri.moe.edu.sg/parents-infoweb/MOE-Sexuality-Education/
+Sexuality Education @Springdale Primary<br>
+[Sexuality Education @ Springdale Primary](https://www.springdalepri.moe.edu.sg/parents-infoweb/MOE-Sexuality-Education/)<br>
