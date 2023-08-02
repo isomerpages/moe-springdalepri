@@ -3,15 +3,18 @@ title: Springdale Parent Volunteer Club
 permalink: /parents-infoweb/Springdale-Parent-Volunteer-Club/
 description: ""
 ---
-Welcome to&nbsp;**Springdale Parent Volunteer Club**!
 
-As depicted in the 3-leaves clover on our school crest, education is a partnership between the&nbsp;**home, school and community**. The active involvement of parents can&nbsp;**promote a learning community**&nbsp;in which pupils can engage positively with the various stakeholders. Hence, we would like to&nbsp;**invite you to join us in this journey of collaboration and support**&nbsp;the school through the varied opportunities listed on the Parent Volunteer (PV) Recruitment Form.
+Do you have a child in Springdale Primary School and have an interest to be a Parent Volunteer (PV)? If so, do sign up as a PV today using this form &nbsp;[Recruitment Form](/files/Parent_Volunteer_Form.pdf)&nbsp; or via this [link](https://form.gov.sg/64088533d87c3d00114b1a2e)
 
-If you are keen to join us, kindly fill in the form and return it to the school. Please note that each parent should fill in a separate form.&nbsp;If you have any queries, please feel free to email Mrs Jaslyn Lim at cai\_yuyu@moe.edu.sg&nbsp;or call her at 6315 7600.
+&nbsp;If you have any queries, please feel free to email Mrs Jaslyn Lim at cai\_yuyu@moe.edu.sg&nbsp;or call her at 6315 7600.
 
-Sign up as a PV using this&nbsp;[Recruitment Form](/files/Parent_Volunteer_Form.pdf)&nbsp;
 
-  
+**Welcome to Springdale Parent Volunteer Club (SPVC)!**
+
+As a Parent Volunteer (PV), you will be working with the school to **promote a vibrant learning community** for our children. Whether you are a homemaker or a busy professional, there are always opportunities for you to contribute your skills, effort and time to enhance our children’s learning experiences.
+
+Here are some upcoming events that require PVs’ support:
+
 
 ##### Activities in Term 4 (2019)
 
@@ -83,19 +86,19 @@ Parent volunteers had a fun time during the healthy workout at the Indoor Sports
 
 ![](/images/fitness.jpeg)
 
-**Move! Healthy SPVC- SCA-MAZING Walk & Picnic @ Botanic Garden**
+**Move! Healthy SPVC- SCA-MAZING Walk &amp; Picnic @ Botanic Garden**
 
 **18 March 2019**
 
-After a term of duties, our parent volunteers and their children had a great bonding time at the Botanic Garden. Mothers & children were grouped into teams and had a fun time finding stops and murals using clues, and completing challenges. The scorching sun did not dampen their spirits at all.
+After a term of duties, our parent volunteers and their children had a great bonding time at the Botanic Garden. Mothers &amp; children were grouped into teams and had a fun time finding stops and murals using clues, and completing challenges. The scorching sun did not dampen their spirits at all.
 
 ![](/images/picnic.jpeg)
 
 ![](/images/picnic%202.png)
 
-**Parent Workshop & Parent-Child Bonding Activity** 
+**Parent Workshop &amp; Parent-Child Bonding Activity**&nbsp;
 
-SPVC first Parent Workshop & Parent-Child Bonding Activity was held on Fri, 27 Apr 18. Parents and their children had a great time bonding through making art piece from recycled materials together.
+SPVC first Parent Workshop &amp; Parent-Child Bonding Activity was held on Fri, 27 Apr 18. Parents and their children had a great time bonding through making art piece from recycled materials together.
 
 ![](/images/Parent%201.png)
 
@@ -105,7 +108,7 @@ SPVC soft launch of interest group ‘Move! Healthy SPVC’ first event ‘A wal
 
 ![](/images/Parent%203.png)
 
-**Teachers’ Day Celebration 2018** 
+**Teachers’ Day Celebration 2018**&nbsp;
 
 SPVC put up a STOMP performance using daily items such as rubbish bins and chopsticks for the Teachers’ Day performance on Thu, 30 Aug 18.
 
