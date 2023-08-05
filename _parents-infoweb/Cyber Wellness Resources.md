@@ -5,6 +5,8 @@ description: ""
 ---
 **Useful Articles**
 
+[Let's Be S.U.R.E. 2023](https://sure.nlb.gov.sg/events/lets-be-sure-about/)
+
 [7 Things Every Parent Can Do to Keep Kids Cyber-Safe: A tech dads special](https://www.schoolbag.edu.sg/story/7-things-every-parent-can-do-to-keep-kids-cyber-safe-a-tech-dads-special?utm_source=newsletter+sb+article&amp;utm_medium=newsletter&amp;utm_campaign=june+2023+edm) <br>
 
 [Are you struggling with your child’s excessive device use?](https://www.schoolbag.edu.sg/story/are-you-struggling-with-your-child-s-excessive-device-use)<br>
