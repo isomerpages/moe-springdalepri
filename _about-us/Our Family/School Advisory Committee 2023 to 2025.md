@@ -6,9 +6,12 @@ third_nav_title: Our Family
 ---
 |Name |Designation |
 | -------- | -------- | 
-| Mr Simon Wong     | Chairman     | 
-|Mr Chng Jit Heng|Vice-Chairman
-|Mdm Neo Lay Wah|Secretary
-|Mr Tan Yong Hong|Treasurer
-|Asst Prof Hamid Rahmatullah Bin Abd Razak|SAC Member
-|Mr Fan Kin Ning|SAC Member
+|Mr Wong Hong Yuen |Chairman |
+|Asst Prof Hamid Rahmatullah Bin Abd Razak |Vice-Chairman |
+|Mdm Neo Lay Wah|Secretary 
+|Mdm Dephanie Wee Hui Miang |SAC Member |
+|Mr Imtiaz Shefuddin |SAC Member |
+|Mr Jackson Lim Wei Cheng |SAC Member|
+|Dr Lim Yew Mao Daniel |SAC Member |
+|Mr Lim Zheng Yong |SAC Member |
+|Mdm Noorasidah Binte Mohamed Nasar |SAC Member|
