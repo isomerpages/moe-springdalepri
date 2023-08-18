@@ -73,6 +73,7 @@ PVs and their children had a great bonding time at the Botanic Garden. Parents a
 
 ![Telematch 2](/images/spvc%20telematch%20pic%202.png)
 
+Click [here](https://www.youtube.com/watch?v=aRvJ7hW5UnI) to watch the Telematch video. 
 
 <br>
 PVs and their children had a great time bonding through making art piece from recycled materials together.
