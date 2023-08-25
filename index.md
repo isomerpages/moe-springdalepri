@@ -13,8 +13,9 @@ sections:
           description: ""
           url: /Announcements
   - infobar:
-      title: Springdale Parent Volunteer Club
+      title: Alumni Visit on Teachers’ Day Celebrations 2023
       subtitle: Latest Happening
-      button: Click here to find out more!
-      url: /parents-infoweb/Springdale-Parent-Volunteer-Club
+      description: For this year, as the school will be used as a polling venue, we
+        will not be able to allow our former Springdalites to visit our teachers
+        on 31 Aug.
 ---
