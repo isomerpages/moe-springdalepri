@@ -19,5 +19,5 @@ sections:
         will not be able to allow our former Springdalites to visit our teachers
         on 31 Aug.
       button: Click
-      url: https://www.springdalepri.moe.edu.sg/Announcements/
+      url: https://www.springdalepri.moe.edu.sg/Announcements
 ---
