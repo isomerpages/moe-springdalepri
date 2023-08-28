@@ -10,18 +10,18 @@ To minimize the loss of curriculum time and to keep students gainfully occupied 
 
 #### PTC HBL_30 Aug 2023
 
-The learning plans for respective subjects will be available on the SDPS-HBL Google Site by 6pm the day before. Click [here] to access the SDPS-HBL Google Site.
+The learning plans for respective subjects will be available on the SDPS-HBL Google Site by 6pm the day before. Click [here](https://sites.google.com/moe.edu.sg/sdpshbl2023/home?authuser=0) to access the SDPS-HBL Google Site.
 
 Alternatively, you can also click on the links below to access the learning plans for the respective level and subjects. 
 
-[P1]
+[[P1]](https://docs.google.com/document/d/162Mnw1IP4FAgwTvV-O-OSypRP1LfRMuIK44SL69C_8I/edit?usp=sharing)
 
-[P2]
+[[P2]](https://docs.google.com/document/d/1_oDLfHKg6MUlGGsoJLqaS4l-C9la-GwVK_aqtXTSMco/edit?usp=sharing)
 
-[P3]
+[[P3]](https://docs.google.com/document/d/1vD_XtzsoyySWzMiE8B5entYeFSW1_kW6vEDp57VSyHA/edit?usp=sharing)
 
-[P4]
+[[P4]](https://docs.google.com/document/d/1n_XxL-v-qv6mzNsNQzXcvFShvSGlraQ1Du2LqKO42qM/edit?usp=sharing)
 
-[P5]
+[[P5]](https://docs.google.com/document/d/1dLlIyzOo1XX4RXShtLWslOcRBaxpAHwSM7DRHW1rToI/edit?usp=sharing)
 
-[P6]
+[[P6]](https://docs.google.com/document/d/19TQ7dw3JXr-Hu0Lc3oDwbVosM4DR9EtZBQf936vHtxI/edit?usp=sharing)
