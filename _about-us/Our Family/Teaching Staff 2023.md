@@ -20,10 +20,10 @@ third_nav_title: Our Family
 | | Mdm Emily Aw| aw_mui_nai_emily@moe.edu.sg|
 | **P1 Discernment**| Ms Siti Norlizah| siti_norlizah_ibrahim@moe.edu.sg|
 | | Ms Carina Luk| luk_kar_wing_carina@moe.edu.sg|
+| | Ms Marilyn Koh |koh_xiao_han_marilyn@moe.edu.sg|
 | **P1 Alertness**| Mrs Rajesh| caroline_shantha@moe.edu.sg| 
 | | Mdm Au Su Yee| au_su_yee@moe.edu.sg|
 | **P1 Loyalty**| Mrs Michelle Hu| lim_mee_yun_michelle@moe.edu.sg|
-| | Ms Marilyn Koh |koh_xiao_han_marilyn@moe.edu.sg|
 | | Ms Chen Shihui |chen_shihui@moe.edu.sg|
 |**P1 Enthusiasm**| Ms Hajera Tasneem| hajera_tasneem_abdul_azeez@moe.edu.sg|
 | | Mrs Gayatri Roy | gayatri_s@moe.edu.sg|
@@ -73,7 +73,7 @@ third_nav_title: Our Family
 | **P3 Alertness**| Ms Audrey Phang | phang_sok_kian_audrey@moe.edu.sg | 
 | | Mr Michael Chan| michael_chan_choon_seng@moe.edu.sg|
 | | Mdm Lee Shirui (Mrs Tan) | lee_shirui@moe.edu.sg|
-
+| | Mdm Zuo Enqing | zuo_enqing@moe.edu.sg|
 
 **Primary 4 Teachers**
 
