@@ -20,13 +20,12 @@ description: ""
 [T1 Newsletter (Upper Primary)](/files/T1%20Newsletter%20(UP).pdf)
 
 ##### Sem 2 Newsletter
-[T3 Newsletter (Lower Primary)](/files/t3%20newsletter%20(lp)%202023.pdf)
 
-[T3 Newsletter (Middle Primary)](/files/t3%20newsletter%20(mp)2023.pdf)
+[T3 Newsletter (Lower Primary)](https://go.gov.sg/t3newsletterlp)
 
-[T3 Newsletter (Upper Primary)](/files/t3%20newsletter%20(up)2023.pdf)
+[T3 Newsletter (Middle Primary)](https://go.gov.sg/t3newslettermp)
 
-
+[T3 Newsletter (Upper Primary)](https://go.gov.sg/t3newsletterup)
 
 ##### Hari Raya Puasa 2023
 Our school celebrated Hari Raya Puasa on 28 April 2023. During the assembly programme, our P4 Malay language students presented a dikir barat item comprising of a medley of popular songs such as “Di Pinggiran Aidilfitri” and “Wau Bulan”. The heartwarming performance captured the hearts of the audience.
