@@ -71,7 +71,6 @@ third_nav_title: Our Family
 | **P3 Discernment**| Miss Suraiya Binte Noor Mohamed | suraiya_noor_mohamed@moe.edu.sg|
 | | Ms Ong Bee Hua | ong_bee_hua@moe.edu.sg |
 | **P3 Alertness**| Ms Audrey Phang | phang_sok_kian_audrey@moe.edu.sg | 
-| | Mr Michael Chan| michael_chan_choon_seng@moe.edu.sg|
 | | Mdm Lee Shirui (Mrs Tan) | lee_shirui@moe.edu.sg|
 | | Mdm Zuo Enqing | zuo_enqing@moe.edu.sg|
 
@@ -181,7 +180,7 @@ third_nav_title: Our Family
 |**Miss Noor Ezaida Binte Abdul Rahman**|Art|[noor_ezaida_abdul_rahman@moe.edu.sg](mailto:noor_ezaida_abdul_rahman@moe.edu.sg)
 |**Mrs Ho-Tan Gek Hiang**|Music|[tan_gek_hiang@moe.edu.sg](mailto:tan_gek_hiang@moe.edu.sg)
 |**Mr Goh Kah How**|Music|[goh_kah_how@moe.edu.sg](mailto:goh_kah_how@moe.edu.sg)
-|**Ms Sharon Han**|Art|[han_huiping@moe.edu.sg](mailto:han_huiping@moe.edu.sg)
+|**Ms Sharon Han**|Music|[han_huiping@moe.edu.sg](mailto:han_huiping@moe.edu.sg)
 
 **Allied Educators**
 
