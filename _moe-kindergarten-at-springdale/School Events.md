@@ -12,4 +12,7 @@ description: ""
 **Hari Raya Aidilfitri**
 ![](/images/hari%20raya.png)
 
+**Childrens' Day**
+![](/images/childrens'%20day%20carnival.png)
+
 Stay tuned for more photos!
