@@ -30,4 +30,4 @@ Thank you for your interest to place your child in Springdale Primary.
 Click on [here](https://go.gov.sg/sdpswaitlistapplicationform) to submit the Wait List Application Form for your child to be placed on the Wait List. 
 
 
-Thank you. 
+Thank you.
