@@ -2,7 +2,34 @@
 title: Announcements
 permalink: /Announcements/
 description: ""
+variant: markdown
 ---
+#### Purchase of School Textbooks and School Uniform
+
+Dear Parents,
+
+Please note the following schedule for the purchase of school textbooks and school uniform. 
+
+**Purchase of school textbooks**
+Order online via www.blmarketing.sg
+Collection at the school on the following dates:
+27 & 29 Nov
+01, 04, 06, 08, 11, 12, 15, 19 & 20 Dec
+
+FAS Collection Dates: 13, 14 & 15 Dec
+
+If your schedule does not meet the above, you may contact the vendor at 62848785 to make alternative arrangements.
+
+**Purchase of school uniform**
+Purchase can be made at the school on the following dates:
+29 Nov
+01, 04, 06, 08, 11, 12, 19 & 20 Dec
+
+FAS Collection Dates: 13, 14 & 15 Dec
+
+
+
+
 #### MINISTRY OF EDUCATION FINANCIAL ASSISTANCE SCHEME (MOE FAS)
 
 Dear Parents,
