@@ -2,51 +2,26 @@
 title: Service Providers
 permalink: /contacts/service-providers/
 description: ""
+variant: markdown
 ---
-**Bookshop**
-
-**BL Marketing Pte. Ltd.**<br>
-Address: <br>Oxley Bizhub
-61 Ubi Road 1
-#02-02<br>
-Postal 408727<br>
-Tel: 62848785<br>
-Email: sales@blmarketing.sg<br>
 
 
-  
-Primary 1 to Primary 6 Booklist (2023):<br>
-[SDPS P1 Booklist 2023.pdf](/files/SDPS%20P1%20Booklist%202023%20-%20Final.pdf)  
-[SDPS P2 Booklist 2023.pdf](/files/SDPS%20P2%20Booklist%202023%20-%20Final.pdf)  
-[SDPS P3 HMT Booklist 2023.pdf](/files/SDPS%20P3%20(HMT)%20Booklist%202023%20-%20Final.pdf)  
-[SDPS P3 Booklist 2023.pdf](/files/SDPS%20P3%20Booklist%202023%20-%20Final.pdf)  
-[SDPS P4 Booklist 2023.pdf](/files/SDPS%20P4%20Booklist%202023%20-%20Final.pdf)  
-[SDPS P5 HMT Booklist 2023.pdf](/files/SDPS%20P5%20(HMT)%20Booklist%202023%20-%20Final.pdf)  
-[SDPS P5 Booklist 2023.pdf](/files/SDPS%20P5%20Booklist%202023%20-%20Final.pdf)  
-[SDPS P6 (3S1FMT) Booklist 2023.pdf](/files/SDPS%20P6%20(3S1FMT)%20Booklist%202023%20-%20Final.pdf)  
-[SDPS P6 (3S1F-MA) Booklist 2023](/files/SDPS%20P6%20(3S1F-MA)%20Booklist%202023.pdf)  
-[SDPS P6 (4F) Booklist 2023.pdf](/files/SDPS%20P6%20(4F)%20Booklist%202023%20-%20Final.pdf)  
-[SDPS P6 HMT Booklist 2023.pdf](/files/SDPS%20P6%20(HMT)%20Booklist%202023%20-%20Final.pdf)  
-[SDPS P6 2S2F,MAMT Booklist 2023.pdf](/files/SDPS%20P6%202S2F,MAMT%20Booklist%202023%20-%20Final.pdf)  
-[SDPS P6 2S2F,MASC Booklist 2023.pdf](/files/SDPS%20P6%202S2F,MASC%20Booklist%202023%20-%20Final.pdf)  
-[SDPS P6 Booklist 2023.pdf](/files/SDPS%20P6%20Booklist%202023%20-%20Final.pdf)  
-<br>
 
 
-**School Uniform**
+| **Bookshop**| **School Uniform** |School Bus|
+| -------- | -------- | -------- | 
+| **BL Marketing Pte. Ltd.**<br>Oxley Bizhub 61 Ubi Road 1 <br> #02-02 <br>Postal 408727  <br><br>Tel: 62848785 <br><br>Email: sales@blmarketing.sg | *Magdalene Sewing Centre Pte Ltd<br>Address: <br>Tech Place II 5000 Ang Mo Kio Ave 5 <br> #05-09, S(569870)<br><br>Tel: 62935840<br> Tel: 8638 0499 (whatapps only)<br><br>Email: info@magdalene.com.sg<br>* | SFX Transport Pte Ltd<br>Tel: 6282 0262 / 8800 0262<br>Email: school@sfxtransport.com.sg<br><br>Click on the link below to view the School Bus Service Fares. <br>[School Bus Service Fares](/files/school%20bus%20service%20fares.pdf)
+|**Purchase of school textbooks** <br><br>Order online via www.blmarketing.sg <br><br>Collection at the school on the following dates: <br>27 &amp; 29 Nov <br><br>01, 04, 06, 08, 11, 12, 15, 19 &amp; 20 Dec <br><br>FAS Collection Dates: 13, 14 &amp; 15 Dec <br>If your schedule does not meet the above, you may contact the vendor at 62848785 to make alternative arrangements.|**Purchase of school uniform**<br><br>Purchase can be made at the school on the following dates:<br><br>29 Nov<br><br>01, 04, 06, 08, 11, 12, 19 &amp; 20 Dec<br><br>FAS Collection Dates: 13, 14 &amp; 15 Dec |   |
+| | |
 
 
-**Magdalene Sewing Centre Pte Ltd**<br>
-Address: <br>Tech Place II
-5000 Ang Mo Kio Ave 5 
-#05-09, S(569870)<br>
-Tel: 62935840<br>
-Tel: 8638 0499 (whatapps only)<br>
-Email: info@magdalene.com.sg<br>
+ 
+**Primary 1 to Primary 6 Booklist (2024):<br>**
+To be updated
 
 
-**School Shoes:**  
 
+**School Shoes:** <br>
 
 | **With effect from 2023**  | **With effect from 2024** | 
 | -------- | -------- | 
@@ -57,12 +32,3 @@ Email: info@magdalene.com.sg<br>
 *   Socks and shoes may be purchased from our uniform supplier
 
 
-**School Bus**
-
-SFX Transport Pte Ltd <br>
-Contact Tel: 6282 0262 / 8800 0262<br>
-Email: school@sfxtransport.com.sg<br>
-
-Click on the link below to view the School Bus Service Fares.
-
-[School Bus Service Fares](/files/school%20bus%20service%20fares.pdf)
