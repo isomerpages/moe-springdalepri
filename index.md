@@ -12,12 +12,4 @@ sections:
         - title: Announcements
           description: ""
           url: /Announcements
-  - infobar:
-      title: Alumni Visit on Teachers’ Day Celebrations 2023
-      subtitle: Latest Happening
-      description: For this year, as the school will be used as a polling venue, we
-        will not be able to allow our former Springdalites to visit our teachers
-        on 31 Aug.
-      button: Click to view details
-      url: https://www.springdalepri.moe.edu.sg/Announcements
 ---
