@@ -11,7 +11,7 @@ Dear Parents,
 Please note the following schedule for the purchase of school textbooks and school uniform. 
 
 **Purchase of school textbooks**
-Order online [Here](www.blmarketing.sg)
+Order online [here](https://www.blmarketing.sg/)
 
 Collection at the school on the following dates: 27, 29 Nov<br> 
 <br> 01, 04, 06, 08, 11, 12, 15, 19 &amp; 20 Dec
