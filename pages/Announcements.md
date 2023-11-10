@@ -23,7 +23,7 @@ If your schedule does not meet the above, you may contact the vendor at 62848785
 
 **Purchase of school uniform**
 Purchase can be made at the school on the following dates:
-29 Nov
+29 Nov <br>
 01, 04, 06, 08, 11, 12, 19 &amp; 20 Dec
 
 FAS Collection Dates: 13, 14 &amp; 15 Dec
