@@ -1,8 +1,9 @@
 ---
 title: MOE Financial Assistance Scheme (FAS)
-permalink: /parents-infoweb/parents-info-and-resources/permalink/
+permalink: /parents-infoweb/parents-info-and-resources/moefas/
 description: ""
 third_nav_title: Parents Info & Resources
+variant: tiptap
 ---
 #### MINISTRY OF EDUCATION FINANCIAL ASSISTANCE SCHEME (MOE FAS)
 
