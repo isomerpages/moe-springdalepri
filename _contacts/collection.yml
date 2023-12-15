@@ -2,6 +2,7 @@ collections:
   contacts:
     output: true
     order:
+      - School Canteen Advertisement.md
       - Springdale Pri School.md
       - Student Care Centre.md
       - Dental Service.md
