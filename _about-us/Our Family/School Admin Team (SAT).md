@@ -31,7 +31,7 @@ variant: markdown
 
 | Name| Position |
 | -------- | -------- | 
-|**Ms Siti Nur Aini Binte Hamidi**|ICT Manager
+|**Miss Siti Nur Aini Binte Hamid**|ICT Manager
 |**Mr Kavinesh Rajamanickam**|Desktop Engineer
 |**Mr Fitri Ismail**|Desktop Engineer
 |**Ms Goh Chloe**|Librarian
