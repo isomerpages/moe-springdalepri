@@ -2,6 +2,7 @@
 title: Student Care Centre
 permalink: /contacts/Student-Care-Centre/
 description: ""
+variant: markdown
 ---
 ##### Updated 27 Jun 2013  
 
@@ -28,10 +29,8 @@ Here are the contact information of our SCC operator:
 
 |   |   |
 | -------- | -------- | 
-| Company Name :     | Young Men's Christian Association of Singapore     | 
-|Address:|One Orchard Road Singapore 238824
-|Office Tel:|63153074 
-|Centre Supervisor:|Ms Audrey Yang 
-|Contact Tel: |98357896 
-|Email:|[sdscc@ymca.edu.sg](mailto:sdscc@ymca.edu.sg)
-|Website:|[www.ymca.org.sg/cdcscc/](www.ymca.org.sg/cdcscc/)
+| Company Name :     | Commit Learning Schoolhouse   | 
+|Address:|818 Woodlands Street 82 #01-423, Singapore 730818
+
+|Email:|[admission_cls_springdale@commitlearning.com.sg](mailto:admission_cls_springdale@commitlearning.com.sg)
+|Website:|[https://www.commitlearning.com.sg](https://www.commitlearning.com.sg)
