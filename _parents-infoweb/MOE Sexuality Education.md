@@ -2,6 +2,7 @@
 title: MOE Sexuality Education
 permalink: /parents-infoweb/MOE-Sexuality-Education/
 description: ""
+variant: markdown
 ---
 #### MOE Sexuality Education in Schools
 
@@ -34,7 +35,7 @@ Sexuality Education Lessons:
 
 7. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. 
 
-#### **At Springdale Primary School, the following lessons from the Growing Years Programme will be taught in 2023:**
+#### **At Springdale Primary School, the following lessons from the Growing Years Programme will be taught in&nbsp;2023:**
 
 **2023 SEXUALITY EDUCATION LESSONS IN CCE 2021**
 
@@ -46,7 +47,7 @@ Sexuality Education Lessons:
 | Growing years |  Did You Know? (60 min) | This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’. This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. | Term 4 Week 2  |
 | Growing years | Keeping Myself Safe(60 min) | In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions |  Term 4 Week 3 |
 
-**Primary 6** <BR>
+**Primary 6** <br>
 
 | **CCE (FTGP) THEME** | **LESSON TITLE / DURATION** | **LESSON OVERVIEW** | **TIME PERIOD (e.g. Term 1 Week 2)** |  
 | -------- | -------- | -------- |  -------- |
@@ -63,6 +64,6 @@ Sexuality Education Lessons:
 
 8.	Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
  
-9.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents via Parents Gateway.
+9.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This [form](/files/SEd_Parents_Opt_out_Form_.pdf) will be distributed to parents via Parents Gateway.
 
 10.	Parents can contact the school at 63157600 or email to  springdale_ps@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
