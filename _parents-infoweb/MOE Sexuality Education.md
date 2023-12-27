@@ -37,7 +37,7 @@ Sexuality Education Lessons:
 
 #### **At Springdale Primary School, the following lessons from the Growing Years Programme will be taught in&nbsp;2024:**
 
-**2023 SEXUALITY EDUCATION LESSONS IN CCE 2021**
+**2024 SEXUALITY EDUCATION LESSONS IN CCE 2021**
 
 **Primary 5**
 
