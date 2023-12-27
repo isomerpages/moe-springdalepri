@@ -21,7 +21,7 @@ variant: markdown
 
 You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education. 
 
-#### OVERVIEW OF SPRINGDALE PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2023
+#### OVERVIEW OF SPRINGDALE PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024
 
 4.	Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -35,7 +35,7 @@ Sexuality Education Lessons:
 
 7. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. 
 
-#### **At Springdale Primary School, the following lessons from the Growing Years Programme will be taught in&nbsp;2023:**
+#### **At Springdale Primary School, the following lessons from the Growing Years Programme will be taught in&nbsp;2024:**
 
 **2023 SEXUALITY EDUCATION LESSONS IN CCE 2021**
 
