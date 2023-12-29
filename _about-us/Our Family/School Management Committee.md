@@ -31,10 +31,10 @@ variant: markdown
 |**Mr Tham Otto**|Subject Head (Student Discipline)
 |**Mdm Abidah**|Year Head (Upper Primary)
 |**Mr Sean Lim Tong Lee**|	Year Head (Middle Primary)
-|**Ms Noor Ezaida Binte Abdul**|Asst. Yeah Head (Middle Primary
+|**Ms Noor Ezaida Binte Abdul**|Asst. Year Head (Middle Primary)
 |**Mrs Jaslyn Lim**|Year Head (Lower Primary)
 |**Mrs Kym Yap**|	Asst. Year Head (Lower Primary) 
-|**Ms Tan Zi Hui Charmain**|Subject Head (Character & Citizenship Education
+|**Ms Tan Zi Hui Charmian**|Subject Head (Character & Citizenship Education)
 |**Mrs Ho-Tan Gek Hiang**|Subject Head (Aesthetics)
 |**Mr Jufri**| Covering Head of Department (PE)
 |**Mr Leonard Toh**|CCA Coordinator
