@@ -3,8 +3,12 @@ title: Parents Information & Resources
 permalink: /parents-infoweb/Parents-Info-and-Resources/Parents-Information-and-Resources/
 description: ""
 third_nav_title: Parents Info & Resources
+variant: markdown
 ---
-*   [Slides for Sharing & Seminars in Springdale Primary School](/parents-infoweb/Parents-Info-and-Resources/Sharing-Slides-For-Seminars-and-Sharing)  
+[P1 Cyber Wellness](/files/P1_Cyber_Wellness.pdf)<br>
+[P1 Parenting Resources](/files/P1_Parenting_Resources.pdf)
+
+*   [Slides for Sharing &amp; Seminars in Springdale Primary School](/parents-infoweb/Parents-Info-and-Resources/Sharing-Slides-For-Seminars-and-Sharing)  
 
 ##### P4 Parents Information - Subject-based Banding (Primary) Brochures
 
@@ -17,7 +21,7 @@ third_nav_title: Parents Info & Resources
 
 This website features education news, stories on school programmes and activities and resources to help readers better understand our education system. The website can be viewed at: [http://schoolbag.sg/](http://schoolbag.sg/)
 
-**Interesting Reads**  
+**Interesting&nbsp;Reads**&nbsp;&nbsp;
 
 May 2018 
 
@@ -40,11 +44,11 @@ May 2018
 
 To find out more about SkillsFuture  
 
-*   Stay updated at:  [http://www.skillsfuture.sg](http://www.skillsfuture.sg/)  
+*   Stay updated at:&nbsp;&nbsp;[http://www.skillsfuture.sg](http://www.skillsfuture.sg/)  
     
-*   Like us on Facebook:  [http://www.facebook.com/skillsfuturesg](http://www.facebook.com/skillsfuturesg)  
+*   Like us on Facebook:&nbsp;&nbsp;[http://www.facebook.com/skillsfuturesg](http://www.facebook.com/skillsfuturesg)  
     
-*   Follow us at Twitter:  [http://www.twitter.com/skillsfuturesg](http://www.twitter.com/skillsfuturesg)  
+*   Follow us at Twitter:&nbsp;&nbsp;[http://www.twitter.com/skillsfuturesg](http://www.twitter.com/skillsfuturesg)  
     
 
 
