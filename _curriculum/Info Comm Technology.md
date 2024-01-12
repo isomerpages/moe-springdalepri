@@ -2,6 +2,7 @@
 title: Info Comm Technology
 permalink: /curriculum/Info-Comm-Technology/
 description: ""
+variant: markdown
 ---
 **Vision**: Future-Ready &amp; Responsible Digital Learners&nbsp;
 

@@ -2,6 +2,7 @@ collections:
   parents-infoweb:
     output: true
     order:
+      - Student iCON (MIMS).md
       - Parents Info & Resources/2024 Booklists.md
       - Parents Info & Resources/MOE Financial Assistance Scheme (FAS).md
       - Parents Info & Resources/Student Personal Accident (GPA) Insurance.md
