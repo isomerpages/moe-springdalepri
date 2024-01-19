@@ -12,7 +12,7 @@ variant: markdown
 | Name | Designation | E-mail Address |
 | -------- | -------- | -------- |
 | **Mdm Nur Hidayah Jamari**     |  Centre Head     | [nur\_hidayah\_jamari@moe.edu.sg](mailto:Nur_hidayah_jamari@moe.edu.sg)     |
-| **Miss Goh Yi Xuan** |Lead Head | goh_yi_xuan@moe.edu.sg |
+| **Miss Goh Yi Xuan** |Level Head | goh_yi_xuan@moe.edu.sg |
 | **Mdm Shen You Juan**  | Senior Teacher | shen_youjuan@moe.edu.sg |
 
 
