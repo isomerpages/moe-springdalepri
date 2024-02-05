@@ -17,4 +17,5 @@ variant: markdown
 
 [2024 P5 Parents' Briefing Slides](/files/P5_Parents__Briefing_24_Jan_2024.pdf)
 
-[2023 P6 Parents' Briefing Slides](/files/2023%20P6%20Parents'%20Briefing.pdf)
+[2024 P6 Parents' Briefing Slides](/files/P6_Parents__Briefing_31_Jan_2024.pdf)
+
