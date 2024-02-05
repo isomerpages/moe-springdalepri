@@ -11,7 +11,7 @@ variant: markdown
 #####  2024 PARENTS' SEMINAR &amp; BRIEFING SLIDES 
 [2024 P2 Parents' Briefing Slides](/files/P2_Parents__Briefing_31_Jan_2024.pdf)
 
-[2023 P3 Parents' Briefing Slides](/files/2023%20P3%20Parents'%20Briefing.pdf)
+[2024 P3 Parents' Briefing Slides](/files/P3_Parents__Briefing_24_Jan_2024.pdf)
 
 [2023 P4 Parents' Briefing Slides](/files/2023%20P4%20Parents'%20Briefing.pdf)
 
