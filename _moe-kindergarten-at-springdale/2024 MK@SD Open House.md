@@ -33,7 +33,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>10.15am</strong>
+<p><strong>9.15am &amp; 11.15am</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -42,7 +42,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>10.45am</strong>
+<p><strong>9.45am &amp; 11.45am</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -51,7 +51,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>11.15am</strong>
+<p><strong>10.15am</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -60,7 +60,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>11.45am</strong>
+<p><strong>10.45am</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
