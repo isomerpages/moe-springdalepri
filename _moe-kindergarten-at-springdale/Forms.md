@@ -2,10 +2,10 @@
 title: Forms
 permalink: /moe-kindergarten-at-springdale/forms/
 description: ""
+variant: markdown
 ---
 ##### MK@SD Waitlist Application Form
-Please fill up this [form](https://www.form.gov.sg/63da2b35bef23b0011b34d73) or scan the QR code below to register your child for 2023/2024 K1/K2 class. Enrolment will be subjected to available vacancies.
-![](/images/waitlist%20qr%20code_updated.jpg)
+Please fill up this [form](https://form.gov.sg/65c077721796ee8341890b49)  to register your child for K1/K2 2024 and K1/K2 2025 application. Enrolment will be subjected to available vacancies.
 
 ##### **Application for GIRO**
 To apply for GIRO, please submit the original completed form to the general office. Click [here](/files/GIRO%20for%20payment%20of%20MK%20fee%20non-DBSPOSBacct.pdf) for the application form.
@@ -16,6 +16,3 @@ For DBS/POSB accounts, you may apply online via iBanking by following this [guid
 For KiFAS application, please submit completed KF1 [form](/files/KF1%20-%20Enrolment%20and%20KiFAS%20Application%20(1%20Jan%202022).pdf) via email or at the General office.
 
 Click [here](/files/KiFAS%20Explanatory%20Notes%20(1%20Jan%202022).pdf) for KiFAS Explanatory notes.
-
-
-
