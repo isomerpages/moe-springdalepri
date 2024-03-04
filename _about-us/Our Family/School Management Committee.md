@@ -36,7 +36,7 @@ variant: markdown
 |**Mrs Kym Yap**|	Asst. Year Head (Lower Primary) 
 |**Ms Tan Zi Hui Charmian**|Subject Head (Character & Citizenship Education)
 |**Mrs Ho-Tan Gek Hiang**|Subject Head (Aesthetics)
-|**Mr Jufri**| Covering Head of Department (PE)
+|**Mr Jufri**| Covering Head of Department (PE & Aesthetics)
 |**Mr Leonard Toh**|CCA Coordinator
 
 
