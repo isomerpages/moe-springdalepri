@@ -2,9 +2,9 @@
 title: Springdale Parent Volunteer Club
 permalink: /parents-infoweb/Springdale-Parent-Volunteer-Club/
 description: ""
+variant: markdown
 ---
-Do you have a child in Springdale Primary School and have an interest to be a **Parent Volunteer (PV)**? If so, do sign up as a PV today using this  &nbsp;[Recruitment Form](/files/Parent_Volunteer_Form.pdf)&nbsp; or via this [link](https://form.gov.sg/64088533d87c3d00114b1a2e)
-
+Do you have a child in Springdale Primary School and have an interest to be a **Parent Volunteer (PV)**? If so, do sign up as a PV today using this  &nbsp;[Recruitment Form](/files/Parent_Volunteer_Form.pdf)&nbsp;.
 &nbsp;If you have any queries, please feel free to email **Mrs Jaslyn Lim** at cai_yuyu@moe.edu.sg&nbsp;or call her at 6315 7600.
 
 
