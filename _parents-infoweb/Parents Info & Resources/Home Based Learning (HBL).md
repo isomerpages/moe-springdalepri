@@ -9,7 +9,7 @@ The Curriculum Continuity Plan focuses on how the school can facilitate students
 
 To minimize the loss of curriculum time and to keep students gainfully occupied at home, there is a need to have a Home-Based Learning (HBL) plan.
 
-#### PTC HBL_30 Aug 2023
+#### PCTC HBL_8 Mar 2024
 
 The learning plans for respective subjects will be available on the SDPS-HBL Google Site by 6pm the day before. Click [[here]](https://sites.google.com/moe.edu.sg/sdpshbl2024/home) to access the SDPS-HBL Google Site.
 
