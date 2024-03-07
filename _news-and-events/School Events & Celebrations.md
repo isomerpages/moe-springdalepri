@@ -4,23 +4,16 @@ permalink: /news-and-events/School-Events-and-Celebrations/
 description: ""
 variant: markdown
 ---
-#### NEWSLETTER 2023
+#### NEWSLETTER 2024
   
 ##### Sem 1 Newsletter
 
-[T2 Newsletter (Lower Primary)](https://for.edu.sg/t2newsletterlowerprimary)
-
-[T2 Newsletter (Middle Primary)](https://for.edu.sg/t2newslettermiddleprimary)
-
-[T2 Newsletter (Upper Primary)](https://for.edu.sg/t2newsletterupperprimary)
-
-[T1 Newsletter (Lower Primary)](/files/T1%20Newsletter%20(LP).pdf)
-
-[T1 Newsletter (Middle Primary)](/files/T1%20Newsletter%20(MP).pdf)
-
-[T1 Newsletter (Upper Primary)](/files/T1%20Newsletter%20(UP).pdf)
-
-##### Sem 2 Newsletter
+[T1 Newsletter (Lower Primary)](/files/T1_Newsletter__LP_.pdf)
+<br>
+[T1 Newsletter (Middle Primary)](/files/T1_Newsletter__MP_.pdf)
+<br>
+[T1 Newsletter (Upper Primary)](/files/T1_Newsletter__UP_.pdf)
+##### Sem 2 Newsletter (2023)
 
 [T3 Newsletter (Lower Primary)](https://go.gov.sg/t3newsletterlp)
 
