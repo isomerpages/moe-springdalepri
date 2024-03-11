@@ -839,11 +839,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ong Shi Hui</p>
+<p>Ms Tan Wei Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ong_shi_hui_a@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
