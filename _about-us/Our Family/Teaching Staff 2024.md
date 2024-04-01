@@ -572,7 +572,7 @@ variant: tiptap
 <p>Ms Charmian Tan&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_zi_hui_charmian@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">charmian_tan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
