@@ -36,9 +36,8 @@ Students involved in CCA competitions may have more training sessions to better 
 **Annex A**
 ##### CCA Schedule
 
-![](/images/cca%20schedule%20updated.PNG)
+![](/images/CCA_Schedule.png)
 
-![CCA schedule 2](/images/CCA%20schedule%20new%202.png)
 Please take note of the respective dates, timing and levels as shown in the following tables.  (Subject to changes due to unforeseen circumstances).  We seek your understanding in this matter.  **The respective CCA Teachers-in-charge will provide more details and updates via Parents Gateway (PG).**
 
 
