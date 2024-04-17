@@ -3,6 +3,7 @@ title: Co Curriculum Activities (CCA)
 permalink: /co-curriculum/Co-Curriculum-Activities-CCA/Co-Curriculum-Activities-CCA/
 description: ""
 third_nav_title: Co Curriculum Activities (CCA)
+variant: markdown
 ---
 As part of the school’s Co-Curriculum Programmes (CCP) to support the holistic development of students, Co-Curricular Activities (CCA) are designed to develop students’ Attitudes, Skills and Knowledge (ASK) in the cognitive, physical and aesthetics domains. CCA will also provide a common space for friendships and social integration which develop students’ sense of identity and belonging to the school.  
   
@@ -21,9 +22,10 @@ Please note that P6 students will not be involved in CCA in Sem 2 (except for se
   
 **Important points to note**
 
-  CCA will take place after school on either Monday, Tuesday or Thursday. The CCA Schedule and Guidelines are found in **Annex A.** 
+  CCA will take place after school on either Monday, Tuesday or Thursday. CCA will start from 3pm to 5pm. Dates and other relevant information will be sent to parents via Parents Gateway.
+	
 
-If your child is not involved in after-school programmes such as ACE, SDR, RRP and E2K before his/her CCA, **we strongly encourage him/her to return home for lunch** before reporting back to school for his/her CCA. We seek your understanding on this matter.
+If your child is not involved in after-school programmes such as ACE, SDR, RRP and E2K before his/her CCA, **we strongly encourage him/her to return home for lunch** before reporting back to school for his/her CCA, please remind your child to report to the canteen if he/she reaches school before 2.45pm. We seek your understanding on this matter.
 
 Students involved in CCA competitions may have more training sessions to better prepare them. Do also note that students **will not engage in strenuous activities for 2 weeks after receiving their vaccination.** 
 **Most** CCAs will start at 3pm.  The respective CCA teachers-in-charge will provide more details, such as the reporting venues, reporting time, specific groupings (if any), attire and things to bring along, through Parents Gateway (PG) before the CCA begins in Term 1 Week 3.
@@ -35,9 +37,8 @@ Students involved in CCA competitions may have more training sessions to better 
 **Annex A**
 ##### CCA Schedule
 
-![](/images/cca%20schedule%20updated.PNG)
+![](/images/CCA_Schedule.png)
 
-![CCA schedule 2](/images/CCA%20schedule%20new%202.png)
 Please take note of the respective dates, timing and levels as shown in the following tables.  (Subject to changes due to unforeseen circumstances).  We seek your understanding in this matter.  **The respective CCA Teachers-in-charge will provide more details and updates via Parents Gateway (PG).**
 
 
@@ -48,7 +49,7 @@ Please take note of the respective dates, timing and levels as shown in the foll
 
 1.&nbsp;Each student will only be allocated 1 CCA. Participation in additional CCA may only be allowed on a case-by-case basis.
 
-2.&nbsp;Students must remain in their CCA for the whole year. They may only change to a new CCA at the beginning of each year, which is subject to availability and on a case-by-case basis. All requests must be made through email to to the point of contact, Ms Sharon Han (han_huiping@moe.edu.sg) only at the end of the year (**Term 4 Week 5 to Week 9**). The school encourages all students to remain in the CCA in order to deepen their&nbsp;skills, knowledge and friendships in the CCA.
+2.&nbsp;Students must remain in their CCA for the whole year. They may only change to a new CCA at the beginning of each year, which is subject to availability and on a case-by-case basis. All requests must be made through email to to the point of contact, Mr Leonard Toh (toh_jia_bin_leonard@moe.edu.sg) only at the end of the year (**Term 4 Week 5 to Week 9**). The school encourages all students to remain in the CCA in order to deepen their&nbsp;skills, knowledge and friendships in the CCA.
 
 3.3.	Students who may be involved in future inter-school competitions may be asked to attend additional training sessions in the afternoons and/or during school holidays.
 
@@ -60,7 +61,7 @@ Please take note of the respective dates, timing and levels as shown in the foll
 
 7.&nbsp;P6 students will only have CCA in Semester 1.
 
-8.&nbsp;Should there be a request for student to participate in the National School Games (NSG), Competitions or Singapore Youth Festival (SYF) and the sport/activity is not part of the school’s CCA, **interest to participate must be made through email to Mrs Ho-Tan Gek Hiang (tan_gek_hiang@moe.edu.sg) by the end of February 2023** and to include information on student’s level of preparation for the competition.&nbsp;&nbsp;
+8.&nbsp;Should there be a request for student to participate in the National School Games (NSG), Competitions or Singapore Youth Festival (SYF) and the sport/activity is not part of the school’s CCA, interest to participate must be made through email toMr Leonard Toh (toh_jia_bin_leonard@moe.edu.sg) between January to the end of February yearly and to include information on student’s level of preparation for the competition.&nbsp;&nbsp;
 
 ##### List of CCA
 
