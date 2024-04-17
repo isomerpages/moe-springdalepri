@@ -3,6 +3,7 @@ title: Co Curriculum Activities (CCA)
 permalink: /co-curriculum/Co-Curriculum-Activities-CCA/Co-Curriculum-Activities-CCA/
 description: ""
 third_nav_title: Co Curriculum Activities (CCA)
+variant: markdown
 ---
 As part of the school’s Co-Curriculum Programmes (CCP) to support the holistic development of students, Co-Curricular Activities (CCA) are designed to develop students’ Attitudes, Skills and Knowledge (ASK) in the cognitive, physical and aesthetics domains. CCA will also provide a common space for friendships and social integration which develop students’ sense of identity and belonging to the school.  
   
@@ -48,7 +49,7 @@ Please take note of the respective dates, timing and levels as shown in the foll
 
 1.&nbsp;Each student will only be allocated 1 CCA. Participation in additional CCA may only be allowed on a case-by-case basis.
 
-2.&nbsp;Students must remain in their CCA for the whole year. They may only change to a new CCA at the beginning of each year, which is subject to availability and on a case-by-case basis. All requests must be made through email to to the point of contact, Ms Sharon Han (han_huiping@moe.edu.sg) only at the end of the year (**Term 4 Week 5 to Week 9**). The school encourages all students to remain in the CCA in order to deepen their&nbsp;skills, knowledge and friendships in the CCA.
+2.&nbsp;Students must remain in their CCA for the whole year. They may only change to a new CCA at the beginning of each year, which is subject to availability and on a case-by-case basis. All requests must be made through email to to the point of contact, Mr Leonard Toh (toh_jia_bin_leonard@moe.edu.sg) only at the end of the year (**Term 4 Week 5 to Week 9**). The school encourages all students to remain in the CCA in order to deepen their&nbsp;skills, knowledge and friendships in the CCA.
 
 3.3.	Students who may be involved in future inter-school competitions may be asked to attend additional training sessions in the afternoons and/or during school holidays.
 
@@ -60,7 +61,7 @@ Please take note of the respective dates, timing and levels as shown in the foll
 
 7.&nbsp;P6 students will only have CCA in Semester 1.
 
-8.&nbsp;Should there be a request for student to participate in the National School Games (NSG), Competitions or Singapore Youth Festival (SYF) and the sport/activity is not part of the school’s CCA, **interest to participate must be made through email to Mrs Ho-Tan Gek Hiang (tan_gek_hiang@moe.edu.sg) by the end of February 2023** and to include information on student’s level of preparation for the competition.&nbsp;&nbsp;
+8.&nbsp;Should there be a request for student to participate in the National School Games (NSG), Competitions or Singapore Youth Festival (SYF) and the sport/activity is not part of the school’s CCA, interest to participate must be made through email toMr Leonard Toh (toh_jia_bin_leonard@moe.edu.sg) between January to the end of February yearly and to include information on student’s level of preparation for the competition.&nbsp;&nbsp;
 
 ##### List of CCA
 
