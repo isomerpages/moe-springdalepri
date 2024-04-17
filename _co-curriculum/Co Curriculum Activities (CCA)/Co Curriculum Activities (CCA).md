@@ -22,9 +22,10 @@ Please note that P6 students will not be involved in CCA in Sem 2 (except for se
   
 **Important points to note**
 
-  CCA will take place after school on either Monday, Tuesday or Thursday. The CCA Schedule and Guidelines are found in **Annex A.** 
+  CCA will take place after school on either Monday, Tuesday or Thursday. CCA will start from 3pm to 5pm. Dates and other relevant information will be sent to parents via Parents Gateway.
+	
 
-If your child is not involved in after-school programmes such as ACE, SDR, RRP and E2K before his/her CCA, **we strongly encourage him/her to return home for lunch** before reporting back to school for his/her CCA. We seek your understanding on this matter.
+If your child is not involved in after-school programmes such as ACE, SDR, RRP and E2K before his/her CCA, **we strongly encourage him/her to return home for lunch** before reporting back to school for his/her CCA, please remind your child to report to the canteen if he/she reaches school before 2.45pm. We seek your understanding on this matter.
 
 Students involved in CCA competitions may have more training sessions to better prepare them. Do also note that students **will not engage in strenuous activities for 2 weeks after receiving their vaccination.** 
 **Most** CCAs will start at 3pm.  The respective CCA teachers-in-charge will provide more details, such as the reporting venues, reporting time, specific groupings (if any), attire and things to bring along, through Parents Gateway (PG) before the CCA begins in Term 1 Week 3.
