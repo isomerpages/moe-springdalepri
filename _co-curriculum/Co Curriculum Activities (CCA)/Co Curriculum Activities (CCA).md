@@ -47,21 +47,21 @@ Please take note of the respective dates, timing and levels as shown in the foll
 
 ##### CCA Guidelines
 
-1.&nbsp;Each student will only be allocated 1 CCA. Participation in additional CCA may only be allowed on a case-by-case basis.
+1. Each student will only be allocated 1 CCA. Participation in additional CCA may only be allowed on a case-by-case basis.
 
-2.&nbsp;Students must remain in their CCA for the whole year. They may only change to a new CCA at the beginning of each year, which is subject to availability and on a case-by-case basis. All requests must be made through email to to the point of contact, Mr Leonard Toh (toh_jia_bin_leonard@moe.edu.sg) only at the end of the year (**Term 4 Week 5 to Week 9**). The school encourages all students to remain in the CCA in order to deepen their&nbsp;skills, knowledge and friendships in the CCA.
+2. Students must remain in their CCA for the whole year. They may only change to a new CCA at the beginning of each year, which is subject to availability and on a case-by-case basis. All requests must be made through email to to the point of contact, Mr Leonard Toh (toh_jia_bin_leonard@moe.edu.sg) only at the end of the year (**Term 4 Week 5 to Week 9**). The school encourages all students to remain in the CCA in order to deepen their skills, knowledge and friendships in the CCA.
 
-3.3.	Students who may be involved in future inter-school competitions may be asked to attend additional training sessions in the afternoons and/or during school holidays.
+3.	Students who may be involved in future inter-school competitions may be asked to attend additional training sessions in the afternoons and/or during school holidays.
 
-4.&nbsp;Students must meet at least 85% attendance criteria before their CCA participation can be recorded in their Student Holistic Report Card.
+4. Students must meet at least 85% attendance criteria before their CCA participation can be recorded in their Student Holistic Report Card.
 
-5.&nbsp;Participation in external activities for the purpose of self-enrichment or social interaction as well as those that are already offered in school will not be considered as a CCA.
+5. Participation in external activities for the purpose of self-enrichment or social interaction as well as those that are already offered in school will not be considered as a CCA.
 
 6. No student should be loitering outside the school between school dismissal time and the start of CCA. Instead, they should make the best use of the time to complete their homework or self-study. 
 
-7.&nbsp;P6 students will only have CCA in Semester 1.
+7. P6 students will only have CCA in Semester 1.
 
-8.&nbsp;Should there be a request for student to participate in the National School Games (NSG), Competitions or Singapore Youth Festival (SYF) and the sport/activity is not part of the school’s CCA, interest to participate must be made through email toMr Leonard Toh (toh_jia_bin_leonard@moe.edu.sg) between January to the end of February yearly and to include information on student’s level of preparation for the competition.&nbsp;&nbsp;
+8. Should there be a request for student to participate in the National School Games (NSG), Competitions or Singapore Youth Festival (SYF) and the sport/activity is not part of the school’s CCA, interest to participate must be made through email to Mr Leonard Toh (toh_jia_bin_leonard@moe.edu.sg) between January to the end of February yearly and to include information on student’s level of preparation for the competition.
 
 ##### List of CCA
 
