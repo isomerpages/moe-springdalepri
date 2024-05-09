@@ -12,16 +12,13 @@ variant: markdown
 
 
  
-**Primary 1 to Primary 6 Booklist (2024):<br>**
-To be updated
 
 
 
-**School Shoes:** <br>
 
-| **With effect from 2023**  | **With effect from 2024** | 
-| -------- | -------- | 
-| Our school **socks are white** and **shoes are black/white** | Our school **socks are white** and **shoes are black** | 
+### **School Shoes:** <br>
+
+*   Our school socks are white and shoes are black
     
 *   The shoes may be made of canvas or water-proof material  
     
