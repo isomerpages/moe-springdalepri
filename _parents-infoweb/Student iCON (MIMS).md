@@ -15,7 +15,8 @@ description: ""
 <p>Contact your form teachers or ICT Manager in general office to request
 for a MIMS password reset.</p>
 <p>Alternatively, submit password reset request via the <strong><a href="https://form.gov.sg/663c936ac6d018326a59cb75" rel="noopener noreferrer nofollow" target="_blank">form</a></strong>.</p>
-<p>How to reset MIMS password</p>
+<p><strong>How to reset MIMS password</strong>
+</p>
 <p>After receiving the one time password (OTP) from your form teacher or
 ICT Manager;</p>
 <p>• Login to <strong><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard</a></strong>
