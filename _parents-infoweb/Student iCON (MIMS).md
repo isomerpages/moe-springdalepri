@@ -18,7 +18,7 @@ for a MIMS password reset.</p>
 <p>How to reset MIMS password</p>
 <p>After receiving the one time password (OTP) from your form teacher or
 ICT Manager;</p>
-<p>• Login to <strong><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard</a></strong> 
+<p>• Login to <strong><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard</a></strong>
 </p>
 <p>• Enter MIMS ID and OTP</p>
 <p>• To proceed with password reset, enter the same OTP as ‘Current Password’</p>
