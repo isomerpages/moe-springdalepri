@@ -13,18 +13,28 @@ variant: markdown
 [T1 Newsletter (Middle Primary)](/files/T1_Newsletter__MP_.pdf)
 <br>
 [T1 Newsletter (Upper Primary)](/files/T1_Newsletter__UP_.pdf)
+<br>
+
+[T2 Newsletter (Lower Primary) ](/files/T2_Newsletter_LP.pdf)
+<br>
+[T2 Newsletter (Middle Primary)](/files/T2_Newsletter_MP.pdf)
+<br>
+[T2 Newsletter (Upper Primary)](/files/T2_Newsletter_UP.pdf)
+
+
 ##### Sem 2 Newsletter (2023)
 
 [T3 Newsletter (Lower Primary)](https://go.gov.sg/t3newsletterlp)
-
+<br>
 [T3 Newsletter (Middle Primary)](https://go.gov.sg/t3newslettermp)
-
+<br>
 [T3 Newsletter (Upper Primary)](https://go.gov.sg/t3newsletterup)
+<br>
 
 [T4 Newsletter (Lower Primary)](/files/T4_Newsletter__LP__compressed.pdf)
-
+<br>
 [T4 Newsletter (Middle Primary)](/files/T4_Newsletter__MP_.pdf)
-
+<br>
 [T4 Newsletter (Upper Primary)](/files/T4_Newsletter__UP_.pdf)
 
 ##### Hari Raya Puasa 2023
