@@ -1666,14 +1666,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Nurulelma </strong>
+<p><strong>Ms Nurulelma</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Art</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurulelma_abdul_wahab@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurulelma_abdul_wahab@moe.edu.sg</a> 
+<p><a href="mailto:nurulelma_abdul_wahab@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurulelma_abdul_wahab@moe.edu.sg</a>
 </p>
 </td>
 </tr>
