@@ -45,5 +45,4 @@ variant: markdown
 |Name | Position |
 | -------- | -------- |
 |**Mr Ghazali B Md Ibrahim**|Lead Teacher (Educational Support)
-|**Mdm Aw Mui Na Emily**|Senior Teacher (Educational Support)
 |**Mdm Soh Yen Peng Lynette**|Senior Teacher (Character & Citizenship Education)
