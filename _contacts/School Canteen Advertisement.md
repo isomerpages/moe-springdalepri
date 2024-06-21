@@ -43,7 +43,7 @@ description: ""
 <p>31st December 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sell non-Halal noodle dishes</p>
+<p>Sell non-Halal noodle dishes</p>
 </td>
 </tr>
 </tbody>
