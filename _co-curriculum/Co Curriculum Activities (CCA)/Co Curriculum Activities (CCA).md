@@ -49,7 +49,7 @@ Please take note of the respective dates, timing and levels as shown in the foll
 
 1. Each student will only be allocated 1 CCA. Participation in additional CCA may only be allowed on a case-by-case basis.
 
-2. Students must remain in their CCA for the whole year. They may only change to a new CCA at the beginning of each year, which is subject to availability and on a case-by-case basis. All requests must be made through email to to the point of contact, Mr Leonard Toh (toh_jia_bin_leonard@moe.edu.sg) only at the end of the year (**Term 4 Week 5 to Week 9**). The school encourages all students to remain in the CCA in order to deepen their skills, knowledge and friendships in the CCA.
+2. Students must remain in their CCA for the whole year. They may only change to a new CCA at the beginning of each year, which is subject to availability and on a case-by-case basis. All requests must be made through email to the point of contact, Mr Leonard Toh (toh_jia_bin_leonard@moe.edu.sg) only at the end of the year (**Term 4 Week 5 to Week 7**). The school encourages all students to remain in the CCA in order to deepen their skills, knowledge and friendships in the CCA.
 
 3.	Students who may be involved in future inter-school competitions may be asked to attend additional training sessions in the afternoons and/or during school holidays.
 
