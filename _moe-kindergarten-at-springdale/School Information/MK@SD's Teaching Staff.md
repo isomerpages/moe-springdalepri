@@ -40,6 +40,7 @@ variant: markdown
 |**Mdm Siaw Pey King**|Chinese Language|[siaw_pey_king_a@moe.edu.sg](mailto:Siaw_pey_king_a@moe.edu.sg)
 |**Miss Maggie Chan Miao Hui**|Chinese Language|[maggie_chan_miao_hui@moe.edu.sg](mailto:Maggie_chan_miao_hui@moe.edu.sg)
 |**Mdm Qiu Xiaomin**|Chinese Language|[qiu_xiaomin@moe.edu.sg](mailto:qiu_xiaomin@moe.edu.sg)
+|**Mdm Yuan Shuai**|Chinese Language|[yuan_shuai_B@moe.edu.sg](mailto:qiu_xiaomin@moe.edu.sg)
 |**Miss Nurul Nadhira Bte Salim**|Malay Language|[nurul_nadhira_salim@moe.edu.sg](mailto:nurul_nadhira_salim@moe.edu.sg)
 |**Miss Haizayani Bte Hasim**|Malay Language| [haizayani_hasim@moe.edu.sg](mailto:haizayani_hasim@moe.edu.sg)
 |**Mdm Subathira**|Tamil Language|[subathira_Krishnan@moe.edu.sg](mailto:subathira_Krishnan@moe.edu.sg)
