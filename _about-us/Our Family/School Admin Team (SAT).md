@@ -8,15 +8,14 @@ variant: markdown
 **Administrative & Operation Staff**
 
 | Name| Position |
-| -------- | -------- | 
-| **Mdm Chow Shin Ye**     | Administration Manager     | 
+| -------- | -------- |     
 |**Mr Anthony Augustin**|Operation Manager 1
 |**Mr Heng Chai Boon Eddie**|Operation Manager 2
+|**Ms Leong Su Yee Emily**     | Administration Manager 1
+|**Ms Nur Farhana Binte Salwar**      | Administration Manager 2
 |**Ms Rafizan Binte Roslan**|Administration Executive @ MK
-|**Mdm Dian Farhana Binte Abdul Razak**|Corporate Support Officer
 |**Mdm Florence Cho Poh Chan**|Corporate Support Officer
-|**Mdm Vernetta Chan**|Administration Executive
-|**Mdm Sharon Lim**|Corporate Support Officer
+|**Mdm Vanessa Eng**|Corporate Support Officer
 |**Mdm Teo Geok Mui**|Operations Support Officer
 |**Mdm Fu Xuejuan**|Operations Support Officer
 |**Mdm Pan Lian**|Operations Support Officer
