@@ -492,6 +492,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nurulhuda</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Nurulhuda_Mohamad_Mudhakir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nurulhuda_Mohamad_Mudhakir@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Primary 3 Teachers</strong>
@@ -752,7 +764,7 @@ variant: tiptap
 <p>Ms Guo Haiming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:guo_haiming_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_haiming_a@moe.edu.sg</a> 
+<p><a href="mailto:guo_haiming_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_haiming_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
