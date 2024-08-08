@@ -146,7 +146,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Diana Chan</p>
+<p>Ms Diana Chan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;<a href="mailto:chan_hui_min_diana@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_hui_min_diana@moe.edu.sg</a>
