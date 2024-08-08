@@ -741,6 +741,19 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">sunita_mohandas@moe.edu.sg</a>
 </p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Guo Haiming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:guo_haiming_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_haiming_a@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -1407,7 +1420,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_wei_ying_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wei_ying_a@moe.edu.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
