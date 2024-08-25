@@ -13,7 +13,8 @@ variant: markdown
 |**Mr Shoeb Burhanuddin**|Vice-Principal 1 (Academic)
 |**Mr Kelvin Ho**|Vice-Principal 2 (Student Development)
 |**Mdm Lim Bee Tin**|Vice-Principal (Administration)
-|**Ms Chow Shin Ye**|Administration Manager
+|**Ms Emily Leong**|Administration Manager 1
+|**Ms Nur Farhana Salwar**|Administration Manager 2
 |**Mr Anthony Augustin**|Operations Manager 1
 |**Mr Heng Chai Boon Eddie**|Operations Manager 2
 |**Mdm Nor Azila**|School Staff Developer
