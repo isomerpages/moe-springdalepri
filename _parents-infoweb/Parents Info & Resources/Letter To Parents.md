@@ -15,5 +15,3 @@ variant: markdown
 [T3 Newsletter (Middle Primary)](https://drive.google.com/file/d/1HMXkX4pJ5fxEJ7RlGldq0JsY-bfWMJKW/view?usp=sharing)
 
 [T3 Newsletter (Upper Primary)](/files/T1%20Newsletter%20(UP).pdf)
-
-
