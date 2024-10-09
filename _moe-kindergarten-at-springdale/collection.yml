@@ -2,7 +2,6 @@ collections:
   moe-kindergarten-at-springdale:
     output: true
     order:
-      - 2024 MK@SD Open House.md
       - School Information/.keep
       - School Information/MK@SD's Teaching Staff.md
       - School Information/School Hours.md
