@@ -185,16 +185,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Kavinesh Rajamanickam</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Fitri Ismail</strong>
+<p><strong>Ms Shamini Subramaniam</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
