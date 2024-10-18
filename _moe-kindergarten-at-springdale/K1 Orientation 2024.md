@@ -1,6 +1,6 @@
 ---
-title: K1 Orientation 2025
-permalink: /k1-orientation-2025/
+title: K1 Orientation 2024
+permalink: /k1-orientation-2024/
 variant: tiptap
 description: ""
 ---
