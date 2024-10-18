@@ -7,7 +7,7 @@ description: ""
 <p>Dear parents,</p>
 <p>Please click the following links to access the slides from our online
 K1 Orientation Briefing:</p>
-<p><a href="/files/MKSD_K1_Orientation_2024_slides.pdf" rel="noopener nofollow" target="_blank">1. MK K1 Orientation Slides_2025</a>
+<p><a href="https://drive.google.com/file/d/1Bf5ACenuLZwPkSJbrDAhkYjCbeZ4yNwN/view?usp=sharing" rel="noopener nofollow" target="_blank">1. MKSD K1 Orientation Briefing Slides</a>
 </p>
-<p><a href="/files/MKSD_KCare_K1_Orientation_2024_slides.pdf" rel="noopener nofollow" target="_blank">2. KCare K1 Orientation Slides_2025</a>
+<p><a href="https://drive.google.com/file/d/1GdptCTOcqs3x8a6vio_fEQquyTj9u9F0/view?usp=sharing" rel="noopener nofollow" target="_blank">2. MKSD KCare Orientation Briefing Slides</a>
 </p>
