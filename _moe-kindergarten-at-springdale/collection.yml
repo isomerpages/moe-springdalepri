@@ -2,6 +2,7 @@ collections:
   moe-kindergarten-at-springdale:
     output: true
     order:
+      - K1 Orientation 2025.md
       - School Information/.keep
       - School Information/MK@SD's Teaching Staff.md
       - School Information/School Hours.md
