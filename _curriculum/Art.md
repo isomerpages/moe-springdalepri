@@ -50,6 +50,5 @@ C. Learning Outcomes for Primary 5 &amp; 6
 Artmazing@SDPS App: [Artmazing@SDPS](https://sdpsapps.wixsite.com/sdpsart)
 
 
-
-[Art Gallery 2023](https://www.canva.com/design/DAGTmFYZI1g/YaBsNmSGuo-30hVlLeVB8g/view) ||
-[Art Gallery 2024](https://www.canva.com/design/DAGRve2uoBY/l3tloYhT-RwGVuV2ODq3QQ/view)
+<br>[Art Gallery 2023](https://www.canva.com/design/DAGTmFYZI1g/YaBsNmSGuo-30hVlLeVB8g/view) ||
+[Art Gallery 2024](https://www.canva.com/design/DAGRve2uoBY/l3tloYhT-RwGVuV2ODq3QQ/view)<br>
