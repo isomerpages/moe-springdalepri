@@ -17,8 +17,10 @@ variant: markdown
 ![](/images/RHD2024.png)
 
 **National Day**
-
+![](/images/ND2024.png)
 
 **Childrens' Day**
 ![](/images/CD2024.png)
 
+**K2 Celebrates**
+![](/images/School_Website_Template__School_Events___1_.png)
