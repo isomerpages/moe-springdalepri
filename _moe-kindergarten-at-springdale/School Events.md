@@ -2,6 +2,7 @@
 title: School Events
 permalink: /moe-kindergarten-at-springdale/School-Events/
 description: ""
+variant: markdown
 ---
 **Chinese New Year**
 ![](/images/Chinese%20New%20Year.png)
@@ -12,7 +13,12 @@ description: ""
 **Hari Raya Aidilfitri**
 ![](/images/hari%20raya.png)
 
-**Childrens' Day**
-![](/images/childrens'%20day%20carnival.png)
+**Racial Harmony Day**
+![](/images/RHD2024.png)
 
-Stay tuned for more photos!
+**National Day**
+
+
+**Childrens' Day**
+![](/images/CD2024.png)
+
