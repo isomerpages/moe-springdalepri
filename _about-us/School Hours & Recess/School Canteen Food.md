@@ -3,6 +3,7 @@ title: School Canteen Food
 permalink: /about-us/School-Hours-and-Recess/School-Canteen-Food/
 description: ""
 third_nav_title: School Hours & Recess
+variant: markdown
 ---
 The school plays an integral role in providing an environment that ensures the students pick up healthy eating habits from young since they are likely to consume at least one meal daily in the canteen. As such, the school has embarked on the Healthy Meals in Schools Programme (HMSP) in collaboration with Health Promotion Board (HPB) since 2013. Through this programme, the school hopes to provide healthier food and beverage choices to meet the students’ growing needs.  
   
@@ -29,4 +30,4 @@ Parents can thus be assured that their children in school are eating meals or sn
 
 #### **School Canteen Stall Menu**
 
-Parents may click [here](/files/SDPS%20Canteen%20Menu%20updated%2015%20Feb%202023.pdf)
+Parents may click [here](file:///C:/Users/S9302796E/Documents/Canteen%20stall%20menus_05112024.pdf)
