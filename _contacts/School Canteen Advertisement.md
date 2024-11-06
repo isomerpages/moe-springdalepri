@@ -26,17 +26,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Malay noodles</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>31st December 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sell Halal dishes - Noodles, mee siam, laksa, mee soto, etc</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Noodles</p>
 </td>
 <td rowspan="1" colspan="1">
