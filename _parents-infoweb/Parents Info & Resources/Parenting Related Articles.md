@@ -3,6 +3,7 @@ title: Parenting Related Articles
 permalink: /parents-infoweb/Parents-Info-and-Resources/Parenting-Related-Articles/
 description: ""
 third_nav_title: Parents Info & Resources
+variant: markdown
 ---
 #### ARTICLES ON PARENTING  
 
@@ -11,10 +12,10 @@ Here are some articles containing research findings and useful tips on parenting
 ##### USEFUL INFORMATION ABOUT PRIMARY EDUCATION IN SINGAPORE
 
 *   Primary Education – General Information  
-    Please visit the [MOE Website](http://moe.gov.sg/education/primary/) for more information.
-*   The Ministry of Education accepted the recommendations by the Primary Education Review and Implementation (PERI) Committee in April 2009. Find out what [primary education](http://www.primaryeducation.sg/) would be like. Learn more about your child's education journey by reading the [booklet on Primary School Education](http://moe.gov.sg/education/primary/files/primary-school-education-booklet.pdf) (1.2mb .pdf)  
+    Please visit the MOE Website for more information.
+*   The Ministry of Education accepted the recommendations by the Primary Education Review and Implementation (PERI) Committee in April 2009. Find out what primary education would be like. Learn more about your child's education journey by reading the booklet on Primary School Education.
     
-*   MOE Seminars for Parents - To support parents in making informed decisions about education pathways, MOE conducts seminars on primary and secondary school education for parents with children in K1/K2 and Primary 6 respectively. Please visit the [MOE Website](http://moe.gov.sg/education/primary/) for more information.
+*   MOE Seminars for Parents - To support parents in making informed decisions about education pathways, MOE conducts seminars on primary and secondary school education for parents with children in K1/K2 and Primary 6 respectively. Please visit the MOE Website for more information.
 
   
 
@@ -22,7 +23,7 @@ Here are some articles containing research findings and useful tips on parenting
 
 *   As part of MOE’s efforts in promoting Values-In-Action (VIA), a “Keep Singapore Clean Movement in Schools” was launched by Minister for Education, Mr Heng Swee Keat, in Jun 2014.  All students are encouraged to propose ideas to keep the school and neighbourhood clean, put their ideas into action and carry them out on a sustained basis so that these good habits can be internalised.   
     
-*   The values of care and responsibility for our environment and community start at home. We hope that parents could join us to encourage your child to keep their environment clean.  You can find out more information on the movement in schools and what students can learn through it by clicking [here](http://www.moe.gov.sg/media/press/2014/07/keep-singapore-clean-movement-in-schools.php).  
+*   The values of care and responsibility for our environment and community start at home. We hope that parents could join us to encourage your child to keep their environment clean.  You can find out more information on the movement in schools and what students can learn through it.
     
 
   
@@ -40,9 +41,6 @@ You can build your awareness of the kinds of activities that take place in cyber
 *   Reassure your child that it is all right to ask you questions or talk to you if they run into problems with someone online.  
     
 
-More tips on cyber-wellness can be found on the [Parents in Education](http://parents-in-education.moe.gov.sg/resources-and-references/how-can-i-support-my-child-s-growth-and-development/cyber-wellness/tips-and-advice-for-parents) website.  
-  
-You can also read about what parents learnt at a recent seminar jointly organized by the Ministry of Education and the Media Development Authority on “Digital Parenting in the 21st Century” [here](http://schoolbag.sg/story/digital-parenting-in-the-21st-century).  
   
 
 #### HEALTH RELATED MATTERS
@@ -64,8 +62,6 @@ Please follow these four steps if you suspect that your child may have contracte
 4.  Look for blisters on the Feet. Check for bumps/blisters on the upper part of the feet first then the soles.
 
   
-For more information, please visit the HPB information site at the following address: [http://www.hpb.gov.sg/HOPPortal/health-article/792](http://www.hpb.gov.sg/HOPPortal/health-article/792)
-
   
 
 We seek your support and co-operation in helping us ensure a clean and safe environment for your child.
