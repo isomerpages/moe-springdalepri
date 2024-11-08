@@ -51,25 +51,6 @@ variant: tiptap
 从2013年起，“欢乐小镇”并入“学乐网”。此网站让学生通过有趣、互动的方式学习华文。</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>小学华文课程标准 2015</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>明课程理念、课程总目标、课程架构、分项目标以及实施建议的文件。
-<br>
-<br><a href="http://www.moe.gov.sg/education/syllabuses/mother-tongue-languages/files/chinese-primary-2015.pdf" rel="noopener noreferrer nofollow" target="_blank">http://www.moe.gov.sg/education/syllabuses/mother-tongue-languages/files/chinese-primary-2015.pdf</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
