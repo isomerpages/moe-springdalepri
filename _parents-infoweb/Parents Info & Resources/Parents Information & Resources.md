@@ -44,7 +44,7 @@ May 2018
 
 To find out more about SkillsFuture  
 
-*   Stay updated at:&nbsp;&nbsp;[http://www.skillsfuture.sg](http://www.skillsfuture.sg/)  
+*   Stay updated at:&nbsp;&nbsp; [https://www.myskillsfuture.gov.sg](https://www.myskillsfuture.gov.sg/)  
     
 *   Like us on Facebook:&nbsp;&nbsp;[http://www.facebook.com/skillsfuturesg](http://www.facebook.com/skillsfuturesg)  
     
