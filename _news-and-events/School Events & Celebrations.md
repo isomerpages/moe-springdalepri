@@ -16,9 +16,9 @@ variant: tiptap
 <br><a href="/files/T2_Newsletter_UP.pdf" rel="noopener noreferrer nofollow" target="_blank">T2 Newsletter (Upper Primary)</a>
 </p>
 <h5>Sem 2 Newsletter (2024)</h5>
-<p><a href="https://go.gov.sg/t3newsletterlp" rel="noopener noreferrer nofollow" target="_blank">T3 Newsletter (Lower Primary)</a>
-<br><a href="https://go.gov.sg/t3newslettermp" rel="noopener noreferrer nofollow" target="_blank">T3 Newsletter (Middle Primary)</a>
-<br><a href="https://go.gov.sg/t3newsletterup" rel="noopener noreferrer nofollow" target="_blank">T3 Newsletter (Upper Primary)</a>
+<p><a href="https://go.gov.sg/t3newsletterlp" rel="noopener noreferrer nofollow" target="_blank">T3 Newsletter (Lower Primary) 2023</a>
+<br><a href="https://go.gov.sg/t3newslettermp" rel="noopener noreferrer nofollow" target="_blank">T3 Newsletter (Middle Primary) 2023</a>
+<br><a href="https://go.gov.sg/t3newsletterup" rel="noopener noreferrer nofollow" target="_blank">T3 Newsletter (Upper Primary) 2023</a>
 <br>
 </p>
 <p><a href="/files/T4_Newsletter_LP.pdf" rel="noopener nofollow" target="_blank">T4 Newsletter (Lower Primary)</a>
