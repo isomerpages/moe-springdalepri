@@ -100,9 +100,8 @@ the guide.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Purchase of school textbooks:&nbsp; </strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.blmarketing.sg</a>
-</p>
-<p>(Online only)</p>
+<p><strong>Purchase of school textbooks:&nbsp; </strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.blmarketing.sg </a>(Online
+only)</p>
 <p>&nbsp;</p>
 <p>Collection Hours: 9.00am – 3.00pm</p>
 <p>&nbsp;</p>
