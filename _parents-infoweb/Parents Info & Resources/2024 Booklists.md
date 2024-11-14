@@ -5,42 +5,46 @@ variant: markdown
 description: ""
 third_nav_title: Parents Info & Resources
 ---
-#### 2024 Booklists
+#### 2025 Booklists
 
 ##### Primary One
-[P1 Booklist](/files/2024_SDPS_P1.pdf)
+[P1 Booklist](/files/2025_Primary_1_Booklist.pdf)
 
 ##### Primary Two
-[P2 Booklist](/files/2024_SDPS_P2.pdf)
+[P2 Booklist](/files/2025_Primary_2_Booklist.pdf)
 
 ##### Primary Three
-[P3 Booklist](/files/Booklist_2024_SDPS_P3.pdf)
+[P3 Booklist](/files/2025_Primary_3_Booklist.pdf)
 
-[P3 Booklist (Higher Mother Tongue)](/files/Booklist_2024_SDPS_P3_HMT.pdf)
+[P3 Booklist (Higher Mother Tongue)](/files/2025_Primary_3__HMT__Booklist.pdf)
 
 ##### Primary Four
-[P4 Booklist](/files/Booklist_2024_SDPS_P4.pdf)
+[P4 Booklist](/files/2025_Primary_4_Booklist.pdf)
 
-[P4 Booklist (Higher Mother Tongue)](/files/Booklist_2024_SDPS_P4_HMT.pdf)
+[P4 Booklist (Higher Mother Tongue)](/files/2025_Primary_4__HMT__Booklist.pdf)
 
 ##### Primary Five
-[P5 Booklist](/files/Booklist_2024_SDPS_P5.pdf)
 
-[P5 Booklist (Higher Mother Tongue)](/files/Booklist_2024_SDPS_P5_HMT.pdf)
+[P5 Booklist](/files/Primary_5_Booklist.pdf)
 
-[P5 Booklist (3S1F - Foundation Mathematics)](/files/Booklist_2024_SDPS_P5__3S1F_MA_.pdf)
+[P5 Booklist ((3S1F,MA))](/files/2025_Primary_5__3S1F_MA__Booklist.pdf)
+
+[P5 Booklist (Higher Mother Tongue)](/files/2025_Primary_5__HMT__Booklist.pdf)
+
 
 ##### Primary Six
-[P6 Booklist](/files/Booklist_2024_SDPS_P6.pdf)
 
-[P6 Booklist (Higher Mother Tongue)](/files/Booklist_2024_SDPS_P6_HMT.pdf)
 
-[P6 Booklist (Foundation)](/files/Booklist_2024_SDPS_P6_4F.pdf)
+[P6 Booklist](/files/2025_Primary_6_Booklist.pdf)
 
-[P6 Booklist (3S1F - Foundation Mother Tongue)](/files/Booklist_2024_SDPS_P6__3S1F_MT_.pdf)
+[P6 Booklist (Higher Mother Tongue)](/files/2025_Primary_6__HMT__Booklist.pdf)
 
-[P6 Booklist (3S1F - Foundation Mathematics)](/files/Booklist_2024_SDPS_P6__3S1F_MA_.pdf)
+[Primary 6 Foundation](/files/2025_Primary_6__4F__Booklist.pdf)
 
-[P6 Booklist (2S2F - Foundation Mathematics & Science)](/files/Booklist_2024_SDPS_P6__2S2F_MASC_.pdf)
+[Primary 6 (3S1F, MT) Booklist](/files/2025_Primary_6__3S1F__MT__Booklist.pdf)
 
-[P6 Booklist (2S2F - Foundation Mathematics & Mother Tongue)](/files/Booklist_2024_SDPS_P6__2S2F_MAMT_.pdf)
+[Primary 6 (3S1F, MA) Booklist](/files/2025_Primary_6__3S1F__MA__Booklist.pdf)
+
+[Primary 6 (2S2F, MASC) Booklist](/files/2025_Primary_6__2S2F__MASC__Booklist.pdf)
+
+[Primary 6 (2S2F, MAMT) Booklist](/files/2025_Primary_6__2S2F__MAMT__Booklist.pdf)
