@@ -41,8 +41,9 @@ at 62848785 to make alternative arrangements.</p>
 </p>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p><strong>Purchase of school uniforms: </strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.magdalene.com.sg/</a><strong><a rel="noopener noreferrer nofollow" target="_blank"><br></a>Timing</strong>:
-9.00am – 3.00pm</p>
+<p><strong>Purchase of school uniforms: </strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.magdalene.com.sg/</a>
+</p>
+<p><strong>Timing</strong>: 9.00am – 3.00pm</p>
 </li>
 </ol>
 <p><strong>&nbsp;</strong>
