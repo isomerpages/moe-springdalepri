@@ -52,10 +52,9 @@ etc</p>
 <p></p>
 <p><strong>Application Procedure</strong>
 </p>
-<p>1. Download and complete the application form. You may also request for
-a hardcopy from the School’s General Office.</p>
-<p><a href="/files/Application_Form_for_canteen.pdf" rel="noopener noreferrer nofollow" target="_blank">[Application Form]</a>
-</p>
+<p>1. Download and complete the <a href="/files/application form for canteen stall.pdf" rel="noopener noreferrer nofollow" target="_blank">application form</a>.
+You may also request for a hardcopy from the School’s General Office.</p>
+<p></p>
 <p></p>
 <p>2. Attached the following documents together with the application form:</p>
 <ul data-tight="true" class="tight">
