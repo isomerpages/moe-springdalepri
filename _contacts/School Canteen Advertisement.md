@@ -26,6 +26,18 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Rice</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31st December 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sell Halal dishes – Malay mixed rice, nasi lemak, rice/curry chicken and
+etc</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Noodles</p>
 </td>
 <td rowspan="1" colspan="1">
