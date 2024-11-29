@@ -5,8 +5,18 @@ description: ""
 third_nav_title: Parents Info & Resources
 variant: markdown
 ---
+#### 2025 Back to school : Packing list
+1. [Letter to P1 2025 Parents (P1 Packing List for Day 1 to Day 3)](/files/Letter_to_P1_2025_Parents__P1_Packing_List_for_Day_1_to_Day_3_.pdf) <br>
+2. [Letter to P1 Parents (P2 Packing List for 2025)](/files/Letter_to_P1_2025_Parents__P1_Packing_List_for_Day_1_to_Day_3_.pdf)<br>
+3. [Letter to P2 Parents (P3 Packing List for 2025)](/files/Letter_to_P2_Parents__P3_Packing_List_for_2025_.pdf) <br>
+4. [Letter to P3 Parents (P4 Packing List for 2025)](/files/Letter_to_P3_Parents__P4_Packing_List_for_2025_.pdf) <br>
+5. [Letter to P4 Parents (P5 Packing List for 2025)](/files/Letter_to_P4_Parents__P5_Packing_List_for_2025_.pdf) <br>
+6. [Letter to P5 Parents (P6 Packing List for 2025)](/files/Letter_to_P5_Parents__P6_Packing_List_for_2025_.pdf)
+
+##### P1 Parents Information
+
 [P1 Cyber Wellness](/files/P1_Cyber_Wellness.pdf)<br>
-[P1 Parenting Resources](/files/P1_Parenting_Resources.pdf)
+[P1 Parenting Resources](/files/P1_Parenting_Resources.pdf) <br>
 
 *   [Slides for Sharing &amp; Seminars in Springdale Primary School](/parents-infoweb/Parents-Info-and-Resources/Sharing-Slides-For-Seminars-and-Sharing)  
 
