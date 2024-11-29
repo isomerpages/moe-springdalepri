@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Parents Info & Resources
 variant: markdown
 ---
-#### 2025 Back to school Packing list
+#### 2025 Back to school : Packing list
 1. [Letter to P1 2025 Parents (P1 Packing List for Day 1 to Day 3)](/files/Letter_to_P1_2025_Parents__P1_Packing_List_for_Day_1_to_Day_3_.pdf) <br>
 2. [Letter to P1 Parents (P2 Packing List for 2025)](/files/Letter_to_P1_2025_Parents__P1_Packing_List_for_Day_1_to_Day_3_.pdf)<br>
 3. [Letter to P2 Parents (P3 Packing List for 2025)](/files/Letter_to_P2_Parents__P3_Packing_List_for_2025_.pdf) <br>
