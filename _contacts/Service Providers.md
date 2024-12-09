@@ -46,7 +46,7 @@ variant: tiptap
 <br>
 <br>Email:
 <br>info@magdalene.com.sg
-<br>https://www.magdalene.com.sg/
+<br><a href="https://www.magdalene.com.sg/" rel="noopener nofollow" target="_blank">https://www.magdalene.com.sg/ </a>
 <br>
 <br>- School uniforms are also sold at the school book
 <br>
@@ -57,7 +57,7 @@ this QR code:
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ordering of Name Tags" src="/images/Ordering_of_Name_tags.png">
 </div>
-<p>
+<p><a href="https://www.stitchwerkz.sg/springdale-primary" rel="noopener noreferrer nofollow" target="_blank">https://www.stitchwerkz.sg/springdale-primary</a>
 <br>
 </p>
 </td>
