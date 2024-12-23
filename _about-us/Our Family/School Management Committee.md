@@ -23,14 +23,14 @@ variant: markdown
 |**Mdm Teng Yan Ling**|Head of Department (Science)
 |**Mdm Lee Shirui**|Head of Department (ICT & Data Management)
 |**Mr Resham Bin Abdul Razak**|Subject Head (Data Management)
-|**Mr Jufri**| Head of Department (PE & Aesthetics)
+|**Mr Jufri Bin Mohamed Hamzah **| Head of Department (PE & Aesthetics)
 |**Mrs Ho-Tan Gek Hiang**|Subject Head (Aesthetics)
 |**Mr Leonard Toh**|Subject Head (CCA Coordinator)
 |**Mdm Dewi Juliana**| Head of Department (Special Educational Support & Education Support)
 |**Ms Noor Ezaida Binte Abdul**| Asst. Year Head cum Covering Head of Department (Student Management)
 |**Mr Tham Otto**| Subject Head (Student Discipline)
 |**Ms Tan Zi Hui Charmian**| Head of Department (Character & Citizenship Education)
-|**Mdm Abidah**| Year Head (Upper Primary) – P1 & P6 
+|**Mdm Abidah Bibi Marikar**| Year Head (Upper Primary) – P1 & P6 
 |**Mr Sean Lim Tong Lee**|	Year Head (Middle Primary) – P4 & P5
 |**Mrs Jaslyn Lim**|Year Head (Lower Primary) – P2 & P3
 
