@@ -25,10 +25,10 @@ variant: markdown
 |**Mdm Wina**|[wina_a@moe.edu.sg](mailto:Wina_a@moe.edu.sg)
 |**Miss Lynette Teo**|[teo_li_qin_lynette@moe.edu.sg](mailto:Teo_li_qin_lynette@moe.edu.sg)
 |**Mdm Siti Nurain Binte Haron** |[siti_nurain_haron@moe.edu.sg](mailto:Siti_nurain_haron@moe.edu.sg)
-|**Mdm Veronica**|[veronica_charles_anbalagan@moe.edu.sg](mailto:Veronica_charles_anbalagan@moe.edu.sg)
 |**Miss Wong Wanjun**|[wong_wanjun@moe.edu.sg](mailto:Wong_wanjun@moe.edu.sg)
 |**Miss Low Yun Yi, Alethea**|[low_yun_yi_alethea@moe.edu.sg](mailto:low_yun_yi_alethea@moe.edu.sg)
 |**Miss Tan Chew Yu**|[tan_chew_yu_a@moe.edu.sg](mailto:Wong_wanjun@moe.edu.sg)
+|**Miss Siti Nazurah**|[siti_nazurah_rindra_mokhtar@moe.edu.sg](mailto:siti_nazurah_rindra_mokhtar@moe.edu.sg)
 
 ##### Mother Tongue Language  Kindergarten Teachers
 
