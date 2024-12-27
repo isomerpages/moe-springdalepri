@@ -2,6 +2,7 @@ collections:
   parents-infoweb:
     output: true
     order:
+      - School Calendar.md
       - Student iCON (MIMS).md
       - Parents Info & Resources/2025 Booklists.md
       - Parents Info & Resources/MOE Financial Assistance Scheme (FAS).md
