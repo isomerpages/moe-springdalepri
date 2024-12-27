@@ -84,3 +84,16 @@ view the&nbsp;MOE FAS Application Form</p>
 submit the Wait List Application Form for your child to be placed on the
 Wait List.</p>
 <p>Thank you.</p>
+<p></p>
+<h4><strong>Application Form for Leave of Absence</strong></h4>
+<p>Dear Parents,</p>
+<p>Please click <a href="https://form.gov.sg/60b9859d6995cb00125e9e66" rel="noopener nofollow" target="_blank">here</a> to
+submit the Application Form for Leave of Absence for your.</p>
+<p>Please note that LOA will need to be renewed every year and payment can
+only be done on a per year basis.</p>
+<p>You may visit <a href="https://www.moe.gov.sg/returning-singaporeans/going-overseas/loa-scheme" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/returning-singaporeans/going-overseas/loa-scheme</a>,
+for more info.</p>
+<p>Thank you.</p>
+<p></p>
+<p></p>
+<p></p>
