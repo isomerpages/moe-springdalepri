@@ -29,7 +29,7 @@ description: ""
 <p>Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31st December 2024</p>
+<p>28th February 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sell Halal dishes – Malay mixed rice, nasi lemak, rice/curry chicken and
