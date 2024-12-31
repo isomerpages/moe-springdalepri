@@ -1317,14 +1317,54 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Li Xin</strong>
+<p><strong>Mr Frank Kwang Yu Fung</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Li_Xin_D@moe.edu.sg</a>
+<p><a href="mailto:kwang_yu_fung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwang_yu_fung@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Mei TianTian</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mei_tiantian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mei_tiantian@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Tan Wan Ting Clara</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_wan_ting_clara@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wan_ting_clara@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Goh Huang Yiing</strong>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_huang_yiing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_huang_yiing@moe.edu.sg</a>
 </p>
 </td>
 </tr>
