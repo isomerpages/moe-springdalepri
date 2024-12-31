@@ -1,6 +1,6 @@
 ---
 title: Teaching Staff 2025
-permalink: /about-us/our-family/teaching-staff-2025/
+permalink: /about-us/our-family/teaching-staff-2024/
 description: ""
 third_nav_title: Our Family
 variant: tiptap
