@@ -877,7 +877,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:baljeet_kaur_grewal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">baljeet_kaur_grewal@schools.gov.sg</a>
+<p><a href="mailto:baljeet_kaur_grewal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">baljeet_kaur_grewal@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1298,7 +1298,7 @@ variant: tiptap
 <p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="koh_xiao_han_marilyn@moe.edu.s" rel="noopener noreferrer nofollow" target="_blank">koh_xiao_han_marilyn@moe.edu.s</a>
+<p><a href="koh_xiao_han_marilyn@moe.edu.s" rel="noopener noreferrer nofollow" target="_blank">koh_xiao_han_marilyn@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1337,7 +1337,7 @@ variant: tiptap
 <p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mei_tiantian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mei_tiantian@schools.gov.sg</a>
+<p><a href="mailto:mei_tiantian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mei_tiantian@moe.edu.sg</a>
 </p>
 </td>
 </tr>
