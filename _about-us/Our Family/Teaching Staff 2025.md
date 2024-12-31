@@ -1686,6 +1686,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Ms Nur Sanisah Binte Sani</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Welfare Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Nur_Sanisah_Sani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nur_Sanisah_Sani@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Ms Chen Xiu Wen</strong>
 </p>
 </td>
