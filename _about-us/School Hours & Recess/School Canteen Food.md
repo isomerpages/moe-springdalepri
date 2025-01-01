@@ -41,5 +41,4 @@ you can access more information on HPB website: &nbsp;<a href="http://www.hpb.go
 <p><a href="/files/Healthy%20Food%20Happier%20Children.pdf" rel="noopener noreferrer nofollow" target="_blank">Healthy Food Happier Children.pdf</a>
 </p>
 <h4><strong>School Canteen Stall Menu</strong></h4>
-<p>Parents may click&nbsp;<a href="/files/Canteen_stall_menus_05112024.pdf" rel="noopener nofollow" target="_blank">here.</a>
-</p>
+<p>Parents may click&nbsp;<a href="/files/Canteen_stall_menus_01012025.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
