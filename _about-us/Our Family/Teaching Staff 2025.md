@@ -489,7 +489,7 @@ variant: tiptap
 <p>Mr Mohamad Yusman Bin Selamat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">mohamad_yusman_selamt@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">mohamad_yusman_selamat@moe.edu.sg</a>
 </p>
 </td>
 </tr>

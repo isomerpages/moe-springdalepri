@@ -47,15 +47,15 @@ purpose. We focus on building resilience and confidence, equipping our
 students with the tools they need to overcome challenges and excel in the
 face of adversity.</p>
 <p>The core values of our school—respect, responsibility, resilience, integrity,
-compassion, and harmony—are fundamental in shaping the life skills of our
-students. These values guide the way our students relate to others, fostering
-a community of kindness, collaboration, and mutual respect. We believe
-in nurturing students who are not only academically successful but also
-kind, empathetic, and ready to make a positive impact on the world around
-them. I am excited to join the Springdale family and to work alongside
-a dedicated team of educators, staff, and parents in this shared mission.
-Together, I am confident that we will continue to grow, learn, and inspire
-one another in the years to come.</p>
+care, and harmony—are fundamental in shaping the life skills of our students.
+These values guide the way our students relate to others, fostering a community
+of kindness, collaboration, and mutual respect. We believe in nurturing
+students who are not only academically successful but also kind, empathetic,
+and ready to make a positive impact on the world around them. I am excited
+to join the Springdale family and to work alongside a dedicated team of
+educators, staff, and parents in this shared mission. Together, I am confident
+that we will continue to grow, learn, and inspire one another in the years
+to come.</p>
 <p>Thank you for the warm welcome, and I look forward to an exciting journey
 with all of you!</p>
 <p>Warm regards,
