@@ -32,28 +32,7 @@ variant: tiptap
 <br>Postal 408727
 <br>
 <br>Tel: 62848785
-<br>
 <br>Email: sales@blmarketing.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Magdalene Sewing Centre Pte Ltd</strong>
-<br>Address:
-<br>Tech Place II 5000 Ang Mo Kio Ave 5
-<br>#05-09, S(569870)
-<br>
-<br>Tel: 62935840
-<br>Tel: 86836993 (whatapps only)
-<br>
-<br>Email:
-<br>info@magdalene.com.sg
-<br><a href="https://www.magdalene.com.sg/" rel="noopener nofollow" target="_blank">https://www.magdalene.com.sg/ </a>
-<br>
-<br>- School uniforms are also sold at the school book
-<br>
-<br>- Order of name tags is to be made via the above website or by scanning
-this QR code:
-<br>
-</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -68,6 +47,27 @@ this QR code:
 </tr>
 </tbody>
 </table>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Magdalene Sewing Centre Pte Ltd</strong>
+<br>Address:
+<br>Tech Place II 5000 Ang Mo Kio Ave 5
+<br>#05-09, S(569870)
+<br>
+<br>Tel: 62935840
+<br>Tel: 86836993 (whatapps only)
+<br>
+<br>Email:
+<br>info@magdalene.com.sg
+<br><a href="https://www.magdalene.com.sg/" rel="noopener nofollow" target="_blank">https://www.magdalene.com.sg/ </a>
+<br>
+<br>- School uniforms are also sold at the school bookshop (Starting 10th
+Feb 2025 onwards)
+<br>
+<br>- Order of name tags is to be made via the above website or by scanning
+this QR code:
+<br>
+</p>
 <p><a href="https://www.stitchwerkz.sg/springdale-primary" rel="noopener noreferrer nofollow" target="_blank">https://www.stitchwerkz.sg/springdale-primary</a>
 <br>
 </p>
@@ -113,39 +113,24 @@ the guide.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Purchase of school textbooks:&nbsp; </strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.blmarketing.sg</a>
 </p>
-<p>(Online only)</p>
-<p>&nbsp;</p>
-<p>Collection Hours: 9.00am – 3.00pm</p>
-<p>&nbsp;</p>
-<p><u>Collection at the school on the following dates</u>
-</p>
-<p>• 28 &amp; 29 November 2024</p>
-<p>• 03, 04, 05, 06, 09, 17, 18 &amp; 19 December 2024</p>
-<p>•(FAS Collection Dates) 11, 12 &amp; 13 December 2024</p>
-<p>&nbsp;</p>
-<p>If your schedule does not meet the above, you may contact BL Marketing
-at 62848785 to make alternative arrangements.</p>
-<p>&nbsp;</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>&nbsp;The school bookshop is open daily during school term from 8am to
+3pm.</p>
+</li>
+<li>
+<p>Parents may visit the school bookshop during school term after 2pm.</p>
+</li>
+</ul>
+<p></p>
+<p></p>
+<p></p>
 <p>For any other enquiries, please email at <a rel="noopener noreferrer nofollow" target="_blank">sales@blmarketing.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Purchase of school uniforms: </strong><a href="https://www.magdalene.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.magdalene.com.sg/</a>
-</p>
-<p>Timing: 9.00am – 3.00pm</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><u>Purchase can be made at the school on the following dates</u>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>28 &amp; 29 November 2024</p>
-</li>
-<li>
-<p>03, 04, 05, 06, 09, 17, 18 &amp; 19 December 2024</p>
-</li>
-</ul>
-<p>(FAS Collection Dates) 11, 12 &amp; 13 December 2024</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
