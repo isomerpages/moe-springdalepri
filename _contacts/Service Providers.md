@@ -54,9 +54,20 @@ variant: tiptap
 this QR code:
 <br>
 </p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ordering of Name Tags" src="/images/Ordering_of_Name_tags.png">
 </div>
+</th>
+</tr>
+</tbody>
+</table>
 <p><a href="https://www.stitchwerkz.sg/springdale-primary" rel="noopener noreferrer nofollow" target="_blank">https://www.stitchwerkz.sg/springdale-primary</a>
 <br>
 </p>
