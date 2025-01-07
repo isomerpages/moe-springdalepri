@@ -25,7 +25,7 @@ variant: markdown
 |**Mr Resham Bin Abdul Razak**|Subject Head (Data Management)
 |**Mr Jufri Bin Mohamed Hamzah**| Head of Department (PE, Art & Music )
 |**Mrs Ho-Tan Gek Hiang**|Subject Head (Aesthetics)
-|**Mr Leonard Toh**|Subject Head (CCA )
+|**Mr Leonard Toh**|Subject Head (CCA)
 |**Mdm Dewi Juliana**| Head of Department (Special Educational Support & Education Support)
 |**Ms Noor Ezaida Binte Abdul**| Asst. Year Head cum Covering Head of Department (Student Management)
 |**Mr Tham Otto**| Subject Head (Student Discipline)
