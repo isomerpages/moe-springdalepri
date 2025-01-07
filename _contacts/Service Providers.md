@@ -32,7 +32,6 @@ variant: tiptap
 <br>Postal 408727
 <br>
 <br>Tel: 62848785
-<br>
 <br>Email: sales@blmarketing.sg</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -125,7 +124,6 @@ the guide.</p>
 </li>
 </ul>
 <p></p>
-<p>&nbsp;</p>
 <p></p>
 <p>&nbsp;</p>
 <p>For any other enquiries, please email at <a rel="noopener noreferrer nofollow" target="_blank">sales@blmarketing.sg</a>
