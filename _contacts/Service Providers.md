@@ -144,7 +144,7 @@ the guide.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>dtfghjb</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
