@@ -140,7 +140,6 @@ the guide.</p>
 </ul>
 <p></p>
 <p></p>
-<p></p>
 <p>For any other enquiries, please email at <a rel="noopener noreferrer nofollow" target="_blank">sales@blmarketing.sg</a>
 </p>
 </td>
