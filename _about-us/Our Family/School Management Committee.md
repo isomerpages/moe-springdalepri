@@ -43,4 +43,4 @@ variant: markdown
 |Name | Position |
 | -------- | -------- |
 |**Mr Ghazali B Md Ibrahim**|Lead Teacher (Educational Support)
-|**Mdm Soh Yen Peng Lynette**|Senior Teacher (Character & Citizenship Education)
+|**Mdm Soh Yen Peng Lynette (Mrs L. Wong)**|Senior Teacher (Character & Citizenship Education)
