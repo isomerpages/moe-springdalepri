@@ -63,9 +63,21 @@ this QR code:
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ordering of Name Tags" src="/images/Ordering_of_Name_tags.png">
+<img style="width: 100%" height="auto" width="100%" alt="stitchwerkz" src="/images/Ordering_of_Name_tags.png">
 </div>
+</th>
+</tr>
+</tbody>
+</table>
 </td>
 </tr>
 </tbody>
