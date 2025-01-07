@@ -32,21 +32,9 @@ variant: tiptap
 <br>Postal 408727
 <br>
 <br>Tel: 62848785
-<br>Email: sales@blmarketing.sg</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ordering of Name Tags" src="/images/Ordering_of_Name_tags.png">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
+<br>Email: <a href="mailto:sales@blmarketing.sg" rel="noopener noreferrer nofollow" target="_blank">sales@blmarketing.sg</a>
+</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Magdalene Sewing Centre Pte Ltd</strong>
@@ -68,6 +56,21 @@ Feb 2025 onwards)
 this QR code:
 <br>
 </p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ordering of Name Tags" src="/images/Ordering_of_Name_tags.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><a href="https://www.stitchwerkz.sg/springdale-primary" rel="noopener noreferrer nofollow" target="_blank">https://www.stitchwerkz.sg/springdale-primary</a>
 <br>
 </p>
