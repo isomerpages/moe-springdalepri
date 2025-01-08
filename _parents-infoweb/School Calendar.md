@@ -4,11 +4,8 @@ permalink: /school-calendar/
 variant: tiptap
 description: ""
 ---
-<h1></h1>
-<h3>Calendar of School Events for 2025</h3>
-<h4>Term 1</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Term_1_School_calendar.png">
-</div>
+<h1>School calendar 2025</h1>
+<h3></h3>
+<h4>Please click <a href="/files/Calendar_of_School_Events_for_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>to view the school calendar. </h4>
 <p></p>
 <p></p>
