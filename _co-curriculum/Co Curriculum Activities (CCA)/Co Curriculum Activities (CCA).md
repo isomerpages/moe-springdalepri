@@ -38,10 +38,6 @@ SDR, RRP and E2K before his/her CCA, <strong>we strongly encourage him/her to re
 reporting back to school for his/her CCA, please remind your child to report
 to the canteen if he/she reaches school before 2.45pm. We seek your understanding
 on this matter.</p>
-<p><strong>No student should be loitering outside or around the school before the start of CCA.</strong> Disciplinary
-action will be taken if students are found to have committed offences in
-accordance with the school’s discipline policy and guidelines, including
-suspension from CCA.</p>
 <p><strong>Annex A</strong>
 </p>
 <h5>CCA Schedule</h5>
