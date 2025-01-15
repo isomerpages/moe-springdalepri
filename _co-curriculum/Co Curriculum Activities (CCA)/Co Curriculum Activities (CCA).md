@@ -43,7 +43,7 @@ on this matter.</p>
 <h5>CCA Schedule</h5>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Schedule_for_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Schedule_for_CCA_SDPS_2025.png">
 </div>
 <p>Please take note of the respective dates, timing and levels as shown in
 the following tables. (Subject to changes due to unforeseen circumstances).
