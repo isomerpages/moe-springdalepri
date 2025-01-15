@@ -2,6 +2,7 @@
 title: School Rules and Regulations
 permalink: /about-us/School-Rules-and-Regulations/
 description: ""
+variant: markdown
 ---
 **General**
 
@@ -24,7 +25,7 @@ All students are expected to adhere to the school rules and regulations, in part
 * Only girls are allowed to wear ear studs/sticks. Only one identical pair of simple silver or black ear studs/sticks are allowed. 
 * No items of personal adornment, jewellery, talisman, e.g. anklet, ring, pendant, friendship band or expensive watches should be worn to school.
 * Only plain white, black or dark blue sweaters are allowed to be worn in school.
-* All P4 to P6 girls are to wear their skirt over their shorts when they come in their PE attire on days when they have PE, CCA or Learning Journeys. They must be in their school PE T-shirt and skirt (with shorts under) and can only remove their skirt during PE or CCA lessons. After which, they are expected to put on their skirt after PE or CCA lessons.
+* All P3 to P6 girls are to wear their skirt over their shorts when they come in their PE attire on days when they have PE, CCA or Learning Journeys. They must be in their school PE T-shirt and skirt (with shorts under) and can only remove their skirt during PE or CCA lessons. After which, they are expected to put on their skirt after PE or CCA lessons.
 * Students who are having Swimsafer, International Dance or Gymnastics lessons and are wearing their costumes or tights to school under their PE attire should ensure their costumes or tights are well tucked in and not exposed. They are to change out of these costumes or tights after their lesson.
 
 
