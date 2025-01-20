@@ -8,7 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK_Springdale_Open_House_2025_Poster.png">
 </div>
-<p><strong><u>Event Itinerary </u></strong>
+<p><strong><u>Event Itinerary</u></strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
