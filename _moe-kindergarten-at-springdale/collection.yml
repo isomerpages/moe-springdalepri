@@ -2,6 +2,7 @@ collections:
   moe-kindergarten-at-springdale:
     output: true
     order:
+      - MK@Springdale Open House 2025.md
       - K1 Orientation 2024.md
       - School Information/.keep
       - School Information/MK@SD's Teaching Staff.md
