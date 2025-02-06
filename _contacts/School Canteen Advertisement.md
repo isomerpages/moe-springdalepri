@@ -5,39 +5,6 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Type of Stall</p>
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Closing Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Requirements</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Rice</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>28th February 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sell Halal dishes – Malay mixed rice, nasi lemak, rice/curry chicken and
-etc</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <p><strong>Application Procedure</strong>
 </p>
