@@ -4,6 +4,16 @@ permalink: /Announcements/
 description: ""
 variant: tiptap
 ---
+<h4><strong>STEM Playground 2025 Challenge 1</strong></h4>
+<p><em>Calling all Springdalites to participate in the STEM Playground 2025 Challenge 1!</em>
+</p>
+<p><em>Submit your video (less than 1 min in PORTRAIT mode) through SLS or Google Form at <a href="https://forms.gle/1vQgc1hT3F1uYSUw8" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/1vQgc1hT3F1uYSUw8</a></em>
+</p>
+<p>The best 5 videos will win prizes!</p>
+<p>Support our school by participating and have fun learning Science at the
+same!</p>
+<p>Thank you and all the best!</p>
+<p></p>
 <h4><strong>MINISTRY OF EDUCATION FINANCIAL ASSISTANCE SCHEME (MOE FAS)</strong></h4>
 <p>Dear Parents,</p>
 <ul data-tight="true" class="tight">
