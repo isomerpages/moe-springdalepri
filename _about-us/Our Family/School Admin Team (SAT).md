@@ -194,7 +194,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms&nbsp;Goh Chloe</strong>
+<p><strong>Mr Ridzuan Fahmi Bin Abdul Latif</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms&nbsp;Sofea Khairunnisa</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
