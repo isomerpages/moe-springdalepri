@@ -29,10 +29,13 @@ variant: markdown
 |**Mdm Dewi Juliana**| Head of Department (Special Educational Support & Education Support)
 |**Ms Noor Ezaida Binte Abdul**| Asst. Year Head cum Covering Head of Department (Student Management)
 |**Mr Tham Otto**| Subject Head (Student Discipline)
+|**Ms Chan Shu Hui**| Covering Subject Head (Student Well-Being)
 |**Ms Tan Zi Hui Charmian**| Head of Department (Character & Citizenship Education)
 |**Mdm Abidah Bibi Marikar**| Year Head (Upper Primary) – P1 & P6 
 |**Mr Sean Lim Tong Lee**|	Year Head (Middle Primary) – P4 & P5
+|**Ms Diana Chan**|	Covering Assistant Year Head – P5
 |**Mrs Jaslyn Lim**|Year Head (Lower Primary) – P2 & P3
+
 
 
 
