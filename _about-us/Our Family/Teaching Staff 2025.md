@@ -193,10 +193,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Felicia Foo</p>
+<p>Ms Sarah Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">felicia_foo_kai_kai@moe.edu.sg</a>
+<p><a href="mailto:wei_sarah_l@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wei_sarah_l@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1757,6 +1757,19 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:noor_ezaida_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noor_ezaida_abdul_rahman@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Kasturi Shanjey Nair</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">Kasturi_Shanjey_Nair@moe.edu.sg</a>
 </p>
 </td>
 </tr>
