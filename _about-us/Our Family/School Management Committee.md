@@ -17,6 +17,7 @@ variant: markdown
 |**Ms Nur Farhana Salwar**|Administration Manager 2
 |**Mr Anthony Augustin**|Operations Manager 1
 |**Mr Heng Chai Boon Eddie**|Operations Manager 2
+|**Miss Siti Nur Aini Hamid**|ICT Manager 
 |**Mdm Nor Azila**|School Staff Developer cum Covering Head of Department (English Language)
 |**Mdm Pauline Chan**|Level Head (English Language)
 |**Mr Mohamad Yusman Bin Selamat**|Head of Department (Mathematics)
