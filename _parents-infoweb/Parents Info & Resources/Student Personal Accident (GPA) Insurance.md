@@ -8,6 +8,6 @@ variant: markdown
 #### Student Personal Accident (GPA) Insurance
 
   
-Click [here](https://studentgpa.incomegroupins.com.sg/#/) to access the claim portal. 
-
-Click [here](/files/Product_Fact_Sheet_Year_2024.pdf) to view the Product Fact Sheet.
+Click [here](https://studentgpa.incomegroupins.com.sg/#/) to access the claim portal.
+* [User Guide](/files/MOE_Student_Product_Fact_Sheet.pdf)
+* [Product Fact Sheet](/files/Student_GPA_User_Guide___Parent.pdf)
