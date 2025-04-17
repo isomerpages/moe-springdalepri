@@ -68,6 +68,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Mdm Zhuang Wenyi</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Executive</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mdm Florence Cho Poh Chan</strong>
 </p>
 </td>
