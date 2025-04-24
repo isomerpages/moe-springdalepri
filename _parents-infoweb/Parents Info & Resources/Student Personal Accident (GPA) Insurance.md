@@ -3,11 +3,19 @@ title: Student Personal Accident (GPA) Insurance
 permalink: /parents-infoweb/Parents-Info-and-Resources/permalink/
 description: ""
 third_nav_title: Parents Info & Resources
-variant: markdown
+variant: tiptap
 ---
-#### Student Personal Accident (GPA) Insurance
-
-  
-Click [here](https://studentgpa.incomegroupins.com.sg/#/) to access the claim portal.
-* [User Guide](/files/MOE_Student_Product_Fact_Sheet.pdf)
-* [Product Fact Sheet](/files/Student_GPA_User_Guide___Parent.pdf)
+<h4>Student Personal Accident (GPA) Insurance</h4>
+<p>Click <a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+access the claim portal.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/MOE_Student_Product_Fact_Sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">User Guide</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Student_GPA_User_Guide___Parent.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Fact Sheet</a>
+</p>
+</li>
+</ul>
+<p></p>
