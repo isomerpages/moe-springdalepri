@@ -28,6 +28,6 @@ description: ""
 <p>Contact your form teachers or ICT Manager in general office to request
 for a MIMS password reset. You can submit password reset request via the
 <a href="https://form.gov.sg/663c936ac6d018326a59cb75" rel="noopener nofollow" target="_blank">form</a>.</p>
-<p>For <strong><a href="/files/Guide_to_MIMS_login_2025.pdf" rel="noopener nofollow" target="_blank">here </a></strong>more
-information.</p>
+<p>Click <strong><a href="/files/Guide_to_MIMS_login_2025.pdf" rel="noopener nofollow" target="_blank">here  </a></strong>for
+more information.</p>
 <p></p>
