@@ -10,11 +10,11 @@ variant: tiptap
 access the claim portal.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/MOE_Student_Product_Fact_Sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">User Guide</a>
+<p><a href="/files/MOE_Student_Product_Fact_Sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Fact Sheet</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Student_GPA_User_Guide___Parent.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Fact Sheet</a>
+<p><a href="/files/Student_GPA_User_Guide___Parent.pdf" rel="noopener noreferrer nofollow" target="_blank">User Guide</a>
 </p>
 </li>
 </ul>
