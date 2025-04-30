@@ -11,7 +11,7 @@ To minimize the loss of curriculum time and to keep students gainfully occupied 
 
 # HBL 2 May 2025
 
-Please access the links before for the respective level's learning plans. 
+Please access the links below for the respective level's learning plans. 
 
 [P1](https://docs.google.com/document/d/1qVsZV4WW0cu3YWizDl4TGx-trOGvHTlZz5UnDl37UrI/edit?usp=sharing)
 
@@ -24,5 +24,3 @@ Please access the links before for the respective level's learning plans.
 [P5](https://docs.google.com/document/d/1W9V0MU2hCFbiivC1D-C7vIxYoyn-boeL_VLcXyrA8Jk/edit?usp=sharing)
 
 [P6](https://docs.google.com/document/d/1pYn457oNNz9eiHr2ZzhUd7v2hiVwkYACsQEWD49pt3s/edit?usp=sharing)
-
-
