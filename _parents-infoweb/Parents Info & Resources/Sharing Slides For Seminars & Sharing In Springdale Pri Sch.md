@@ -29,3 +29,8 @@ variant: tiptap
 <br><a href="https://youtu.be/SDB3H-hF5jc" rel="noopener noreferrer nofollow" target="_blank"> P6: </a>
 <a href="https://youtu.be/92-EkjDlPYU" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/92-EkjDlPYU</a>
 </p>
+<p></p>
+<h4>2025 P6 Panel session</h4>
+<p>Click <a href="/files/Sharing_by_Panelists_P6_Panel_Session_30_May_25.pdf" rel="noopener nofollow" target="_blank">here </a>to
+view the slides.</p>
+<p></p>
