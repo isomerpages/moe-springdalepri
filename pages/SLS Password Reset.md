@@ -2,6 +2,7 @@
 title: SLS Password Reset
 permalink: /SLS-Password-Reset/
 description: ""
+variant: markdown
 ---
 #### SLS Password Reset Email Address Verification
 
@@ -14,7 +15,7 @@ To ensure that all students are able to access Singapore Student Learning Space 
 
 You may follow these steps to key in an email address for self-serve password reset.
 
-**STEP 1**: Go to SLS login page: [https://learning.moe.edu.sg](https://learning.moe.edu.sg/). Log in with the User ID and password previously provided.  
+**STEP 1**: Go to SLS login page: https://www.learning.moe.edu.sg/](https://www.learning.moe.edu.sg/). Log in with the User ID and password previously provided.  
 
 **STEP 2**: Key in and verify an email address for password reset.
 
