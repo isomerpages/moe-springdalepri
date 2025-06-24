@@ -212,7 +212,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms&nbsp;Sofea Khairunnisa</strong>
+<p><strong>Ms&nbsp;Seh Pei Yi</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
