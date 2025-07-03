@@ -2,6 +2,7 @@
 title: Music
 permalink: /curriculum/Music/
 description: ""
+variant: markdown
 ---
 **Aims of Music Education**  
 a. Acquire and apply musical skills, knowledge and understanding through Listening, Creating and Performing  
@@ -40,4 +41,4 @@ B.	Play Instruments
 
 ![Musicable@SDPS](/images/Musicable.jpg)
 Musicable @ SDPS App: 
-[Musicable@Springdale App](https://musicable.glideapp.io/dl/da19fa)
+[Musicable@Springdale App](https://Musicable.glide.page)
