@@ -2,6 +2,7 @@ collections:
   moe-kindergarten-at-springdale:
     output: true
     order:
+      - Join us at MK@Springdale!.md
       - K1 Orientation 2024.md
       - School Information/.keep
       - School Information/MK@SD's Teaching Staff.md
