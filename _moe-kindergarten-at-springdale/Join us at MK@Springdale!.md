@@ -6,7 +6,8 @@ description: ""
 ---
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MKSD_Publicity_Poster_Draft_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MKSD_Publicity_Poster_UPDATED.png">
 </div>
 <p></p>
