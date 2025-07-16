@@ -12,21 +12,4 @@ sections:
         - title: Announcements
           description: ""
           url: /Announcements
-  - resources:
-      title: Direct School Admission Exercise
-      subtitle: DSA
-      id: resources
-      button: More details here
-  - infocols:
-      title: Info-columns
-      subtitle: Add snippets of text in columns
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
 ---
