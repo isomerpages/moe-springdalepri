@@ -14,7 +14,7 @@ variant: markdown
 ![](/images/hari%20raya.png)
 
 **Racial Harmony Day**
-![](/images/RHD2024.png)
+![](/images/RHD_2025.png)
 
 **National Day**
 ![](/images/ND2024.png)
