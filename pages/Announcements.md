@@ -31,14 +31,14 @@ view the&nbsp;MOE FAS Application Form</p>
 <h4><strong>Wait List Application Form</strong></h4>
 <p>Dear Parents,</p>
 <p>Thank you for your interest to place your child in Springdale Primary.
-<br>Click on&nbsp;<a href="https://go.gov.sg/sdpswaitlistapplicationform" rel="noopener nofollow" target="_blank">here </a>to
+<br>Click on&nbsp;<a href="https://go.gov.sg/sdps-waitlist" rel="noopener nofollow" target="_blank">here </a>to
 submit the Wait List Application Form for your child to be placed on the
 Wait List.</p>
 <p>Thank you.</p>
 <p></p>
 <h4><strong>Application Form for Leave of Absence</strong></h4>
 <p>Dear Parents,</p>
-<p>Please click <a href="https://form.gov.sg/60b9859d6995cb00125e9e66" rel="noopener nofollow" target="_blank">here</a> to
+<p>Please click <a href="https://go.gov.sg/sdps-leave-of-absence" rel="noopener nofollow" target="_blank">here</a> to
 submit the Application Form for Leave of Absence for your child.
 <br>Please note that LOA will need to be renewed every year and payment can
 only be done on a per year basis.
