@@ -4,6 +4,8 @@ permalink: /about-us/our-family/school-advisory-committee-2023-2025/
 description: ""
 variant: markdown
 ---
+**School Advisory Committee (2023 to 2025)**
+
 |Name |Designation |
 | -------- | -------- | 
 |Mr Wong Hong Yuen |Chairman |
