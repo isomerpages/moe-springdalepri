@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: School Calendar
           description: School Events
-          url: ""
+          url: /school-calendar/
         - title: Social Media
           description: Follow us on Instagram!
           url: https://www.instagram.com/springdalites
