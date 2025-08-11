@@ -2,4 +2,5 @@ collections:
   terms-and-conditions:
     output: true
     order:
+      - terms-of-use.md
       - privacy.md
