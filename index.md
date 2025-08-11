@@ -35,8 +35,8 @@ sections:
       id: textcards
       description: Stay updated with SDPS
       cards:
-        - title: STEM Playground Challenge 2025
-          description: Join in the challenge!
+        - title: News and Events
+          description: STEM Playground Challenge 2025
           linktext: Learn more
           url: /stem-playground/
         - title: Card
