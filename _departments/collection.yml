@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Aesthetics/Art.md
       - Aesthetics/.keep
       - Mother Tongue Language/Tamil Language.md
       - Mother Tongue Language/Malay Language.md
