@@ -5,8 +5,7 @@ description: ""
 third_nav_title: School Staff 2025
 variant: tiptap
 ---
-<p><strong>Primary 1 Teachers</strong>
-</p>
+<h3><strong>Primary 1 Teachers</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -241,8 +240,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Primary 2 Teachers</strong>
-</p>
+<h3><strong>Primary 2 Teachers</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -482,8 +480,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Primary 3 Teachers</strong>
-</p>
+<h3><strong>Primary 3 Teachers</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -698,8 +695,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Primary 4 Teachers</strong>
-</p>
+<h3><strong>Primary 4 Teachers</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -891,8 +887,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Primary 5 Teachers</strong>
-</p>
+<h3><strong>Primary 5 Teachers</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1076,8 +1071,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Primary 6 Teachers</strong>
-</p>
+<h3><strong>Primary 6 Teachers</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1252,8 +1246,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>MT Teachers</strong>
-</p>
+<h3><strong>Mother Tongue Language Teachers</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1561,8 +1554,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>PE, Art &amp; Music Teachers</strong>
-</p>
+<h3><strong>PE, Art &amp; Music Teachers</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
