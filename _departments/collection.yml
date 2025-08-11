@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CCE/Education and Career Guidance.md
       - CCE/Values In Action.md
       - CCE/Student Well Being.md
       - CCE/Character & Citizenship Education.md
