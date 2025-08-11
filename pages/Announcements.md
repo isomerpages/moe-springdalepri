@@ -4,8 +4,6 @@ permalink: /Announcements/
 description: ""
 variant: tiptap
 ---
-<h4></h4>
-<p></p>
 <h4><strong>MINISTRY OF EDUCATION FINANCIAL ASSISTANCE SCHEME (MOE FAS)</strong></h4>
 <p>Dear Parents,</p>
 <ul data-tight="true" class="tight">
