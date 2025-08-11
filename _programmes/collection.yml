@@ -2,8 +2,8 @@ collections:
   programmes:
     output: true
     order:
+      - ChangeMaker Education (CMEd)/.keep
+      - ChangeMaker Education (CMEd)/Innovation Programme (IvP).md
+      - Programme For Active Learning.md
       - Talent Development/.keep
       - Immersion Programmes/.keep
-      - ChangeMaker Education (CMEd)/Innovation Programme (IvP).md
-      - ChangeMaker Education (CMEd)/.keep
-      - Programme For Active Learning.md
