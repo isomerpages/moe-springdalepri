@@ -4,6 +4,9 @@ permalink: /cca/co-curricular-activities/
 description: ""
 variant: tiptap
 ---
+<p><strong>Co-Curricular Activities (CCAs)</strong>
+</p>
+<p></p>
 <p>As part of the school’s Co-Curriculum Programmes (CCP) to support the
 holistic development of students, Co-Curricular Activities (CCA) are designed
 to develop students’ Attitudes, Skills and Knowledge (ASK) in the cognitive,
