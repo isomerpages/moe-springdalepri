@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SDPS/Main/sdps_crest.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/SDPS/Main/sdps_crest.png">
 </div>
 <h4>The Eagle – Confident Learners</h4>
 <p>Symbol of strength, vision, and courage. Eagles soar high, but only after
