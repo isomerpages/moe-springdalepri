@@ -2,6 +2,7 @@ collections:
   partnership:
     output: true
     order:
+      - Information for Parents/Student iCON (MIMS).md
       - Information for Parents/Travel Declaration.md
       - Information for Parents/.keep
       - Information for Parents/2025 Booklists.md
