@@ -4,7 +4,7 @@ permalink: /contacts/Springdale-Pri-School/
 description: ""
 variant: tiptap
 ---
-<h3>Location</h3>
+<p>Location</p>
 <p><strong>Springdale Primary School </strong>
 <br>71 Anchorvale Link
 <br>Singapore 544799</p>
@@ -12,7 +12,7 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.6358668005523!2d103.88710517710614!3d1.394966698591872!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da166ce2a74969%3A0xee086fca6014181a!2sSpringdale%20Primary%20School!5e0!3m2!1sen!2ssg!4v1754911071369!5m2!1sen!2ssg"></iframe>
 </div>
-<h3>Directions</h3>
+<p>Directions</p>
 <h4>Public Bus Services</h4>
 <ul data-tight="true" class="tight">
 <li>
