@@ -9,7 +9,6 @@ description: ""
 <p>1. Download and complete the <a href="/files/application form for canteen stall.pdf" rel="noopener noreferrer nofollow" target="_blank">application form</a>.
 You may also request for a hardcopy from the School’s General Office.</p>
 <p></p>
-<p></p>
 <p>2. Attached the following documents together with the application form:</p>
 <ul data-tight="true" class="tight">
 <li>
