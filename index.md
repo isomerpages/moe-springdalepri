@@ -30,16 +30,22 @@ sections:
       url: /
       image: /images/SDPS/Main/corporatevideo.png
       alt: Image alt text
-  - infocols:
+  - textcards:
       title: Highlights
       subtitle: Stay updated with SDPS
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
