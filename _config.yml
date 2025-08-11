@@ -2,13 +2,13 @@ title: Springdale Primary School
 url: https://www.springdalepri.moe.edu.sg
 favicon: /images/logo.png
 colors:
-  primary-color: "#2535ca"
-  secondary-color: "#f5a623"
+  primary-color: "#004c97"
+  secondary-color: "#48a23f"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#e87722"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#ffd700"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
