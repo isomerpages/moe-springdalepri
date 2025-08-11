@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Location</h3>
-<p>Springdale Primary School
+<p><strong>Springdale Primary School </strong>
 <br>71 Anchorvale Link
 <br>Singapore 544799</p>
 <p></p>
