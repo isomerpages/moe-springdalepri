@@ -12,3 +12,12 @@ links:
     collection: parents-infoweb
   - title: MOE Kindergarten @ Springdale
     collection: moe-kindergarten-at-springdale
+  - title: Staff
+    url: /permalink
+  - title: Programme
+    url: /permalink
+    sublinks:
+      - title: New submenu1
+        url: /permalink
+      - title: New submenu2
+        url: /permalink
