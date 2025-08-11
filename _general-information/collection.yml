@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - School Service Providers/Dental Service.md
       - School Service Providers/.keep
       - Springdale Pri School.md
       - School Infoweb.md
