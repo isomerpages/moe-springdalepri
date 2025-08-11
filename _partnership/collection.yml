@@ -1,5 +1,5 @@
 collections:
-  parents-infoweb:
+  partnership:
     output: true
     order:
       - School Canteen Food.md
