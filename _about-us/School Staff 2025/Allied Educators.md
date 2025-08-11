@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: School Staff 2025
 ---
-<p><strong>Allied Educators</strong>
-</p>
+<h3>Allied Educators</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -27,80 +26,68 @@ third_nav_title: School Staff 2025
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Miss Hngoi Zi Xin</strong>
-</p>
+<p>Miss Hngoi Zi Xin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hngoi_zi_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hngoi_zi_xin@moe.edu.sg</a>
-</p>
+<p>hngoi_zi_xin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Stephanie Subashni Sam</strong>
-</p>
+<p>Ms Stephanie Subashni Sam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:stephanie_subashni_sam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">stephanie_subashni_sam@moe.edu.sg</a>
-</p>
+<p>stephanie_subashni_sam@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Chen Xiu Wen</strong>
-</p>
+<p>Ms Chen Xiu Wen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chen_xiuwen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_xiuwen@moe.edu.sg</a>
-</p>
+<p>chen_xiuwen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm&nbsp;T N Fathima Nasrin</strong>
-</p>
+<p>Mdm&nbsp;T N Fathima Nasrin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:T_N_Fathima_Nasrin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">T_N_Fathima_Nasrin@moe.edu.sg</a>
-</p>
+<p>t_n_fathima_nasrin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Nagarathiam D/O Varadarasu</strong>
-</p>
+<p>Mdm Nagarathiam D/O Varadarasu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nagarathiam_varadarasu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nagarathiam_varadarasu@moe.edu.sg</a>
-</p>
+<p>nagarathiam_varadarasu@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Tess Neo Siew Teng</strong>
-</p>
+<p>Ms Tess Neo Siew Teng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:neo_siew_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neo_siew_teng@moe.edu.sg</a>
-</p>
+<p>neo_siew_teng@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
