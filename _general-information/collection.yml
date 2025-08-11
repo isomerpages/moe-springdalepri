@@ -1,5 +1,5 @@
 collections:
-  contacts:
+  general-information:
     output: true
     order:
       - Springdale Pri School.md
