@@ -2,5 +2,6 @@ collections:
   programmes:
     output: true
     order:
+      - ChangeMaker Education (CMEd)/.keep
       - Programme For Active Learning.md
       - Innovation Programme (IvP).md
