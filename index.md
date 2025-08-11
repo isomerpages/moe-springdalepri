@@ -24,7 +24,7 @@ sections:
       description: Experience life in our school
       button: Watch video
       url: /
-      image: /images/STEM_Palyground_Instagram.png
+      image: /images/SDPS/Main/corporatevideo.png
       alt: Image alt text
   - infopic:
       title: Infopic
