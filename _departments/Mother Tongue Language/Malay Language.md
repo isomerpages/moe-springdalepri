@@ -5,6 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Mother Tongue Language
 ---
+<h3>Malay Department</h3>
 <p>Our school celebrated Hari Raya Puasa on 28 April 2023. During the assembly
 programme, our P4 Malay language students presented a dikir barat item
 comprising of a medley of popular songs such as “Di Pinggiran Aidilfitri”
