@@ -4,6 +4,8 @@ permalink: /about-us/our-history/
 description: ""
 variant: tiptap
 ---
+<h3>Historical Milestones</h3>
+<p></p>
 <p>Situated within the Sengkang West constituency, Springdale Primary School
 started its operation in Jan 2013. The first Principal to lead the school
 was Mrs Lee-Koh SC who led the school from 2013 to 2018. Thereafter, Mdm
