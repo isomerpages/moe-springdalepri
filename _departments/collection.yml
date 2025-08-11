@@ -2,12 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - CCE/.keep
-      - CCE/Character & Citizenship Education.md
-      - CCE/National Education and Social Studies.md
-      - CCE/Values In Action.md
-      - CCE/Education and Career Guidance.md
-      - CCE/Student Well Being.md
       - English Language.md
       - Mother Tongue Language/.keep
       - Mother Tongue Language/Chinese Language.md
@@ -19,4 +13,10 @@ collections:
       - Aesthetics/.keep
       - Aesthetics/Art.md
       - Aesthetics/Music.md
+      - CCE/.keep
+      - CCE/Character & Citizenship Education.md
+      - CCE/National Education and Social Studies.md
+      - CCE/Values In Action.md
+      - CCE/Education and Career Guidance.md
+      - CCE/Student Well Being.md
       - Educational Technology.md
