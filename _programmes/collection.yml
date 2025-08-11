@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Talent Development/.keep
       - Immersion Programmes/.keep
       - ChangeMaker Education (CMEd)/Innovation Programme (IvP).md
       - ChangeMaker Education (CMEd)/.keep
