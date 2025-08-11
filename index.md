@@ -10,11 +10,11 @@ sections:
       background: /images/homepage2.gif
       key_highlights:
         - title: School Calendar
-          description: ""
+          description: School Events
           url: ""
-        - title: Announcements
-          description: ""
-          url: /Announcements
+        - title: Social Media
+          description: Follow us on Instagram!
+          url: https://www.instagram.com/springdalites
         - title: Contact Us
           description: ""
           url: ""
@@ -25,5 +25,12 @@ sections:
       button: Watch video
       url: /
       image: /images/STEM_Palyground_Instagram.png
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
       alt: Image alt text
 ---
