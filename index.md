@@ -33,4 +33,9 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+  - infobar:
+      title: Springdale Primary School
+      subtitle: Add informational text
+      id: infobar
+      description: Confident Learner, Compassionate Changemaker
 ---
