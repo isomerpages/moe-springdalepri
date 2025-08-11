@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Our Identity/School Song.md
-      - Our Identity/School Crest.md
-      - Our Identity/Vision, Mission, Values.md
       - Our Identity/.keep
+      - Our Identity/Vision, Mission, Values.md
+      - Our Identity/School Crest.md
+      - Our Identity/School Song.md
       - Principal's Message.md
       - Our History.md
       - School Advisory Committee 2023 to 2025.md
