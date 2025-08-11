@@ -21,9 +21,7 @@ variant: tiptap
 <p>Springdalites, shining bright
 <br>Springdalites, take flight</p>
 <p></p>
-<p><sub>Lyrics written by Mr Airwan Nain Sardi, Ms Chan Siew Sharn Betty &amp; Mrs Lee-Koh Siew Cheng</sub>
-</p>
-<p><sub>Music arranged by Mr Adam Lee</sub>
-</p>
-<p><sub>Song sung by Ms Emmelyn Koh Yi Hui, Ms Lee Sze Hui Jamie, Mr Lee Sze Ern Jeremy, Ms Chan Siew Sharn Betty &amp; Mr Low Yew Fai</sub>
+<p><sub>Lyrics written by Mr Airwan Nain Sardi, Ms Chan Siew Sharn Betty &amp; Mrs Lee-Koh Siew Cheng </sub>
+<br><sub>Music arranged by Mr Adam Lee</sub>
+<br><sub>Song sung by Ms Emmelyn Koh Yi Hui, Ms Lee Sze Hui Jamie, Mr Lee Sze Ern Jeremy, Ms Chan Siew Sharn Betty &amp; Mr Low Yew Fai</sub>
 </p>
