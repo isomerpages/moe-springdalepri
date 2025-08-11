@@ -32,20 +32,19 @@ sections:
       alt: Image alt text
   - textcards:
       title: Highlights
-      subtitle: Stay updated with SDPS
       id: textcards
-      description: Text card description
+      description: Stay updated with SDPS
       cards:
+        - title: STEM Playground Challenge 2025
+          description: Join in the challenge!
+          linktext: Learn more
+          url: /stem-playground/
         - title: Card
           description: Card description
           linktext: Learn more
           url: ""
-        - title: Card
-          description: Card description
+        - title: School Canteen Advertisement
+          description: Stall available for rent
           linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+          url: /school-canteen-advertisement/
 ---
