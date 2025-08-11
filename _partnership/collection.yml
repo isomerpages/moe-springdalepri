@@ -3,17 +3,17 @@ collections:
     output: true
     order:
       - Information for Parents/.keep
-      - Information for Parents/Student iCON (MIMS).md
-      - Information for Parents/Travel Declaration.md
+      - Information for Parents/Parents Information & Resources.md
+      - Information for Parents/Letter To Parents.md
       - Information for Parents/2025 Booklists.md
       - Information for Parents/MOE Financial Assistance Scheme (FAS).md
       - Information for Parents/Student Personal Accident (GPA) Insurance.md
-      - Information for Parents/Letter To Parents.md
-      - Information for Parents/Home Based Learning (HBL).md
-      - Information for Parents/Parents Information & Resources.md
+      - Information for Parents/Travel Declaration.md
       - Information for Parents/Sharing Slides For Seminars & Sharing In
         Springdale Pri Sch.md
       - Information for Parents/Parenting Related Articles.md
+      - Information for Parents/Home Based Learning (HBL).md
+      - Information for Parents/Student iCON (MIMS).md
       - Student Learning Space (SLS).md
       - Cyber Wellness Resources.md
       - MOE Sexuality Education.md
