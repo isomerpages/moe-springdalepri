@@ -3,7 +3,10 @@ title: Green Club
 permalink: /co-curriculum/co-curriculum-activities-cca/green-club/
 description: ""
 third_nav_title: Clubs & Societies​
+variant: markdown
 ---
+# **Green Club**
+
 ![](/images/Gree%20Artists%20CCA.jpeg)
 
 The Green Artists CCA aims to deepen students’ awareness and understanding of environmental issues and develop the values and attitudes that promote a greater sense of personal responsibility and concern for the environment. Students will have opportunities to work on various green activities and projects and at the same time, acquire life skills such as working collaboratively in a team and communicating their ideas and projects to others confidently.
