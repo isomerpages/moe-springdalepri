@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Performing Arts/.keep
       - Co Curriculum Activities (CCA)/Programme For Active Learning.md
       - Co Curriculum Activities (CCA)/Co Curriculum Activities (CCA).md
       - Co Curriculum Activities (CCA)/Choir.md
