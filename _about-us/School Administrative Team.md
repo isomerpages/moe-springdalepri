@@ -4,8 +4,7 @@ permalink: /about-us/school-administrative-team/
 description: ""
 variant: tiptap
 ---
-<p><strong>Administrative &amp; Operation Staff</strong>
-</p>
+<h3>Administrative &amp; Operation Staff</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -22,8 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Anthony Augustin</strong>
-</p>
+<p>Mr Anthony Augustin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operation Manager 1</p>
@@ -31,8 +29,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Heng Chai Boon Eddie</strong>
-</p>
+<p>Mr Heng Chai Boon Eddie</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operation Manager 2</p>
@@ -40,8 +37,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Leong Su Yee Emily</strong>
-</p>
+<p>Ms Leong Su Yee Emily</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager 1</p>
@@ -49,8 +45,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Nur Farhana Binte Salwar</strong>
-</p>
+<p>Ms Nur Farhana Binte Salwar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager 2</p>
@@ -58,8 +53,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Rafizan Binte Roslan</strong>
-</p>
+<p>Ms Rafizan Binte Roslan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Executive @ MK</p>
@@ -67,8 +61,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Zhuang Wenyi</strong>
-</p>
+<p>Mdm Zhuang Wenyi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Executive</p>
@@ -76,8 +69,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Florence Cho Poh Chan</strong>
-</p>
+<p>Mdm Florence Cho Poh Chan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
@@ -85,8 +77,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Vanessa Eng</strong>
-</p>
+<p>Mdm Vanessa Eng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
@@ -94,8 +85,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Zurinah Bte Daris</strong>
-</p>
+<p>Mdm Zurinah Bte Daris</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
@@ -103,8 +93,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Teo Geok Mui</strong>
-</p>
+<p>Mdm Teo Geok Mui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -112,8 +101,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Fu Xuejuan</strong>
-</p>
+<p>Mdm Fu Xuejuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -121,8 +109,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Pan Lian</strong>
-</p>
+<p>Mdm Pan Lian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -130,8 +117,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Lai Chai Bee</strong>
-</p>
+<p>Mdm Lai Chai Bee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -139,8 +125,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Lin Zelan</strong>
-</p>
+<p>Mdm Lin Zelan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -148,8 +133,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Chen Xiaolan</strong>
-</p>
+<p>Mdm Chen Xiaolan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer @ MK</p>
@@ -157,8 +141,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Tan Ai Wah</strong>
-</p>
+<p>Mdm Tan Ai Wah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer @ MK</p>
@@ -166,8 +149,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Support Staff</strong>
-</p>
+<p></p>
+<h3>Support Staff</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -184,8 +167,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Miss Siti Nur Aini Binte Hamid</strong>
-</p>
+<p>Miss Siti Nur Aini Binte Hamid</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ICT Manager</p>
@@ -193,8 +175,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Shamini Subramaniam</strong>
-</p>
+<p>Ms Shamini Subramaniam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
@@ -202,8 +183,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Ridzuan Fahmi Bin Abdul Latif</strong>
-</p>
+<p>Mr Ridzuan Fahmi Bin Abdul Latif</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
@@ -211,8 +191,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms&nbsp;Seh Pei Yi</strong>
-</p>
+<p>Ms&nbsp;Seh Pei Yi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Librarian</p>
@@ -220,6 +199,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>The school is also supported by the following contract staff and vendors:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -229,10 +209,10 @@ variant: tiptap
 <p>Canteen Stalls Operators</p>
 </li>
 <li>
-<p>Contract Cleaners</p>
+<p>Bookshop Vendor</p>
 </li>
 <li>
-<p>Bookshop Vendor</p>
+<p>Contract Cleaners</p>
 </li>
 </ul>
 <p></p>
