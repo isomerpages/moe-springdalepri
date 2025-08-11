@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Admin Team (SAT).md
       - Principal's Message.md
       - Our History.md
       - Vision, Mission, Values.md
@@ -12,3 +11,4 @@ collections:
       - School Staff 2025/.keep
       - School Staff 2025/School Management Committee.md
       - School Staff 2025/Teaching Staff 2025.md
+      - School Admin Team (SAT).md
