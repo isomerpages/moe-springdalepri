@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Vision, Mission, Values.md
       - School Crest.md
       - School Information.md
       - School Advisory Committee 2023 to 2025.md
