@@ -2,15 +2,13 @@ logo: /images/logo.png
 links:
   - title: About Us
     collection: about-us
-  - title: Parents Infoweb
-    collection: parents-infoweb
+  - title: General Information
+    collection: contacts
   - title: Departments
     collection: departments
   - title: Cca
     collection: cca
-  - title: Contacts
-    collection: contacts
-  - title: News & Events
-    collection: news-and-events
+  - title: Partnership
+    collection: parents-infoweb
   - title: MOE Kindergarten @ Springdale
     collection: moe-kindergarten-at-springdale
