@@ -39,10 +39,10 @@ sections:
           description: STEM Playground Challenge 2025
           linktext: Learn more
           url: /stem-playground/
-        - title: Card
-          description: Card description
+        - title: Forms
+          description: Financial Assistance Scheme Leave of Absence Waitlist
           linktext: Learn more
-          url: ""
+          url: /forms/
         - title: School Canteen Advertisement
           description: Stall available for rent
           linktext: Learn more
