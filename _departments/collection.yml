@@ -1,5 +1,5 @@
 collections:
-  curriculum:
+  departments:
     output: true
     order:
       - Innovation Programme (IvP).md
