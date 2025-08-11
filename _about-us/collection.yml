@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Crest.md
       - School Information.md
       - School Advisory Committee 2023 to 2025.md
       - Principal's Message.md
