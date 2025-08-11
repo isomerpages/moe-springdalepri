@@ -18,6 +18,10 @@ sections:
         - title: Contact Us
           description: ""
           url: ""
+  - textcards:
+      title: Springdale Primary School
+      id: textcards
+      description: Confident Learner, Compassionate Changemaker
   - infopic:
       title: SDPS Corporate Video
       id: infopic
@@ -26,16 +30,4 @@ sections:
       url: /
       image: /images/SDPS/Main/corporatevideo.png
       alt: Image alt text
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-  - infobar:
-      title: Springdale Primary School
-      subtitle: Add informational text
-      id: infobar
-      description: Confident Learner, Compassionate Changemaker
 ---
