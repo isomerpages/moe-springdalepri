@@ -4,9 +4,7 @@ permalink: /cca-intro/
 variant: tiptap
 description: ""
 ---
-<p><strong>Co-Curricular Activities (CCAs)</strong>
-</p>
-<p></p>
+<h3>Co-Curricular Activities (CCAs)</h3>
 <p>As part of the school’s Co-Curriculum Programmes (CCP) to support the
 holistic development of students, Co-Curricular Activities (CCA) are designed
 to develop students’ Attitudes, Skills and Knowledge (ASK) in the cognitive,
@@ -23,83 +21,54 @@ as students interact with one another.</p>
 <p>Please note that P6 students will not be involved in CCA in Sem 2 (except
 for selected students in the school team) and the P3 students will be coming
 on board.</p>
-<p>&nbsp;<strong>The CCA offered are based on a number of considerations:</strong>
+<p>&nbsp;The CCA offered are based on a number of considerations:
 <br>&nbsp;1.&nbsp; Breadth of learning experiences of each student.&nbsp;
 <br>&nbsp;2.&nbsp; Available facilities and resources
 <br>&nbsp;3.&nbsp; Providing varied domains of CCA to cater to various interests
 <br>&nbsp;4.&nbsp; Staff strength and manpower resources</p>
-<p><strong>Important points to note</strong>
-</p>
+<p>Important points to note</p>
 <p>CCA will take place after school on either Monday, Tuesday or Thursday.
 CCA will start from 2.45pm to 4.45pm. Dates and other relevant information
 will be sent to parents via Parents Gateway before the CCA begins in Term
 1 Week 3. Students involved in CCA competitions may have more training
 sessions to better prepare them.</p>
 <p>If your child is not involved in after-school programmes such as ACE,
-SDR, RRP and E2K before his/her CCA, <strong>we strongly encourage him/her to return home for lunch</strong> before
-reporting back to school for his/her CCA, please remind your child to report
-to the canteen if he/she reaches school before 2.45pm. We seek your understanding
-on this matter.</p>
-<p><strong>Annex A</strong>
-</p>
-<h5>CCA Schedule</h5>
+SDR, RRP and E2K before his/her CCA, we strongly encourage him/her to return
+home for lunch before reporting back to school for his/her CCA, please
+remind your child to report to the canteen if he/she reaches school before
+2.45pm. We seek your understanding on this matter.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Schedule_for_CCA_SDPS_2025.png">
-</div>
-<p>Please take note of the respective dates, timing and levels as shown in
-the following tables. (Subject to changes due to unforeseen circumstances).
-We seek your understanding in this matter. <strong>The respective CCA Teachers-in-charge will provide more details and updates via Parents Gateway (PG).</strong>
-</p>
-<h5>CCA Guidelines</h5>
-<ol>
-<li>
+<h4>CCA Guidelines</h4>
 <p>Each student will only be allocated 1 CCA. Participation in additional
 CCA may only be allowed on a case-by-case basis.</p>
-</li>
-<li>
 <p>Students must remain in their CCA for the whole year. They may only change
 to a new CCA at the beginning of each year, which is subject to availability
 and on a case-by-case basis. All requests must be made through email to
 the point of contact, Mr Leonard Toh (toh_jia_bin_leonard@moe.edu.sg) only
-at the end of the year (<strong>Term 4, 1<sup>st</sup> Oct to 10<sup>th</sup> Oct</strong>).
-The school encourages all students to remain in the CCA in order to deepen
-their skills, knowledge and friendships in the CCA.</p>
-</li>
-<li>
+at the end of the year (Term 4, 1st Oct to 10th Oct). The school encourages
+all students to remain in the CCA in order to deepen their skills, knowledge
+and friendships in the CCA.</p>
 <p>Students who may be involved in future inter-school competitions may be
 asked to attend additional training sessions in the afternoons and/or during
 school holidays.</p>
-</li>
-<li>
 <p>Students must meet at least 85% attendance criteria before their CCA participation
 can be recorded in their Student Holistic Report Card.</p>
-</li>
-<li>
 <p>Participation in external activities for the purpose of self-enrichment
 or social interaction as well as those that are already offered in school
 will not be considered as a CCA.</p>
-</li>
-<li>
 <p>No student should be loitering outside the school between school dismissal
 time and the start of CCA. Instead, they should make the best use of the
 time to complete their homework or self-study.</p>
-</li>
-<li>
 <p>P6 students will only have CCA in Semester 1.</p>
-</li>
-<li>
 <p>Should there be a request for student to participate in the National School
 Games (NSG), Competitions or Singapore Youth Festival (SYF) and the sport/activity
 is not part of the school’s CCA, interest to participate must be made through
 email to Mr Leonard Toh (toh_jia_bin_leonard@moe.edu.sg) between January
 to the end of February yearly and to include information on student’s level
 of preparation for the competition.</p>
-</li>
-</ol>
-<h5>List of CCA</h5>
-<p><strong>Aesthetics</strong>
-</p>
+<p></p>
+<h4>List of CCA</h4>
+<p>Aesthetics</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -120,12 +89,10 @@ of preparation for the competition.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>A1</strong>
-</p>
+<p>A1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Choir</strong>
-</p>
+<p>Choir</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The Choir CCA aims to equip students with the fundamentals of proper vocal
@@ -136,18 +103,16 @@ emotions and creativity in a non-threatening environment. There will be
 opportunities for students to develop their confidence, learn to collaborate
 and perform at various platforms.&nbsp;
 <br>
-<br><em>Please note that auditions will be conducted to better match students to the CCA.</em>
-</p>
+<br>Please note that auditions will be conducted to better match students
+to the CCA.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>A2</strong>
-</p>
+<p>A2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>International Dance</strong>
-</p>
+<p>International Dance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The International Dance CCA&nbsp;aims to empower students to communicate
@@ -160,12 +125,10 @@ choreography, students' confidence and poise will be developed.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>A3</strong>
-</p>
+<p>A3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ukulele</strong>
-</p>
+<p>Ukulele</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The Ukulele CCA aims to nurture students with passion for the performing
@@ -178,12 +141,10 @@ as to build their confidence, resilience and team spirit.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>A4</strong>
-</p>
+<p>A4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Art Club</strong>
-</p>
+<p>Art Club</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The Art Club CCA aims to nurture and inspire students with artistic flair
@@ -200,8 +161,7 @@ such as responsibility, resilience, care and respect.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Clubs and Societies</strong>
-</p>
+<p>Clubs and Societies</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -222,12 +182,10 @@ such as responsibility, resilience, care and respect.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CS1</strong>
-</p>
+<p>CS1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Green Club</strong>
-</p>
+<p>Green Club</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The Green Club CCA aims to deepen students’ awareness and understanding
@@ -240,11 +198,10 @@ in a team and communicating their ideas and projects to others confidently.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CS2</strong>
-</p>
+<p>CS2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Inno-T(h)inkers Club</strong>
+<p>Inno-T(h)inkers Club
 <br>[Merger of Innovators &amp; T(h)inkers Club]</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -264,12 +221,10 @@ and issues.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CS3</strong>
-</p>
+<p>CS3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Media Club</strong>
-</p>
+<p>Media Club</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The Media Club aims to expose students to different types of media tools
@@ -284,8 +239,7 @@ artefacts for the school.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Sports and Games</strong>
-</p>
+<p>Sports and Games</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -306,12 +260,10 @@ artefacts for the school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SG1</strong>
-</p>
+<p>SG1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Gymnastics</strong>
-</p>
+<p>Gymnastics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The Gymnastics CCA aims to provide students the platform to discover and
@@ -325,12 +277,10 @@ to forge a greater sense of identity and belonging to the CCA.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SG2</strong>
-</p>
+<p>SG2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Floorball</strong>
-</p>
+<p>Floorball</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The Floorball CCA aims to nurture students' interest and passion for the
@@ -343,12 +293,10 @@ respect, excellence and teamwork.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SG3</strong>
-</p>
+<p>SG3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Multi- Sport&nbsp;<em>(formerly Frisbee CCA)</em></strong>
-</p>
+<p>Multi- Sport&nbsp;(formerly Frisbee CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The Multi-Sport CCA offers various sport modules which are planned and
@@ -363,12 +311,10 @@ play.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SG4</strong>
-</p>
+<p>SG4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Outdoor Adventure</strong>
-</p>
+<p>Outdoor Adventure</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The Outdoor Adventure CCA hopes to instil in students a love for the outdoors
@@ -387,12 +333,10 @@ in them positive values and healthy lifestyles.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SG5</strong>
-</p>
+<p>SG5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Basketball</strong>
-</p>
+<p>Basketball</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;The Basketball CCA provides opportunities for students to learn
@@ -407,12 +351,10 @@ values such as sportsmanship, fairplay, teamwork and discipline.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SG6</strong>
-</p>
+<p>SG6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Badminton</strong>
-</p>
+<p>Badminton</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The Badminton CCA aims to nurture students' interest and passion for the
@@ -425,8 +367,7 @@ respect, excellence and teamwork.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Uniform Group</strong>
-</p>
+<p>Uniform Group</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -447,12 +388,10 @@ respect, excellence and teamwork.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>UG1</strong>
-</p>
+<p>UG1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Scouts</strong>
-</p>
+<p>Scouts</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The Scouts CCA is open to both boys and girls and hopes to provide an
