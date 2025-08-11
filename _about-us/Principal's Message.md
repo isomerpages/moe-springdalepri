@@ -4,9 +4,8 @@ permalink: /about-us/our-family/principals-message/
 description: ""
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="Mrs Anne Quek" src="/images/Mrs_Anne_Quek.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Mrs Anne Quek" src="/images/Mrs_Anne_Quek.png">
 </div>
 <p>
 <br>Dear Springdale Community,</p>
@@ -45,8 +44,8 @@ inventive thinkers, empowered to propose adaptive solutions and lead with
 purpose. We focus on building resilience and confidence, equipping our
 students with the tools they need to overcome challenges and excel in the
 face of adversity.</p>
-<p>The core values of our school—respect, responsibility, resilience, integrity,
-care, and harmony—are fundamental in shaping the life skills of our students.
+<p>The core values of our school - respect, responsibility, resilience, integrity,
+care, and harmony are fundamental in shaping the life skills of our students.
 These values guide the way our students relate to others, fostering a community
 of kindness, collaboration, and mutual respect. We believe in nurturing
 students who are not only academically successful but also kind, empathetic,
@@ -57,9 +56,8 @@ that we will continue to grow, learn, and inspire one another in the years
 to come.</p>
 <p>Thank you for the warm welcome, and I look forward to an exciting journey
 with all of you!</p>
+<p></p>
 <p>Warm regards,
 <br>Anne Quek
 <br>Principal, Springdale Primary School</p>
-<p></p>
-<p></p>
 <p></p>
