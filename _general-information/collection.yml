@@ -2,7 +2,7 @@ collections:
   general-information:
     output: true
     order:
-      - Springdale Pri School.md
+      - Getting Here.md
       - School Service Providers/.keep
       - School Service Providers/School Dental Service.md
       - School Service Providers/School Bookshop.md
