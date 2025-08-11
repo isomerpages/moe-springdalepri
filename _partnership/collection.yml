@@ -2,13 +2,7 @@ collections:
   partnership:
     output: true
     order:
-      - School Canteen Food.md
-      - School Hours & Recess.md
-      - School Rules and Regulations.md
-      - School Infoweb.md
-      - Homework Policy.md
-      - School Calendar.md
-      - Student iCON (MIMS).md
+      - Information for Parents/.keep
       - Information for Parents/2025 Booklists.md
       - Information for Parents/MOE Financial Assistance Scheme (FAS).md
       - Information for Parents/Student Personal Accident (GPA) Insurance.md
@@ -17,8 +11,14 @@ collections:
       - Information for Parents/Parents Information & Resources.md
       - Information for Parents/Sharing Slides For Seminars & Sharing In
         Springdale Pri Sch.md
-      - Information for Parents/.keep
       - Information for Parents/Parenting Related Articles.md
+      - School Canteen Food.md
+      - School Hours & Recess.md
+      - School Rules and Regulations.md
+      - School Infoweb.md
+      - Homework Policy.md
+      - School Calendar.md
+      - Student iCON (MIMS).md
       - Springdale Parent Support Group.md
       - Travel Declaration.md
       - Student Learning Space (SLS).md
