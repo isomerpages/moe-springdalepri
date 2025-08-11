@@ -1,0 +1,4 @@
+collections:
+  terms-and-conditions:
+    output: true
+    order: []
