@@ -3,21 +3,21 @@ collections:
     output: true
     order:
       - Co Curriculum Activities (CCA).md
+      - Clubs & Societies​/.keep
       - Clubs & Societies​/Inno Thinkers Club.md
       - Clubs & Societies​/Media Club.md
       - Clubs & Societies​/Art Club.md
       - Clubs & Societies​/Green Club.md
-      - Clubs & Societies​/.keep
-      - Uniform Groups​/Gymnastics.md
-      - Uniform Groups​/Scouts.md
-      - Uniform Groups​/.keep
+      - Performing Arts/.keep
+      - Performing Arts/Ukulele.md
+      - Performing Arts/International Dance.md
+      - Performing Arts/Choir.md
+      - Sports & Games​/.keep
       - Sports & Games​/Outdoor Adventure.md
       - Sports & Games​/Basketball.md
       - Sports & Games​/Badminton.md
       - Sports & Games​/Multi Sport.md
       - Sports & Games​/Floorball.md
-      - Sports & Games​/.keep
-      - Performing Arts/Ukulele.md
-      - Performing Arts/International Dance.md
-      - Performing Arts/Choir.md
-      - Performing Arts/.keep
+      - Uniform Groups​/.keep
+      - Uniform Groups​/Gymnastics.md
+      - Uniform Groups​/Scouts.md
