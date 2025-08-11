@@ -4,20 +4,15 @@ links:
     collection: about-us
   - title: General Information
     collection: contacts
+  - title: Programmes
+    collection: programmes
   - title: Departments
     collection: departments
   - title: Cca
     collection: cca
   - title: Partnership
     collection: parents-infoweb
-  - title: MOE Kindergarten @ Springdale
-    collection: moe-kindergarten-at-springdale
   - title: Staff
     url: /permalink
-  - title: Programme
-    url: /permalink
-    sublinks:
-      - title: New submenu1
-        url: /permalink
-      - title: New submenu2
-        url: /permalink
+  - title: MOE Kindergarten @ Springdale
+    collection: moe-kindergarten-at-springdale
