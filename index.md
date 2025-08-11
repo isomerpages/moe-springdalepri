@@ -17,7 +17,7 @@ sections:
           url: https://www.instagram.com/springdalites
         - title: Contact Us
           description: ""
-          url: ""
+          url: /contact-us/
   - textcards:
       title: Springdale Primary School
       id: textcards
