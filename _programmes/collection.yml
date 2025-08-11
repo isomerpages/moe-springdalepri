@@ -2,4 +2,5 @@ collections:
   programmes:
     output: true
     order:
+      - Programme For Active Learning.md
       - Innovation Programme (IvP).md
