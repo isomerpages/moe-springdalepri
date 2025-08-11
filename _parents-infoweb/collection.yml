@@ -2,6 +2,7 @@ collections:
   parents-infoweb:
     output: true
     order:
+      - School Hours & Recess.md
       - School Rules and Regulations.md
       - School Infoweb.md
       - Homework Policy.md
