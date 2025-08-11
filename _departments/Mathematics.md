@@ -4,6 +4,7 @@ permalink: /curriculum/Mathematics/
 description: ""
 variant: tiptap
 ---
+<h3>Mathematics Department</h3>
 <h5>The Primary Mathematics Education aims to enable all students to:</h5>
 <ol data-tight="true" class="tight">
 <li>
