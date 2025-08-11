@@ -2,6 +2,7 @@ collections:
   partnership:
     output: true
     order:
+      - Springdale Parent Support Group.md
       - Information for Parents/.keep
       - Information for Parents/Parents Information & Resources.md
       - Information for Parents/Letter To Parents.md
@@ -17,4 +18,3 @@ collections:
       - Student iCON (MIMS).md
       - Cyber Wellness Resources.md
       - MOE Sexuality Education.md
-      - Springdale Parent Support Group.md
