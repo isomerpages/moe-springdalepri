@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - School Infoweb.md
       - School Calendar.md
       - Homework Policy.md
       - School Rules and Regulations.md
