@@ -2,7 +2,6 @@ collections:
   partnership:
     output: true
     order:
-      - Join us as a PV!.md
       - Springdale Parent Support Group.md
       - Information for Parents/.keep
       - Information for Parents/Parents Information & Resources.md
