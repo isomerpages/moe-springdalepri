@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Springdale Pri School.md
+      - School Service Providers/School Bus.md
       - School Service Providers/School Uniform.md
       - School Service Providers/School Bookshop.md
       - School Service Providers/.keep
