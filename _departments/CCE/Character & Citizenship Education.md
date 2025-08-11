@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCE
 variant: tiptap
 ---
-<h3>Character and Citizenship Education</h3>
+<h3>Character and Citizenship Education (CCE)</h3>
 <h4>DEPARTMENT PROGRAMMES</h4>
 <p><strong>Character &amp; Citizenship Education</strong>
 <br>In Springdale Primary School, we are committed to nurture students of
