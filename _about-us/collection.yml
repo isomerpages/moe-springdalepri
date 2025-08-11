@@ -2,17 +2,17 @@ collections:
   about-us:
     output: true
     order:
+      - Principal's Message.md
+      - Our History.md
       - Vision, Mission, Values.md
       - School Crest.md
-      - Our History.md
+      - School Song.md
       - School Advisory Committee 2023 to 2025.md
-      - Principal's Message.md
+      - School Staff 2025/.keep
       - School Staff 2025/School Admin Team (SAT).md
       - School Staff 2025/School Management Committee.md
       - School Staff 2025/Teaching Staff 2025.md
-      - School Staff 2025/.keep
       - School Information/.keep
+      - School Hours & Recess/.keep
       - School Hours & Recess/School Hours & Recess.md
       - School Hours & Recess/School Canteen Food.md
-      - School Hours & Recess/.keep
-      - School Song.md
