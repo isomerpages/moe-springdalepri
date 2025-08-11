@@ -25,7 +25,7 @@ sections:
   - infopic:
       title: SDPS Corporate Video
       id: infopic
-      description: Experience life in our school
+      description: Experience life in our school!
       button: Watch video
       url: /
       image: /images/SDPS/Main/corporatevideo.png
