@@ -2,16 +2,16 @@ collections:
   general-information:
     output: true
     order:
+      - Springdale Pri School.md
+      - School Infoweb.md
+      - School Service Providers/.keep
       - School Service Providers/Student Care Centre.md
       - School Service Providers/School Canteen Advertisement.md
       - School Service Providers/School Canteen Food.md
       - School Service Providers/Service Providers.md
       - School Service Providers/Dental Service.md
-      - School Service Providers/.keep
-      - Springdale Pri School.md
-      - School Infoweb.md
-      - School Calendar.md
-      - Homework Policy.md
-      - School Rules and Regulations.md
       - School Hours & Recess.md
+      - School Calendar.md
+      - School Rules and Regulations.md
       - Holistic Assessment.md
+      - Homework Policy.md
