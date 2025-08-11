@@ -5,6 +5,8 @@ description: ""
 variant: tiptap
 third_nav_title: School Service Providers
 ---
+<h3>School Canteen Operators</h3>
+<p></p>
 <p>The school plays an integral role in providing an environment that ensures
 the students pick up healthy eating habits from young since they are likely
 to consume at least one meal daily in the canteen. As such, the school
