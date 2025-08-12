@@ -26,7 +26,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>65 6315 7600
+<p>+65 6315 7600
 <br>springdale_ps@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
