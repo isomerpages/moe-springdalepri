@@ -12,9 +12,9 @@ colors:
     - title: media-color-three
       color: "#004c97"
     - title: media-color-four
-      color: "#00838f"
+      color: "#48a23f"
     - title: media-color-five
-      color: "#00838f"
+      color: "#e87722"
 description: ""
 permalink: none
 baseurl: ""
