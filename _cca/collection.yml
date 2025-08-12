@@ -1,5 +1,5 @@
 collections:
-  cca2:
+  cca:
     output: true
     order:
       - Introduction.md
