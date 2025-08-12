@@ -2,8 +2,8 @@ collections:
   general-information:
     output: true
     order:
-      - Getting Here.md
       - Contact Us.md
+      - Getting Here.md
       - School Service Providers/.keep
       - School Service Providers/School Dental Service.md
       - School Service Providers/School Bookshop.md
