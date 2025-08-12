@@ -16,8 +16,3 @@ links:
     collection: partnership
   - title: MOE Kindergarten @ Springdale
     collection: moe-kindergarten-at-springdale
-  - title: Services2
-    url: /services
-    sublinks:
-      - title: Students
-        url: /services/students
