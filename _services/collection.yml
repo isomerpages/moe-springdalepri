@@ -1,4 +1,4 @@
 collections:
-  staff:
+  services:
     output: true
     order: []
