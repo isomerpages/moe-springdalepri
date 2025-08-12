@@ -10,7 +10,7 @@ locations:
       - Singapore 544799
     operating_hours:
       - days: Mon - Fri
-        time: 7.30am - 5.00pm
+        time: 7.30 a.m. - 5.00 p.m.
         description: Closed on Public Holidays
     maps_link: ""
     title: Springdale Primary School
