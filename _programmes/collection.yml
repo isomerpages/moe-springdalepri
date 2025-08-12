@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - MOE Sexuality Education.md
       - ChangeMaker Education (CMEd)/.keep
       - ChangeMaker Education (CMEd)/Learning for Life Programme (LLP).md
       - ChangeMaker Education (CMEd)/Applied Learning Programme (ALP).md
@@ -15,3 +14,4 @@ collections:
       - Immersion Programmes/.keep
       - Immersion Programmes/Learning Journeys.md
       - Immersion Programmes/Overseas Immersion Programme (OIP).md
+      - MOE Sexuality Education.md
