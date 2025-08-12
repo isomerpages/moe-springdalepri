@@ -2,7 +2,7 @@ collections:
   cca:
     output: true
     order:
-      - Introduction.md
+      - Overview.md
       - CCA Schedule.md
       - Clubs & Societies​/.keep
       - Clubs & Societies​/Art Club.md
