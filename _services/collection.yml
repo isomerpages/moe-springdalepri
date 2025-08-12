@@ -4,6 +4,7 @@ collections:
     order:
       - Students/.keep
       - Staff/.keep
+      - Parents/Parents Information & Resources.md
       - Parents/2025 Booklists.md
       - Parents/Student Personal Accident (GPA) Insurance.md
       - Parents/MOE Financial Assistance Scheme (FAS).md
