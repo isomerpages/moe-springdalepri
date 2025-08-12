@@ -2,13 +2,13 @@ collections:
   services:
     output: true
     order:
+      - Students/.keep
+      - Students/Home Based Learning (HBL).md
+      - Students/Student Learning Space (SLS).md
+      - Students/Login to SLS.md
       - Students/SLS Password Reset.md
       - Students/SLS Helpdesk.md
-      - Students/Login to SLS.md
-      - Students/Student Learning Space (SLS).md
-      - Students/Home Based Learning (HBL).md
       - Students/Student iCON (MIMS).md
-      - Students/.keep
       - Staff/.keep
       - Parents/Cyber Wellness Resources.md
       - Parents/Letter To Parents.md
