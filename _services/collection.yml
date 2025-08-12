@@ -2,6 +2,7 @@ collections:
   services:
     output: true
     order:
+      - Students/Student Learning Space (SLS).md
       - Students/Home Based Learning (HBL).md
       - Students/Student iCON (MIMS).md
       - Students/.keep
