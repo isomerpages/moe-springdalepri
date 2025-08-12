@@ -2,7 +2,7 @@
 layout: homepage
 title: Springdale Primary School
 description: Brief site description here
-image: /images/logo.png
+image: /images/SDPS/Main/sdps_crest.png
 permalink: /
 notification: ""
 sections:
