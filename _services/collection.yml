@@ -4,6 +4,7 @@ collections:
     order:
       - Students/.keep
       - Staff/.keep
+      - Parents/Letter To Parents.md
       - Parents/Travel Declaration.md
       - Parents/Parents Information & Resources.md
       - Parents/2025 Booklists.md
