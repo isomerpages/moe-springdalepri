@@ -4,6 +4,7 @@ collections:
     order:
       - Students/.keep
       - Staff/.keep
+      - Parents/Student Personal Accident (GPA) Insurance.md
       - Parents/MOE Financial Assistance Scheme (FAS).md
       - Parents/Sharing Slides For Seminars & Sharing In Springdale Pri Sch.md
       - Parents/Parenting Related Articles.md
