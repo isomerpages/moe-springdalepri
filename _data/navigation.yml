@@ -10,9 +10,9 @@ links:
     collection: departments
   - title: Cca
     collection: cca
+  - title: Services
+    collection: services
   - title: Partnership
     collection: partnership
-  - title: Services
-    url: Services
   - title: MOE Kindergarten @ Springdale
     collection: moe-kindergarten-at-springdale
