@@ -1,6 +1,6 @@
 title: Springdale Primary School
 url: https://www.springdalepri.moe.edu.sg
-favicon: /images/logo.png
+favicon: /images/SDPS/Main/sdps_crest.png
 colors:
   primary-color: "#004c97"
   secondary-color: "#48a23f"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.dt7wrnpr4bozp.amplifyapp.com
 prod: https://master.dt7wrnpr4bozp.amplifyapp.com
-shareicon: /images/logo.png
+shareicon: /images/SDPS/Main/sdps_crest.png
 is_government: true
 facebook-pixel: ""
 google_analytics: ""
