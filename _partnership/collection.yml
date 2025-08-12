@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Springdale Parent Support Group.md
-      - Home Based Learning (HBL).md
       - Student Learning Space/.keep
       - Student Learning Space/Student Learning Space (SLS).md
       - Student Learning Space/Login to SLS.md
