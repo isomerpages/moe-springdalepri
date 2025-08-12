@@ -2,5 +2,6 @@ collections:
   services:
     output: true
     order:
+      - Students/.keep
       - Staff/.keep
       - Parents/.keep
