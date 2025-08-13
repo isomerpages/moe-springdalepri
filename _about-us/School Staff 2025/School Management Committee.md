@@ -193,7 +193,7 @@ variant: tiptap
 <p>Ms Chan Shu Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Covering Subject Head (Student Well-Being)</p>
+<p>Subject Head (Student Well-Being)</p>
 </td>
 </tr>
 <tr>
@@ -225,7 +225,7 @@ variant: tiptap
 <p>Ms Diana Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Covering Assistant Year Head – P5</p>
+<p>Assistant Year Head – P5</p>
 </td>
 </tr>
 <tr>
