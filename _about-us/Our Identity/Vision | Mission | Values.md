@@ -6,7 +6,7 @@ third_nav_title: Our Identity
 variant: tiptap
 ---
 <h3>Our Vision</h3>
-<p>Confident Learner, Compassionate Changemaker</p>
+<p>Confident Learners, Compassionate Changemakers</p>
 <p></p>
 <h3>Our Mission</h3>
 <p>We nurture and inspire students through innovative, values-driven learning
