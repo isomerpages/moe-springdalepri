@@ -21,7 +21,7 @@ sections:
   - textcards:
       title: Springdale Primary School
       id: textcards
-      description: Confident Learner, Compassionate Changemaker
+      description: Confident Learners, Compassionate Changemakers
   - infopic:
       title: SDPS Corporate Video
       id: infopic
