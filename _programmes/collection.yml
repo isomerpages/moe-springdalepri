@@ -1,0 +1,17 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - ChangeMaker Education (CMEd)/.keep
+      - ChangeMaker Education (CMEd)/Learning for Life Programme (LLP).md
+      - ChangeMaker Education (CMEd)/Applied Learning Programme (ALP).md
+      - ChangeMaker Education (CMEd)/Innovation Programme (IvP).md
+      - Programme For Active Learning.md
+      - Talent Development/.keep
+      - Talent Development/Talent Development.md
+      - Educational Support/.keep
+      - Educational Support/Educational Support.md
+      - Immersion Programmes/.keep
+      - Immersion Programmes/Learning Journeys.md
+      - Immersion Programmes/Overseas Immersion Programme (OIP).md
+      - MOE Sexuality Education.md

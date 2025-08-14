@@ -1,0 +1,18 @@
+collections:
+  general-information:
+    output: true
+    order:
+      - Getting Here.md
+      - Contact Us.md
+      - School Hours & Recess.md
+      - School Calendar.md
+      - School Service Providers/.keep
+      - School Service Providers/School Dental Service.md
+      - School Service Providers/School Bookshop.md
+      - School Service Providers/School Bus.md
+      - School Service Providers/School Canteen Operators.md
+      - School Service Providers/Student Care Centre.md
+      - School Service Providers/School Uniform.md
+      - School Rules and Regulations.md
+      - Holistic Assessment.md
+      - Homework Policy.md

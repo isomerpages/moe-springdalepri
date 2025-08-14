@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - STEM Playground.md
       - Achievements/2024.md
       - Achievements/2023.md
       - Achievements/2022.md

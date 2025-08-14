@@ -1,0 +1,22 @@
+collections:
+  departments:
+    output: true
+    order:
+      - English Language.md
+      - Mother Tongue Language/.keep
+      - Mother Tongue Language/Chinese Language.md
+      - Mother Tongue Language/Malay Language.md
+      - Mother Tongue Language/Tamil Language.md
+      - Mathematics.md
+      - Science.md
+      - Physical & Health Education.md
+      - Aesthetics/.keep
+      - Aesthetics/Art.md
+      - Aesthetics/Music.md
+      - Character & Citizenship/.keep
+      - Character & Citizenship/Character & Citizenship Education.md
+      - Character & Citizenship/National Education and Social Studies.md
+      - Character & Citizenship/Values In Action.md
+      - Character & Citizenship/Education and Career Guidance.md
+      - Character & Citizenship/Student Well Being.md
+      - Educational Technology.md

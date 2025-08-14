@@ -1,0 +1,24 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Overview.md
+      - CCA Schedule.md
+      - Clubs & Societies​/.keep
+      - Clubs & Societies​/Art Club.md
+      - Clubs & Societies​/Green Club.md
+      - Clubs & Societies​/Inno Thinkers Club.md
+      - Clubs & Societies​/Media Club.md
+      - Physical Sports/.keep
+      - Physical Sports/Badminton.md
+      - Physical Sports/Basketball.md
+      - Physical Sports/Floorball.md
+      - Physical Sports/Gymnastics.md
+      - Physical Sports/Multi Sport.md
+      - Physical Sports/Outdoor Adventure.md
+      - Uniform Groups​/.keep
+      - Uniform Groups​/Scouts.md
+      - Performing Arts/.keep
+      - Performing Arts/Choir.md
+      - Performing Arts/International Dance.md
+      - Performing Arts/Ukulele.md

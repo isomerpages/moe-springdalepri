@@ -1,0 +1,7 @@
+collections:
+  terms-and-conditions:
+    output: true
+    order:
+      - Frequently Asked Questions.md
+      - terms-of-use.md
+      - privacy.md

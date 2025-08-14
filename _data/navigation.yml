@@ -1,16 +1,18 @@
-logo: /images/logo.png
+logo: /images/PS/Main/sdps_crest.png
 links:
   - title: About Us
     collection: about-us
-  - title: Parents Infoweb
-    collection: parents-infoweb
-  - title: Curriculum
-    collection: curriculum
-  - title: Co-Curriculum
-    collection: co-curriculum
-  - title: Contacts
-    collection: contacts
-  - title: News & Events
-    collection: news-and-events
+  - title: General Information
+    collection: general-information
+  - title: Programmes
+    collection: programmes
+  - title: Departments
+    collection: departments
+  - title: CCA
+    collection: cca
+  - title: Services
+    collection: services
+  - title: Partnership
+    collection: partnership
   - title: MOE Kindergarten @ Springdale
     collection: moe-kindergarten-at-springdale

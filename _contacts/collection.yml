@@ -1,9 +1,0 @@
-collections:
-  contacts:
-    output: true
-    order:
-      - Springdale Pri School.md
-      - Student Care Centre.md
-      - Dental Service.md
-      - Service Providers.md
-      - School Canteen Advertisement.md
